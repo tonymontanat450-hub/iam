@@ -1,0 +1,243 @@
+proxies:
+  - name: 'AnyTLS'
+    type: anytls
+    server: '178.105.126.242'
+    port: 443
+    password: 'e70ec0f2ab60e8c22b316156bf9ac43fec98b45be6681401'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-2'
+    type: anytls
+    server: '212.189.31.45'
+    port: 50000
+    password: '09cac7f2-2480-485f-affc-35aebdb21cb8'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-3'
+    type: anytls
+    server: '45.221.98.14'
+    port: 59901
+    password: 'dongtaiwang.com'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-4'
+    type: anytls
+    server: '56481.df6h451rh.xin'
+    port: 443
+    password: '0324fbc29561'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-5'
+    type: anytls
+    server: '654968169.df6h451rh.xin'
+    port: 443
+    password: '0324fbc29561'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-6'
+    type: anytls
+    server: '6ivh.pnuqcnp.cn'
+    port: 443
+    password: '9sK2mP8xQ7vL3nZ6'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-7'
+    type: anytls
+    server: 'ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn'
+    port: 443
+    password: '9sK2mP8xQ7vL3nZ6'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-8'
+    type: anytls
+    server: 'api.meituan88.com'
+    port: 7008
+    password: 'dCwrni'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-9'
+    type: anytls
+    server: 'awefd2313fefarg23fr24.pnuqcnp.cn'
+    port: 443
+    password: '9sK2mP8xQ7vL3nZ6'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-10'
+    type: anytls
+    server: 'gs.85s.me'
+    port: 443
+    password: '9ffb5305-3bab-44cb-aafa-e0e3991fdf6b'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-11'
+    type: anytls
+    server: 'iijjp.mggl.wang'
+    port: 35791
+    password: '9e98496a-0036-4cc6-8302-3929c29ba772'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-12'
+    type: anytls
+    server: 'ip5.934618.xyz'
+    port: 23550
+    password: 'dongtaiwang.com'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-13'
+    type: anytls
+    server: 'jpat.85s.me'
+    port: 443
+    password: '9ffb5305-3bab-44cb-aafa-e0e3991fdf6b'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-14'
+    type: anytls
+    server: 'sdf65h46wr.df6h451rh.xin'
+    port: 443
+    password: '0324fbc29561'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-15'
+    type: anytls
+    server: 'sivp666.ipad1el.com'
+    port: 60572
+    password: '13f0acfa-38c1-4e82-a758-583aa31740df'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-16'
+    type: anytls
+    server: 'svip.skycon808.com'
+    port: 47531
+    password: '87c6ad7b-e450-44a8-8088-bc2234d43de1'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-17'
+    type: anytls
+    server: 'svip.skycon808.com'
+    port: 60005
+    password: '13f0acfa-38c1-4e82-a758-583aa31740df'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-18'
+    type: anytls
+    server: 'tw.85s.me'
+    port: 443
+    password: '9ffb5305-3bab-44cb-aafa-e0e3991fdf6b'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-19'
+    type: anytls
+    server: 'us13.vipjiedian.sbs'
+    port: 21333
+    password: '2d7bda32-a8b5-4416-a1ea-4559ff98f86e'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-20'
+    type: anytls
+    server: 'us4837.85s.me'
+    port: 443
+    password: '9ffb5305-3bab-44cb-aafa-e0e3991fdf6b'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'AnyTLS-21'
+    type: anytls
+    server: 'user01.godvpn.lol'
+    port: 12686
+    password: 'db62309c-486a-4fd5-abc4-4e91ac495d38'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - 'AnyTLS'
+      - 'AnyTLS-2'
+      - 'AnyTLS-3'
+      - 'AnyTLS-4'
+      - 'AnyTLS-5'
+      - 'AnyTLS-6'
+      - 'AnyTLS-7'
+      - 'AnyTLS-8'
+      - 'AnyTLS-9'
+      - 'AnyTLS-10'
+      - 'AnyTLS-11'
+      - 'AnyTLS-12'
+      - 'AnyTLS-13'
+      - 'AnyTLS-14'
+      - 'AnyTLS-15'
+      - 'AnyTLS-16'
+      - 'AnyTLS-17'
+      - 'AnyTLS-18'
+      - 'AnyTLS-19'
+      - 'AnyTLS-20'
+      - 'AnyTLS-21'
+
+rules:
+  - MATCH,Auto-Select
