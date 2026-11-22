@@ -294,7 +294,7 @@ proxies:
     skip-cert-verify: true
     sni: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | BB2FE8'
+  - name: 'SG 🇸🇬 | @Raydikalx | E9C28A'
     type: trojan
     server: '15.235.184.127'
     port: 443
@@ -12386,7 +12386,7 @@ proxy-groups:
       - 'GB 🇬🇧 | @Raydikalx | A0C0B8'
       - 'ZA 🇿🇦 | @Raydikalx | 552A70'
       - 'SG 🇸🇬 | @Raydikalx | E75317'
-      - 'SG 🇸🇬 | @Raydikalx | BB2FE8'
+      - 'SG 🇸🇬 | @Raydikalx | E9C28A'
       - 'KR 🇰🇷 | @Raydikalx | 75B776'
       - 'JP 🇯🇵 | @Raydikalx | 93578B'
       - 'US 🇺🇸 | @Raydikalx | D36BFB'
