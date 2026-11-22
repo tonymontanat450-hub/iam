@@ -1,4 +1,18 @@
 proxies:
+  - name: 'LT 🇱🇹 | @Raydikalx | 54DFAC'
+    type: vless
+    server: 'pix.gilangard.ir'
+    port: 8443
+    uuid: '01451834-cbc3-4891-b34c-9c35aae6ea99'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+
   - name: 'FR 🇫🇷 | @Raydikalx | DAD601'
     type: vless
     server: 'fr-tx.sbrf-cdn342.ru'
@@ -8,21 +22,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'Global 🌐 | @Raydikalx | 794B01'
-    type: vless
-    server: 'nl-tx.sbrf-cdn342.ru'
-    port: 443
-    uuid: '01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
+    servername: 'www.flaticon.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | A487A5'
     type: vless
@@ -32,7 +32,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | BA3B04'
@@ -43,7 +43,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | B95E69'
     type: vless
@@ -53,7 +53,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 2EBD47'
     type: vless
@@ -63,7 +63,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 42E793'
     type: vless
@@ -73,9 +73,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 60EC2D'
+  - name: 'US 🇺🇸 | @Raydikalx | EDDBD6'
     type: vless
     server: 'kuruish.org'
     port: 443
@@ -83,7 +83,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 632C57'
     type: vless
@@ -94,7 +94,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -108,7 +108,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -124,8 +124,30 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | CEEEA1'
+    type: vless
+    server: 'mx.bexumconnect.ltd'
+    port: 443
+    uuid: '1e06c388-d31c-420e-916a-94a990648e34'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'qq'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | E90676'
+    type: vless
+    server: '168.113.254.183'
+    port: 443
+    uuid: '1fdf4166-499a-0001-af1d-5bb01e5805fb'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
 
   - name: 'Global 🌐 | @Raydikalx | 893805'
     type: vless
@@ -137,7 +159,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8E8BDC'
@@ -149,7 +171,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -165,19 +187,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
-
-  - name: 'Global 🌐 | @Raydikalx | 6E94F6'
-    type: vless
-    server: 'leviko-nl8431.shopingggg.ir'
-    port: 8443
-    uuid: '24fb9b5b-43b7-4058-a7e5-a0499ada1fda'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 976F77'
@@ -189,7 +199,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | C4DE22'
     type: vless
@@ -200,7 +210,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | B371A2'
@@ -212,7 +222,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'SG 🇸🇬 | @Raydikalx | E82F55'
@@ -224,8 +234,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'www.flaticon.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 1704A4'
     type: vless
@@ -236,7 +245,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 1BDEAE'
@@ -248,7 +257,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -263,7 +272,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'IR 🇮🇷 | @Raydikalx | E3DE4B'
@@ -274,7 +283,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 1FADB7'
@@ -285,7 +294,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 825A48'
@@ -296,7 +305,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RO 🇷🇴 | @Raydikalx | 069D93'
@@ -308,7 +317,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
     packet-encoding: 'xudp'
 
@@ -321,7 +330,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -335,7 +344,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 7C7E2B'
     type: vless
@@ -346,7 +355,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | D34766'
@@ -358,7 +367,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 338F7E'
@@ -370,7 +379,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 8E45CE'
@@ -382,7 +391,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 0F4780'
@@ -394,7 +403,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | F94B50'
@@ -406,7 +415,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'EE 🇪🇪 | @Raydikalx | 6794EC'
@@ -418,7 +427,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 781F06'
@@ -430,7 +439,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | CE54DB'
     type: vless
@@ -441,7 +450,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'Global 🌐 | @Raydikalx | 1EB7E3'
@@ -454,7 +463,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 2CCA03'
@@ -467,7 +476,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | CD4F29'
@@ -478,20 +487,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 5223F4'
-    type: vless
-    server: 'hiweb.my.id'
-    port: 443
-    uuid: '3b6a63bc-26b8-4e74-ae1f-ef14b9b6a738'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'http/1.1'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 6F74B8'
@@ -503,7 +499,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'FI 🇫🇮 | @Raydikalx | AA64C8'
@@ -515,8 +511,19 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 3AEC24'
+    type: vless
+    server: 'de777.lavivas.org'
+    port: 7444
+    uuid: '44e1105d-b46e-402f-933b-eaa136fcbb24'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 23A67F'
     type: vless
@@ -526,8 +533,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | D4B32E'
     type: vless
@@ -538,23 +545,22 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | C0951B'
+  - name: 'DE 🇩🇪 | @Raydikalx | E14278'
     type: vless
-    server: 'mhzedir.qzz.io'
-    port: 2059
-    uuid: '4fd80dc2-8d73-45fa-839e-c1ad2875c752'
+    server: '91.107.154.192'
+    port: 443
+    uuid: '50788032-0e47-4c3d-97e7-513563f526b8'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'www.flaticon.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 2A9AB4'
     type: vless
@@ -565,7 +571,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 6FD090'
@@ -577,7 +583,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | DB4BC5'
     type: vless
@@ -588,7 +594,63 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 145A72'
+    type: vless
+    server: 'main.ig-panel.ir'
+    port: 1014
+    uuid: '52e64518-e459-4826-9f31-566a991a2962'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 8DFA12'
+    type: vless
+    server: 'main.ig-panel.ir'
+    port: 1015
+    uuid: '52e64518-e459-4826-9f31-566a991a2962'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | C276CF'
+    type: vless
+    server: 'main.ig-panel.ir'
+    port: 1016
+    uuid: '52e64518-e459-4826-9f31-566a991a2962'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 459431'
+    type: vless
+    server: 'main.ig-panel.ir'
+    port: 1022
+    uuid: '52e64518-e459-4826-9f31-566a991a2962'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 86B09D'
@@ -599,10 +661,20 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 616692'
+    type: vless
+    server: '168.113.253.178'
+    port: 443
+    uuid: '58708e38-dd5a-0001-902d-93621ee2bd83'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A35392'
     type: vless
@@ -613,7 +685,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -628,7 +700,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -643,7 +715,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -658,17 +730,121 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
-  - name: 'FI 🇫🇮 | @Raydikalx | 2C6F8E'
+  - name: 'RU 🇷🇺 | @Raydikalx | C8DDFA'
     type: vless
-    server: '65.109.208.183'
+    server: 'cdn19.sharfvpn.top'
     port: 443
-    uuid: '5f07a2a1-82a5-494d-847b-b882e6903192'
+    uuid: '5dd429fa-3fa6-44d0-bce6-01b84ce846f1'
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 20D176'
+    type: vless
+    server: 'static.66.192.105.178.clients.your-server.de.SavFasF.Ir'
+    port: 443
+    uuid: '60054261-299d-40ac-8b82-b76c29cb2d56'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | DDF1AE'
+    type: vless
+    server: 'static.122.183.105.178.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | BE0BFC'
+    type: vless
+    server: 'static.167.125.29.2.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | B8CB18'
+    type: vless
+    server: 'static.229.163.46.78.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | CED9BD'
+    type: vless
+    server: 'static.29.209.99.91.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | F89628'
+    type: vless
+    server: 'static.40.68.12.49.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | ED4AD7'
+    type: vless
+    server: 'static.44.128.217.95.clients.your-server.de'
+    port: 8443
+    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 94D132'
@@ -679,7 +855,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'qq'
 
   - name: 'FR 🇫🇷 | @Raydikalx | B2A3C6'
@@ -690,7 +866,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'qq'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 8AFCCF'
@@ -701,7 +877,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -714,7 +890,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 6AC1C8'
@@ -725,20 +901,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'http/1.1'
-
-  - name: 'Global 🌐 | @Raydikalx | F98BAF'
-    type: vless
-    server: 'leviko-ir8296.shopingggg.ir'
-    port: 443
-    uuid: '667016ca-f02e-4b5f-bfc3-3d8ed81e9bec'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 4FFAF6'
     type: vless
@@ -748,7 +913,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | DCA879'
@@ -759,7 +924,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | D0227D'
@@ -771,32 +936,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 940BFE'
-    type: vless
-    server: '81.163.22.109'
-    port: 443
-    uuid: '6b70d4ce-4bea-0001-a343-b852a792e69b'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'SE 🇸🇪 | @Raydikalx | A29309'
-    type: vless
-    server: '194.104.94.141'
-    port: 443
-    uuid: '6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -810,11 +950,22 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 9BACCD'
+    type: vless
+    server: '176.108.244.162'
+    port: 443
+    uuid: '6f1afd5d-9613-0001-b884-b52389da00c2'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'firefox'
 
   - name: 'CA 🇨🇦 | @Raydikalx | C2FC67'
     type: vless
@@ -824,7 +975,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 25DD97'
     type: vless
@@ -834,7 +985,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | A3B608'
@@ -845,7 +996,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 04B967'
@@ -856,7 +1007,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'JP 🇯🇵 | @Raydikalx | D2F30C'
@@ -868,7 +1019,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | D90536'
@@ -880,8 +1031,21 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 972897'
+    type: vless
+    server: 'sv.fn.clients.fimrel.ir'
+    port: 29086
+    uuid: '748fd766-274b-4026-8bfe-034ed4ffe58f'
+    flow: 'xtls-rprx-vision'
+    encryption: 'mlkem768x25519plus.native.0rtt.9ifdcMCsJ-bMvc9ealWuadeq1_iASTHy8hetUix-nTM'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 05FC7D'
     type: vless
@@ -892,52 +1056,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 0765FD'
-    type: vless
-    server: 'sevira.helpower.ir'
-    port: 9445
-    uuid: '78135704-67f9-4586-8ffd-d1fe541b3c6d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 15375C'
-    type: vless
-    server: 'tunir.helpower.ir'
-    port: 9443
-    uuid: '78135704-67f9-4586-8ffd-d1fe541b3c6d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 04B21F'
-    type: vless
-    server: 'tunir.helpower.ir'
-    port: 9444
-    uuid: '78135704-67f9-4586-8ffd-d1fe541b3c6d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | B29884'
@@ -949,7 +1068,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -963,7 +1082,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | DF2F68'
@@ -975,9 +1094,42 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
+    client-fingerprint: 'chrome'
+
+  - name: 'GB 🇬🇧 | @Raydikalx | F8107E'
+    type: vless
+    server: '109.176.229.61'
+    port: 443
+    uuid: '849e5ed7-90da-487e-a044-c9052563895c'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 827FC1'
+    type: vless
+    server: 'fl.sorixset.ir'
+    port: 443
+    uuid: '849e5ed7-90da-487e-a044-c9052563895c'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | CC65C1'
+    type: vless
+    server: 'hz1.sorixset.ir'
+    port: 443
+    uuid: '849e5ed7-90da-487e-a044-c9052563895c'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | C355BB'
@@ -988,7 +1140,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1003,7 +1155,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | A53FA8'
@@ -1015,7 +1167,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 98AABE'
@@ -1026,7 +1178,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 487DCC'
@@ -1038,7 +1190,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1052,7 +1204,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | F1D28B'
     type: vless
@@ -1062,8 +1214,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'ios'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 8D7803'
     type: vless
@@ -1073,9 +1225,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 092FF3'
+  - name: 'DE 🇩🇪 | @Raydikalx | 092FF3'
     type: vless
     server: 'cdn7-39.vk-cdnvideo.com'
     port: 8443
@@ -1083,7 +1235,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 94DC7B'
     type: vless
@@ -1094,8 +1246,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
+    packet-encoding: 'xudp'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 5C3824'
     type: vless
@@ -1105,7 +1258,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 7A6EC9'
@@ -1118,7 +1271,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | E12F5E'
@@ -1129,7 +1282,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'EE 🇪🇪 | @Raydikalx | 49465F'
@@ -1140,7 +1293,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus'
 
@@ -1153,7 +1306,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 271196'
     type: vless
@@ -1164,7 +1317,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'CH 🇨🇭 | @Raydikalx | A19323'
@@ -1175,7 +1328,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | BA259B'
@@ -1187,31 +1340,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | D76B00'
-    type: vless
-    server: '85.119.147.10'
-    port: 2443
-    uuid: 'a60777ef-1a2e-429b-a45e-97c81492b4d8'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'qq'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | A1A66A'
-    type: vless
-    server: '217.60.12.99'
-    port: 443
-    uuid: 'a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'www.flaticon.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 752B88'
     type: vless
@@ -1222,19 +1351,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 796F43'
-    type: vless
-    server: '157.228.172.4'
-    port: 8443
-    uuid: 'aa983622-bffd-4313-b4d1-bf0e1b7b6ad8'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 2506E9'
     type: vless
@@ -1245,7 +1363,68 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'qq'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 602B53'
+    type: vless
+    server: '185.233.131.236'
+    port: 443
+    uuid: 'b9f5a731-ad7c-4185-9d86-89a4a043961d'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 22947C'
+    type: vless
+    server: 'sevira.helpower.ir'
+    port: 8445
+    uuid: 'ba1bb361-3aa6-44aa-9562-1f9124f54a43'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 5E1D87'
+    type: vless
+    server: 'tunir.helpower.ir'
+    port: 8443
+    uuid: 'ba1bb361-3aa6-44aa-9562-1f9124f54a43'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 3B6710'
+    type: vless
+    server: 'tunir.helpower.ir'
+    port: 8444
+    uuid: 'ba1bb361-3aa6-44aa-9562-1f9124f54a43'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | B31423'
@@ -1257,7 +1436,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1271,7 +1450,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 602592'
     type: vless
@@ -1281,7 +1460,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1294,7 +1473,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1309,7 +1488,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1323,7 +1502,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1337,8 +1516,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'www.flaticon.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | B0E48E'
     type: vless
@@ -1348,7 +1526,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 2AFF3F'
@@ -1360,7 +1538,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1375,7 +1553,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1390,7 +1568,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1404,7 +1582,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'GB 🇬🇧 | @Raydikalx | F13147'
@@ -1415,7 +1593,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 4BA461'
@@ -1426,21 +1604,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 95B4F2'
-    type: vless
-    server: '176.108.240.182'
-    port: 443
-    uuid: 'c18e2990-6029-0001-8429-a8466a715271'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | CE445B'
     type: vless
@@ -1450,61 +1618,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | C8A6C8'
-    type: vless
-    server: '78e7eeceeae8a446.web.vipercloud.ir'
-    port: 15100
-    uuid: 'c224a3cc-e575-4212-9e4f-d85ec9f2085d'
-    flow: 'xtls-rprx-vision'
-    encryption: 'mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 072B20'
-    type: vless
-    server: '7e0211a7eea38e14.web.vipercloud.ir'
-    port: 40289
-    uuid: 'c224a3cc-e575-4212-9e4f-d85ec9f2085d'
-    flow: 'xtls-rprx-vision'
-    encryption: 'mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | C7AD0B'
-    type: vless
-    server: 'e3329228ecafbef8.web.vipercloud.ir'
-    port: 40287
-    uuid: 'c224a3cc-e575-4212-9e4f-d85ec9f2085d'
-    flow: 'xtls-rprx-vision'
-    encryption: 'mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'SG 🇸🇬 | @Raydikalx | FCE4D6'
-    type: vless
-    server: '140.245.62.225'
-    port: 36442
-    uuid: 'c6624b96-e346-490b-9145-74c2543a9483'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'SG 🇸🇬 | @Raydikalx | D131DE'
@@ -1516,7 +1633,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 95ADA7'
@@ -1528,7 +1645,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | E429A3'
     type: vless
@@ -1539,7 +1656,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 5813A9'
@@ -1551,7 +1668,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1565,7 +1682,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1579,7 +1696,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1593,7 +1710,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'Global 🌐 | @Raydikalx | E771C9'
@@ -1606,19 +1723,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 1B1F5F'
-    type: vless
-    server: '168.113.254.183'
-    port: 443
-    uuid: 'd55c6261-bc30-0001-8cae-fe82530e4c34'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'edge'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F2347D'
     type: vless
@@ -1629,35 +1735,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | DD87DB'
-    type: vless
-    server: '188.225.57.150'
-    port: 443
-    uuid: 'd8275e29-e946-4a48-bec6-4402bea6c399'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'http/1.1'
-    client-fingerprint: 'firefox'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | BCDE6F'
-    type: vless
-    server: 'd-vrutw-don.vktunnel.com'
-    port: 443
-    uuid: 'd8275e29-e946-4a48-bec6-4402bea6c399'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'http/1.1'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | B7B166'
@@ -1669,22 +1747,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 51B040'
-    type: vless
-    server: '48.102.209.71'
-    port: 443
-    uuid: 'dfe50e18-28ce-459e-a6b9-0f2585bcc3b6'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 217F8E'
@@ -1696,42 +1762,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 0EF300'
-    type: vless
-    server: 'ee.point.cookie-line.cc'
-    port: 443
-    uuid: 'dfe50e18-28ce-459e-a6b9-0f2585bcc3b6'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 6F4252'
-    type: vless
-    server: 'nl.point.cookie-line.cc'
-    port: 443
-    uuid: 'dfe50e18-28ce-459e-a6b9-0f2585bcc3b6'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | D823AF'
-    type: vless
-    server: 'tun2.shahrah.top'
-    port: 2444
-    uuid: 'e35f4c42-ddee-4add-a6a9-f6e395928c99'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 348810'
@@ -1742,7 +1773,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 2C8B11'
@@ -1754,7 +1785,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 9EC19A'
@@ -1766,7 +1797,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1781,7 +1812,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 0D9E44'
@@ -1793,7 +1824,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 7FA53F'
@@ -1805,7 +1836,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1819,7 +1850,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 163D6B'
     type: vless
@@ -1830,7 +1861,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1843,19 +1874,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
-
-  - name: 'MX 🇲🇽 | @Raydikalx | E482C0'
-    type: vless
-    server: 'mx001.zestapp778.com'
-    port: 19167
-    uuid: 'e9a8144e-5237-488a-afb1-9ca3d8d54c80'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 5AF690'
     type: vless
@@ -1865,7 +1885,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | F38B0C'
@@ -1877,7 +1897,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 5B3531'
     type: vless
@@ -1887,7 +1907,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1900,7 +1920,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 19E126'
     type: vless
@@ -1911,7 +1931,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 196378'
     type: vless
@@ -1921,7 +1941,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 90BBC3'
     type: vless
@@ -1932,7 +1952,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1946,7 +1966,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 76CB5C'
@@ -1958,7 +1978,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 4848C0'
@@ -1970,7 +1990,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 2ADD96'
@@ -1982,7 +2002,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 7767BB'
@@ -1993,7 +2013,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2008,7 +2028,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 0EE392'
@@ -2020,7 +2040,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 9CFCC6'
@@ -2032,7 +2052,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'safari'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 93D251'
@@ -2044,8 +2064,20 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 39A09F'
+    type: vless
+    server: '191.217.215.186'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
 
   - name: 'SE 🇸🇪 | @Raydikalx | C17047'
     type: vless
@@ -2056,7 +2088,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'SE 🇸🇪 | @Raydikalx | 311BE7'
@@ -2068,7 +2100,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'firefox'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 14AADD'
@@ -2080,7 +2112,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'SE 🇸🇪 | @Raydikalx | E8B157'
@@ -2092,7 +2124,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F1F544'
@@ -2104,8 +2136,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'www.flaticon.com'
+    client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | A572DB'
     type: vless
@@ -2116,7 +2148,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 0AAE40'
@@ -2128,19 +2160,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'Global 🌐 | @Raydikalx | 2E30FC'
-    type: vless
-    server: 'leviko-de3464.shopingggg.ir'
-    port: 443
-    uuid: 'fdc6b770-0b62-4a4f-a369-885e390dbca3'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'www.flaticon.com'
     client-fingerprint: 'chrome'
 
 
@@ -2151,21 +2171,22 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
+      - 'LT 🇱🇹 | @Raydikalx | 54DFAC'
       - 'FR 🇫🇷 | @Raydikalx | DAD601'
-      - 'Global 🌐 | @Raydikalx | 794B01'
       - 'IR 🇮🇷 | @Raydikalx | A487A5'
       - 'US 🇺🇸 | @Raydikalx | BA3B04'
       - 'CA 🇨🇦 | @Raydikalx | B95E69'
       - 'ES 🇪🇸 | @Raydikalx | 2EBD47'
       - 'JP 🇯🇵 | @Raydikalx | 42E793'
-      - 'US 🇺🇸 | @Raydikalx | 60EC2D'
+      - 'US 🇺🇸 | @Raydikalx | EDDBD6'
       - 'DE 🇩🇪 | @Raydikalx | 632C57'
       - 'TR 🇹🇷 | @Raydikalx | 2C76E3'
       - 'Global 🌐 | @Raydikalx | 900555'
+      - 'RU 🇷🇺 | @Raydikalx | CEEEA1'
+      - 'RU 🇷🇺 | @Raydikalx | E90676'
       - 'Global 🌐 | @Raydikalx | 893805'
       - 'NL 🇳🇱 | @Raydikalx | 8E8BDC'
       - 'NL 🇳🇱 | @Raydikalx | FA5292'
-      - 'Global 🌐 | @Raydikalx | 6E94F6'
       - 'NL 🇳🇱 | @Raydikalx | 976F77'
       - 'NL 🇳🇱 | @Raydikalx | C4DE22'
       - 'NL 🇳🇱 | @Raydikalx | B371A2'
@@ -2191,46 +2212,57 @@ proxy-groups:
       - 'Global 🌐 | @Raydikalx | 1EB7E3'
       - 'Global 🌐 | @Raydikalx | 2CCA03'
       - 'DE 🇩🇪 | @Raydikalx | CD4F29'
-      - 'DE 🇩🇪 | @Raydikalx | 5223F4'
       - 'JP 🇯🇵 | @Raydikalx | 6F74B8'
       - 'FI 🇫🇮 | @Raydikalx | AA64C8'
+      - 'DE 🇩🇪 | @Raydikalx | 3AEC24'
       - 'DE 🇩🇪 | @Raydikalx | 23A67F'
       - 'US 🇺🇸 | @Raydikalx | D4B32E'
-      - 'DE 🇩🇪 | @Raydikalx | C0951B'
+      - 'DE 🇩🇪 | @Raydikalx | E14278'
       - 'JP 🇯🇵 | @Raydikalx | 2A9AB4'
       - 'SG 🇸🇬 | @Raydikalx | 6FD090'
       - 'SG 🇸🇬 | @Raydikalx | DB4BC5'
+      - 'NL 🇳🇱 | @Raydikalx | 145A72'
+      - 'NL 🇳🇱 | @Raydikalx | 8DFA12'
+      - 'NL 🇳🇱 | @Raydikalx | C276CF'
+      - 'NL 🇳🇱 | @Raydikalx | 459431'
       - 'FR 🇫🇷 | @Raydikalx | 86B09D'
+      - 'RU 🇷🇺 | @Raydikalx | 616692'
       - 'US 🇺🇸 | @Raydikalx | A35392'
       - 'FR 🇫🇷 | @Raydikalx | C51631'
       - 'FR 🇫🇷 | @Raydikalx | FAEFDF'
       - 'NL 🇳🇱 | @Raydikalx | 53CCA0'
-      - 'FI 🇫🇮 | @Raydikalx | 2C6F8E'
+      - 'RU 🇷🇺 | @Raydikalx | C8DDFA'
+      - 'DE 🇩🇪 | @Raydikalx | 20D176'
+      - 'DE 🇩🇪 | @Raydikalx | DDF1AE'
+      - 'FI 🇫🇮 | @Raydikalx | BE0BFC'
+      - 'DE 🇩🇪 | @Raydikalx | B8CB18'
+      - 'DE 🇩🇪 | @Raydikalx | CED9BD'
+      - 'DE 🇩🇪 | @Raydikalx | F89628'
+      - 'FI 🇫🇮 | @Raydikalx | ED4AD7'
       - 'FR 🇫🇷 | @Raydikalx | 94D132'
       - 'FR 🇫🇷 | @Raydikalx | B2A3C6'
       - 'IR 🇮🇷 | @Raydikalx | 8AFCCF'
       - 'NL 🇳🇱 | @Raydikalx | 935DB3'
       - 'IR 🇮🇷 | @Raydikalx | 6AC1C8'
-      - 'Global 🌐 | @Raydikalx | F98BAF'
       - 'Global 🌐 | @Raydikalx | 4FFAF6'
       - 'TR 🇹🇷 | @Raydikalx | DCA879'
       - 'NL 🇳🇱 | @Raydikalx | D0227D'
-      - 'RU 🇷🇺 | @Raydikalx | 940BFE'
-      - 'SE 🇸🇪 | @Raydikalx | A29309'
       - 'SE 🇸🇪 | @Raydikalx | E40D7A'
+      - 'RU 🇷🇺 | @Raydikalx | 9BACCD'
       - 'CA 🇨🇦 | @Raydikalx | C2FC67'
       - 'RU 🇷🇺 | @Raydikalx | 25DD97'
       - 'RU 🇷🇺 | @Raydikalx | A3B608'
       - 'RU 🇷🇺 | @Raydikalx | 04B967'
       - 'JP 🇯🇵 | @Raydikalx | D2F30C'
       - 'RU 🇷🇺 | @Raydikalx | D90536'
+      - 'FI 🇫🇮 | @Raydikalx | 972897'
       - 'DE 🇩🇪 | @Raydikalx | 05FC7D'
-      - 'IR 🇮🇷 | @Raydikalx | 0765FD'
-      - 'IR 🇮🇷 | @Raydikalx | 15375C'
-      - 'IR 🇮🇷 | @Raydikalx | 04B21F'
       - 'RU 🇷🇺 | @Raydikalx | B29884'
       - 'FR 🇫🇷 | @Raydikalx | 063638'
       - 'TR 🇹🇷 | @Raydikalx | DF2F68'
+      - 'GB 🇬🇧 | @Raydikalx | F8107E'
+      - 'FI 🇫🇮 | @Raydikalx | 827FC1'
+      - 'DE 🇩🇪 | @Raydikalx | CC65C1'
       - 'US 🇺🇸 | @Raydikalx | C355BB'
       - 'DE 🇩🇪 | @Raydikalx | 3F73CB'
       - 'FI 🇫🇮 | @Raydikalx | A53FA8'
@@ -2239,7 +2271,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 93B937'
       - 'RU 🇷🇺 | @Raydikalx | F1D28B'
       - 'DE 🇩🇪 | @Raydikalx | 8D7803'
-      - 'NL 🇳🇱 | @Raydikalx | 092FF3'
+      - 'DE 🇩🇪 | @Raydikalx | 092FF3'
       - 'HK 🇭🇰 | @Raydikalx | 94DC7B'
       - 'DE 🇩🇪 | @Raydikalx | 5C3824'
       - 'IR 🇮🇷 | @Raydikalx | 7A6EC9'
@@ -2249,11 +2281,12 @@ proxy-groups:
       - 'JP 🇯🇵 | @Raydikalx | 271196'
       - 'CH 🇨🇭 | @Raydikalx | A19323'
       - 'Global 🌐 | @Raydikalx | BA259B'
-      - 'RU 🇷🇺 | @Raydikalx | D76B00'
-      - 'DE 🇩🇪 | @Raydikalx | A1A66A'
       - 'FR 🇫🇷 | @Raydikalx | 752B88'
-      - 'FI 🇫🇮 | @Raydikalx | 796F43'
       - 'SG 🇸🇬 | @Raydikalx | 2506E9'
+      - 'IR 🇮🇷 | @Raydikalx | 602B53'
+      - 'IR 🇮🇷 | @Raydikalx | 22947C'
+      - 'IR 🇮🇷 | @Raydikalx | 5E1D87'
+      - 'IR 🇮🇷 | @Raydikalx | 3B6710'
       - 'DE 🇩🇪 | @Raydikalx | B31423'
       - 'DE 🇩🇪 | @Raydikalx | 9515BA'
       - 'DE 🇩🇪 | @Raydikalx | 602592'
@@ -2268,12 +2301,7 @@ proxy-groups:
       - 'GB 🇬🇧 | @Raydikalx | 7A6A9C'
       - 'GB 🇬🇧 | @Raydikalx | F13147'
       - 'GB 🇬🇧 | @Raydikalx | 4BA461'
-      - 'RU 🇷🇺 | @Raydikalx | 95B4F2'
       - 'Global 🌐 | @Raydikalx | CE445B'
-      - 'IR 🇮🇷 | @Raydikalx | C8A6C8'
-      - 'IR 🇮🇷 | @Raydikalx | 072B20'
-      - 'IR 🇮🇷 | @Raydikalx | C7AD0B'
-      - 'SG 🇸🇬 | @Raydikalx | FCE4D6'
       - 'SG 🇸🇬 | @Raydikalx | D131DE'
       - 'Global 🌐 | @Raydikalx | 95ADA7'
       - 'DE 🇩🇪 | @Raydikalx | E429A3'
@@ -2282,16 +2310,9 @@ proxy-groups:
       - 'PL 🇵🇱 | @Raydikalx | 5331F9'
       - 'KZ 🇰🇿 | @Raydikalx | BBE89A'
       - 'Global 🌐 | @Raydikalx | E771C9'
-      - 'RU 🇷🇺 | @Raydikalx | 1B1F5F'
       - 'DE 🇩🇪 | @Raydikalx | F2347D'
-      - 'RU 🇷🇺 | @Raydikalx | DD87DB'
-      - 'RU 🇷🇺 | @Raydikalx | BCDE6F'
       - 'DE 🇩🇪 | @Raydikalx | B7B166'
-      - 'US 🇺🇸 | @Raydikalx | 51B040'
       - 'NL 🇳🇱 | @Raydikalx | 217F8E'
-      - 'US 🇺🇸 | @Raydikalx | 0EF300'
-      - 'NL 🇳🇱 | @Raydikalx | 6F4252'
-      - 'IR 🇮🇷 | @Raydikalx | D823AF'
       - 'IR 🇮🇷 | @Raydikalx | 348810'
       - 'DE 🇩🇪 | @Raydikalx | 2C8B11'
       - 'RU 🇷🇺 | @Raydikalx | 9EC19A'
@@ -2301,7 +2322,6 @@ proxy-groups:
       - 'FR 🇫🇷 | @Raydikalx | 11ADCC'
       - 'FR 🇫🇷 | @Raydikalx | 163D6B'
       - 'US 🇺🇸 | @Raydikalx | BB2350'
-      - 'MX 🇲🇽 | @Raydikalx | E482C0'
       - 'IR 🇮🇷 | @Raydikalx | 5AF690'
       - 'Global 🌐 | @Raydikalx | F38B0C'
       - 'NL 🇳🇱 | @Raydikalx | 5B3531'
@@ -2318,6 +2338,7 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | 0EE392'
       - 'DE 🇩🇪 | @Raydikalx | 9CFCC6'
       - 'DE 🇩🇪 | @Raydikalx | 93D251'
+      - 'RU 🇷🇺 | @Raydikalx | 39A09F'
       - 'SE 🇸🇪 | @Raydikalx | C17047'
       - 'SE 🇸🇪 | @Raydikalx | 311BE7'
       - 'PL 🇵🇱 | @Raydikalx | 14AADD'
@@ -2325,7 +2346,6 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | F1F544'
       - 'DE 🇩🇪 | @Raydikalx | A572DB'
       - 'Global 🌐 | @Raydikalx | 0AAE40'
-      - 'Global 🌐 | @Raydikalx | 2E30FC'
 
 rules:
   - MATCH,Auto-Select
