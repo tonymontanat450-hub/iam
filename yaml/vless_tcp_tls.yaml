@@ -235,6 +235,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 1704A4'
     type: vless
@@ -490,6 +491,18 @@ proxies:
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'chrome'
 
+  - name: 'HK 🇭🇰 | @Raydikalx | 715E3E'
+    type: vless
+    server: '62.60.232.226'
+    port: 2096
+    uuid: '3d409814-b663-411e-8f54-a112ecba7ddd'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+
   - name: 'JP 🇯🇵 | @Raydikalx | 6F74B8'
     type: vless
     server: '155.248.175.201'
@@ -551,17 +564,6 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | E14278'
-    type: vless
-    server: '91.107.154.192'
-    port: 443
-    uuid: '50788032-0e47-4c3d-97e7-513563f526b8'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
   - name: 'JP 🇯🇵 | @Raydikalx | 2A9AB4'
     type: vless
     server: '43.133.167.153'
@@ -595,7 +597,6 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 145A72'
     type: vless
@@ -757,6 +758,18 @@ proxies:
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'chrome'
 
+  - name: 'FI 🇫🇮 | @Raydikalx | A82A65'
+    type: vless
+    server: '185.242.247.177'
+    port: 2096
+    uuid: '60a90114-2b4e-4e34-9146-22b93252baa9'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+
   - name: 'DE 🇩🇪 | @Raydikalx | DDF1AE'
     type: vless
     server: 'static.122.183.105.178.clients.your-server.de'
@@ -775,36 +788,6 @@ proxies:
   - name: 'FI 🇫🇮 | @Raydikalx | BE0BFC'
     type: vless
     server: 'static.167.125.29.2.clients.your-server.de'
-    port: 8443
-    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | B8CB18'
-    type: vless
-    server: 'static.229.163.46.78.clients.your-server.de'
-    port: 8443
-    uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | CED9BD'
-    type: vless
-    server: 'static.29.209.99.91.clients.your-server.de'
     port: 8443
     uuid: '66018a62-bc0a-43b5-a209-7902c0e7253d'
     flow: 'xtls-rprx-vision'
@@ -858,17 +841,6 @@ proxies:
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'qq'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | B2A3C6'
-    type: vless
-    server: '136.148.83.69'
-    port: 443
-    uuid: '666821a2-5c3d-0001-a56f-5a3a562d7324'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'qq'
-
   - name: 'IR 🇮🇷 | @Raydikalx | 8AFCCF'
     type: vless
     server: '194.60.228.97'
@@ -904,17 +876,6 @@ proxies:
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     alpn:
       - 'http/1.1'
-
-  - name: 'Global 🌐 | @Raydikalx | 4FFAF6'
-    type: vless
-    server: 'leviko-ir8553.shopingggg.ir'
-    port: 443
-    uuid: '667016ca-f02e-4b5f-bfc3-3d8ed81e9bec'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | DCA879'
     type: vless
@@ -966,6 +927,17 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'firefox'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 000422'
+    type: vless
+    server: '188.225.82.103'
+    port: 443
+    uuid: '6f26b457-eb8d-0001-b2a2-8574214309fa'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
 
   - name: 'CA 🇨🇦 | @Raydikalx | C2FC67'
     type: vless
@@ -1073,6 +1045,16 @@ proxies:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 5D8385'
+    type: vless
+    server: 'kinonl5.boevik-tut.org'
+    port: 443
+    uuid: '7d714031-76a9-4500-a132-27dd3307b16e'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 063638'
     type: vless
@@ -1196,16 +1178,6 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 93B937'
-    type: vless
-    server: '167.82.76.31'
-    port: 443
-    uuid: '8d86c080-f714-4428-a7f6-a50ae355e49c'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
   - name: 'RU 🇷🇺 | @Raydikalx | F1D28B'
     type: vless
     server: '176.108.244.162'
@@ -1227,7 +1199,7 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 092FF3'
+  - name: 'NL 🇳🇱 | @Raydikalx | 092FF3'
     type: vless
     server: 'cdn7-39.vk-cdnvideo.com'
     port: 8443
@@ -1331,6 +1303,28 @@ proxies:
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'chrome'
 
+  - name: 'FI 🇫🇮 | @Raydikalx | 2851B1'
+    type: vless
+    server: '65.109.210.250'
+    port: 443
+    uuid: '9fc65c1f-f7e2-44dd-be6f-a9270732b97a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | EF54A0'
+    type: vless
+    server: '91.107.157.227'
+    port: 443
+    uuid: '9fc65c1f-f7e2-44dd-be6f-a9270732b97a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+
   - name: 'Global 🌐 | @Raydikalx | BA259B'
     type: vless
     server: 'ua-full.privateip.net'
@@ -1421,7 +1415,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'qq'
+    client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 602B53'
     type: vless
@@ -1681,6 +1675,34 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
+  - name: 'RU 🇷🇺 | @Raydikalx | F34752'
+    type: vless
+    server: 'nl-bridge.sbrf-cdn342.ru'
+    port: 443
+    uuid: 'c4f2dee2-14e3-4c02-91e9-31c7917e239c'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | 56CAAB'
+    type: vless
+    server: 'swe-bridge.sbrf-cdn342.ru'
+    port: 443
+    uuid: 'c4f2dee2-14e3-4c02-91e9-31c7917e239c'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
   - name: 'SG 🇸🇬 | @Raydikalx | D131DE'
     type: vless
     server: 'xjpp.zjlo.top'
@@ -1768,7 +1790,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | E771C9'
     type: vless
@@ -2122,7 +2144,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 39A09F'
     type: vless
@@ -2130,6 +2152,18 @@ proxies:
     port: 2053
     uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
     flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'firefox'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 511C07'
+    type: vless
+    server: '191.217.215.186'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
+    flow: 'xtls-rprx-vision-udp443'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -2159,6 +2193,18 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
     client-fingerprint: 'firefox'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | CEAA51'
+    type: vless
+    server: '94.159.98.82'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 14AADD'
     type: vless
@@ -2269,12 +2315,12 @@ proxy-groups:
       - 'Global 🌐 | @Raydikalx | 1EB7E3'
       - 'Global 🌐 | @Raydikalx | 2CCA03'
       - 'DE 🇩🇪 | @Raydikalx | CD4F29'
+      - 'HK 🇭🇰 | @Raydikalx | 715E3E'
       - 'JP 🇯🇵 | @Raydikalx | 6F74B8'
       - 'FI 🇫🇮 | @Raydikalx | AA64C8'
       - 'DE 🇩🇪 | @Raydikalx | 3AEC24'
       - 'DE 🇩🇪 | @Raydikalx | 23A67F'
       - 'US 🇺🇸 | @Raydikalx | D4B32E'
-      - 'DE 🇩🇪 | @Raydikalx | E14278'
       - 'JP 🇯🇵 | @Raydikalx | 2A9AB4'
       - 'SG 🇸🇬 | @Raydikalx | 6FD090'
       - 'SG 🇸🇬 | @Raydikalx | DB4BC5'
@@ -2290,22 +2336,20 @@ proxy-groups:
       - 'NL 🇳🇱 | @Raydikalx | 53CCA0'
       - 'RU 🇷🇺 | @Raydikalx | C8DDFA'
       - 'DE 🇩🇪 | @Raydikalx | 20D176'
+      - 'FI 🇫🇮 | @Raydikalx | A82A65'
       - 'DE 🇩🇪 | @Raydikalx | DDF1AE'
       - 'FI 🇫🇮 | @Raydikalx | BE0BFC'
-      - 'DE 🇩🇪 | @Raydikalx | B8CB18'
-      - 'DE 🇩🇪 | @Raydikalx | CED9BD'
       - 'DE 🇩🇪 | @Raydikalx | F89628'
       - 'FI 🇫🇮 | @Raydikalx | ED4AD7'
       - 'FR 🇫🇷 | @Raydikalx | 94D132'
-      - 'FR 🇫🇷 | @Raydikalx | B2A3C6'
       - 'IR 🇮🇷 | @Raydikalx | 8AFCCF'
       - 'NL 🇳🇱 | @Raydikalx | 935DB3'
       - 'IR 🇮🇷 | @Raydikalx | 6AC1C8'
-      - 'Global 🌐 | @Raydikalx | 4FFAF6'
       - 'TR 🇹🇷 | @Raydikalx | DCA879'
       - 'NL 🇳🇱 | @Raydikalx | D0227D'
       - 'SE 🇸🇪 | @Raydikalx | E40D7A'
       - 'RU 🇷🇺 | @Raydikalx | 9BACCD'
+      - 'RU 🇷🇺 | @Raydikalx | 000422'
       - 'CA 🇨🇦 | @Raydikalx | C2FC67'
       - 'RU 🇷🇺 | @Raydikalx | 25DD97'
       - 'RU 🇷🇺 | @Raydikalx | A3B608'
@@ -2315,6 +2359,7 @@ proxy-groups:
       - 'FI 🇫🇮 | @Raydikalx | 972897'
       - 'DE 🇩🇪 | @Raydikalx | 05FC7D'
       - 'RU 🇷🇺 | @Raydikalx | B29884'
+      - 'NL 🇳🇱 | @Raydikalx | 5D8385'
       - 'FR 🇫🇷 | @Raydikalx | 063638'
       - 'TR 🇹🇷 | @Raydikalx | DF2F68'
       - 'GB 🇬🇧 | @Raydikalx | F8107E'
@@ -2325,10 +2370,9 @@ proxy-groups:
       - 'FI 🇫🇮 | @Raydikalx | A53FA8'
       - 'RU 🇷🇺 | @Raydikalx | 98AABE'
       - 'DE 🇩🇪 | @Raydikalx | 487DCC'
-      - 'US 🇺🇸 | @Raydikalx | 93B937'
       - 'RU 🇷🇺 | @Raydikalx | F1D28B'
       - 'DE 🇩🇪 | @Raydikalx | 8D7803'
-      - 'DE 🇩🇪 | @Raydikalx | 092FF3'
+      - 'NL 🇳🇱 | @Raydikalx | 092FF3'
       - 'HK 🇭🇰 | @Raydikalx | 94DC7B'
       - 'DE 🇩🇪 | @Raydikalx | 5C3824'
       - 'IR 🇮🇷 | @Raydikalx | 7A6EC9'
@@ -2337,6 +2381,8 @@ proxy-groups:
       - 'JP 🇯🇵 | @Raydikalx | 5336A4'
       - 'JP 🇯🇵 | @Raydikalx | 271196'
       - 'CH 🇨🇭 | @Raydikalx | A19323'
+      - 'FI 🇫🇮 | @Raydikalx | 2851B1'
+      - 'DE 🇩🇪 | @Raydikalx | EF54A0'
       - 'Global 🌐 | @Raydikalx | BA259B'
       - 'FR 🇫🇷 | @Raydikalx | 752B88'
       - 'FI 🇫🇮 | @Raydikalx | 928EA7'
@@ -2363,6 +2409,8 @@ proxy-groups:
       - 'GB 🇬🇧 | @Raydikalx | F13147'
       - 'GB 🇬🇧 | @Raydikalx | 4BA461'
       - 'Global 🌐 | @Raydikalx | CE445B'
+      - 'RU 🇷🇺 | @Raydikalx | F34752'
+      - 'SE 🇸🇪 | @Raydikalx | 56CAAB'
       - 'SG 🇸🇬 | @Raydikalx | D131DE'
       - 'Global 🌐 | @Raydikalx | 95ADA7'
       - 'DE 🇩🇪 | @Raydikalx | E429A3'
@@ -2400,8 +2448,10 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | 9CFCC6'
       - 'DE 🇩🇪 | @Raydikalx | 93D251'
       - 'RU 🇷🇺 | @Raydikalx | 39A09F'
+      - 'RU 🇷🇺 | @Raydikalx | 511C07'
       - 'SE 🇸🇪 | @Raydikalx | C17047'
       - 'SE 🇸🇪 | @Raydikalx | 311BE7'
+      - 'DE 🇩🇪 | @Raydikalx | CEAA51'
       - 'PL 🇵🇱 | @Raydikalx | 14AADD'
       - 'SE 🇸🇪 | @Raydikalx | E8B157'
       - 'DE 🇩🇪 | @Raydikalx | F1F544'
