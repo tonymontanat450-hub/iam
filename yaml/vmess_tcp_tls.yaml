@@ -1,16 +1,4 @@
 proxies:
-  - name: 'SG 🇸🇬 | @Raydikalx | CE410F'
-    type: vmess
-    server: '15.235.144.92'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
   - name: 'DE 🇩🇪 | @Raydikalx | 8FD848'
     type: vmess
     server: '193.108.117.61'
@@ -254,6 +242,18 @@ proxies:
   - name: 'GB 🇬🇧 | @Raydikalx | 3E5525'
     type: vmess
     server: '149.7.16.228'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'SG 🇸🇬 | @Raydikalx | 0335AF'
+    type: vmess
+    server: '15.235.144.92'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -1151,7 +1151,7 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 275AFF'
+  - name: 'US 🇺🇸 | @Raydikalx | FF6E69'
     type: vmess
     server: '38.68.135.131'
     port: 1270
@@ -1624,6 +1624,18 @@ proxies:
     server: '89.39.70.34'
     port: 2083
     uuid: '891da52f-e37d-4251-b96a-45441884559d'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 292968'
+    type: vmess
+    server: '91.107.154.192'
+    port: 2083
+    uuid: '50788032-0e47-4c3d-97e7-513563f526b8'
     alterId: 0
     cipher: 'auto'
     udp: true
@@ -2395,7 +2407,6 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - 'SG 🇸🇬 | @Raydikalx | CE410F'
       - 'DE 🇩🇪 | @Raydikalx | 8FD848'
       - 'FR 🇫🇷 | @Raydikalx | 20FA4F'
       - 'US 🇺🇸 | @Raydikalx | 5BBCB1'
@@ -2417,6 +2428,7 @@ proxy-groups:
       - 'IT 🇮🇹 | @Raydikalx | 69687A'
       - 'IT 🇮🇹 | @Raydikalx | 493370'
       - 'GB 🇬🇧 | @Raydikalx | 3E5525'
+      - 'SG 🇸🇬 | @Raydikalx | 0335AF'
       - 'NL 🇳🇱 | @Raydikalx | 4C87F9'
       - 'AT 🇦🇹 | @Raydikalx | A7B16C'
       - 'RU 🇷🇺 | @Raydikalx | F74F10'
@@ -2491,7 +2503,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 35CF84'
       - 'US 🇺🇸 | @Raydikalx | 377EA9'
       - 'US 🇺🇸 | @Raydikalx | 64D2F8'
-      - 'US 🇺🇸 | @Raydikalx | 275AFF'
+      - 'US 🇺🇸 | @Raydikalx | FF6E69'
       - 'US 🇺🇸 | @Raydikalx | F4E423'
       - 'US 🇺🇸 | @Raydikalx | 565AA4'
       - 'US 🇺🇸 | @Raydikalx | 053C5B'
@@ -2531,6 +2543,7 @@ proxy-groups:
       - 'TR 🇹🇷 | @Raydikalx | D44C25'
       - 'TR 🇹🇷 | @Raydikalx | 21490D'
       - 'NL 🇳🇱 | @Raydikalx | 0283D1'
+      - 'DE 🇩🇪 | @Raydikalx | 292968'
       - 'DE 🇩🇪 | @Raydikalx | 4BF341'
       - 'FR 🇫🇷 | @Raydikalx | 246A8D'
       - 'TR 🇹🇷 | @Raydikalx | B9BF01'
