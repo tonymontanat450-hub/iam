@@ -11,18 +11,6 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 20FA4F'
-    type: vmess
-    server: '23.162.152.127'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
   - name: 'US 🇺🇸 | @Raydikalx | 5BBCB1'
     type: vmess
     server: '38.91.106.159'
@@ -599,6 +587,18 @@ proxies:
     skip-cert-verify: true
     servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
+  - name: 'FR 🇫🇷 | @Raydikalx | 779CB4'
+    type: vmess
+    server: '172.99.189.239'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
   - name: 'NL 🇳🇱 | @Raydikalx | 50DCFF'
     type: vmess
     server: '176.120.17.21'
@@ -938,6 +938,18 @@ proxies:
   - name: 'US 🇺🇸 | @Raydikalx | 608EF5'
     type: vmess
     server: '23.150.152.65'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | E109AA'
+    type: vmess
+    server: '23.162.152.127'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -1624,6 +1636,18 @@ proxies:
     server: '89.39.70.34'
     port: 2083
     uuid: '891da52f-e37d-4251-b96a-45441884559d'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 1D4560'
+    type: vmess
+    server: '91.107.149.64'
+    port: 2083
+    uuid: '90a8b839-feea-43a9-9554-9b4ad5ead3e2'
     alterId: 0
     cipher: 'auto'
     udp: true
@@ -2408,7 +2432,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 'DE 🇩🇪 | @Raydikalx | 8FD848'
-      - 'FR 🇫🇷 | @Raydikalx | 20FA4F'
       - 'US 🇺🇸 | @Raydikalx | 5BBCB1'
       - 'BR 🇧🇷 | @Raydikalx | AC00FD'
       - 'BR 🇧🇷 | @Raydikalx | 0248DF'
@@ -2457,6 +2480,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | F20B38'
       - 'US 🇺🇸 | @Raydikalx | D00A4C'
       - 'US 🇺🇸 | @Raydikalx | F92BF6'
+      - 'FR 🇫🇷 | @Raydikalx | 779CB4'
       - 'NL 🇳🇱 | @Raydikalx | 50DCFF'
       - 'NL 🇳🇱 | @Raydikalx | 7D7B15'
       - 'NL 🇳🇱 | @Raydikalx | 5F0CF8'
@@ -2486,6 +2510,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | C5EEAC'
       - 'NL 🇳🇱 | @Raydikalx | 7A5C88'
       - 'US 🇺🇸 | @Raydikalx | 608EF5'
+      - 'FR 🇫🇷 | @Raydikalx | E109AA'
       - 'DE 🇩🇪 | @Raydikalx | EDD4C1'
       - 'DE 🇩🇪 | @Raydikalx | 7EBDB3'
       - 'DE 🇩🇪 | @Raydikalx | A4DDB9'
@@ -2543,6 +2568,7 @@ proxy-groups:
       - 'TR 🇹🇷 | @Raydikalx | D44C25'
       - 'TR 🇹🇷 | @Raydikalx | 21490D'
       - 'NL 🇳🇱 | @Raydikalx | 0283D1'
+      - 'DE 🇩🇪 | @Raydikalx | 1D4560'
       - 'DE 🇩🇪 | @Raydikalx | 292968'
       - 'DE 🇩🇪 | @Raydikalx | 4BF341'
       - 'FR 🇫🇷 | @Raydikalx | 246A8D'
