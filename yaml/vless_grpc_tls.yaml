@@ -1,0 +1,1071 @@
+proxies:
+  - name: 'RU 🇷🇺 | @Raydikalx | 75EC72'
+    type: vless
+    server: '188.225.36.219'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'olvento.sync.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | B773F8'
+    type: vless
+    server: '201.24.124.187'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: 'glush.de3.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 532428'
+    type: vless
+    server: '5.42.115.141'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    grpc-opts:
+      grpc-service-name: 'glush.de7.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | FA0809'
+    type: vless
+    server: '81.200.158.26'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: 'glush.de1.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | C87623'
+    type: vless
+    server: 'archive.filnex.baby'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'glush.de7.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | A4522C'
+    type: vless
+    server: 'birchbark.gerqix.online'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'glush.de7.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | FD7602'
+    type: vless
+    server: 'honeycomb.merlano.monster'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'safari'
+    grpc-opts:
+      grpc-service-name: 'glush.de7.v1'
+
+  - name: 'US 🇺🇸 | @Raydikalx | D45823'
+    type: vless
+    server: '45.138.100.226'
+    port: 2083
+    uuid: '0c6b632a-cd96-4b74-9b51-151e3b5697db'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | 6CF6A4'
+    type: vless
+    server: '144.31.214.68'
+    port: 8443
+    uuid: '12910384-1ef8-40a3-818a-57277063ea66'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'vlgrpc'
+
+  - name: 'US 🇺🇸 | @Raydikalx | A70940'
+    type: vless
+    server: '69.17.3.150'
+    port: 2001
+    uuid: '140d6fc9-2c6d-41bd-a487-182b52c0184f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'UCLOUD'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 18CBA9'
+    type: vless
+    server: '89.105.195.149'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'home.v2.MetricsService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 163C09'
+    type: vless
+    server: '89.105.195.150'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'stats.v2.StreamService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | EF37CD'
+    type: vless
+    server: '89.105.195.152'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'api.v1.FeedService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 86A8C2'
+    type: vless
+    server: 'api.mediacorphub.org'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'gw.v2.PushService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 0408BB'
+    type: vless
+    server: 'assets.mediacorphub.org'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'hub.v1.ObjectService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 3900EB'
+    type: vless
+    server: 'edge.mediacorphub.org'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'hub.v1.ObjectService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | AAD714'
+    type: vless
+    server: 'relay.mediacorphub.org'
+    port: 443
+    uuid: '1653818d-532e-46be-b825-384107fb7c3a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'api.v1.FeedService'
+
+  - name: 'CA 🇨🇦 | @Raydikalx | F7B123'
+    type: vless
+    server: 'www.visa.com'
+    port: 443
+    uuid: '17b5036e-0fbf-451c-8794-5f3d115178e9'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: '@ZEDMODEON-@ZEDMODEON'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | 1D5158'
+    type: vless
+    server: '88.80.150.15'
+    port: 443
+    uuid: '1d46250c-f015-439d-a7fd-c4d9e2a4c63d'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | AE840B'
+    type: vless
+    server: '91.92.137.165'
+    port: 443
+    uuid: '1d46250c-f015-439d-a7fd-c4d9e2a4c63d'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'Global 🌐 | @Raydikalx | A9DB48'
+    type: vless
+    server: 'mci-iTV2RAY.ddns.net'
+    port: 2087
+    uuid: '2303c25e-0359-4772-d730-fbf2d34bc9c2'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 723AE8'
+    type: vless
+    server: '81.200.158.26'
+    port: 443
+    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'glush.de3.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 3763D0'
+    type: vless
+    server: 'astronovalis.wtf'
+    port: 443
+    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: 'glush.de2.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | D0ED5B'
+    type: vless
+    server: 'vellum.filnex.baby'
+    port: 443
+    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'glush.de3.v1'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | D0D31F'
+    type: vless
+    server: '132.243.223.227'
+    port: 2101
+    uuid: '2edfd299-fd54-4056-9d79-3c99f19bdae1'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'fi-grpc-test'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 2976C2'
+    type: vless
+    server: '201.24.116.192'
+    port: 443
+    uuid: '38308ff1-5aa9-494f-a25a-0f2870d56b3e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'mobile.api.Event'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 606758'
+    type: vless
+    server: '201.51.12.98'
+    port: 443
+    uuid: '38308ff1-5aa9-494f-a25a-0f2870d56b3e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'mobile.api.Event'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 8DAAD9'
+    type: vless
+    server: 'vps3.nemnogogo.com'
+    port: 443
+    uuid: '38308ff1-5aa9-494f-a25a-0f2870d56b3e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'mobile.api.Event'
+
+  - name: 'AU 🇦🇺 | @Raydikalx | C1BB51'
+    type: vless
+    server: 'mci.vpncustomize.website'
+    port: 2096
+    uuid: '38a6b5c4-3534-4a31-9d77-81d3a06ede79'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@VPNCUSTOMIZE'
+
+  - name: 'LT 🇱🇹 | @Raydikalx | D0CE2C'
+    type: vless
+    server: '84.32.209.103'
+    port: 443
+    uuid: '3f25b15b-1777-4c08-9ade-60336ac92a82'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'Global 🌐 | @Raydikalx | 897FD7'
+    type: vless
+    server: 'mtn-iTV2RAY.ddns.net'
+    port: 2083
+    uuid: '5583f4ac-6a07-4ce4-9a13-5d8c0abbf792'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | D65240'
+    type: vless
+    server: '81.200.158.26'
+    port: 443
+    uuid: '572463d3-dab5-4dcb-8459-2b51735186e0'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: 'glush.de1.v1'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 8D7B90'
+    type: vless
+    server: 'www.zula.ir'
+    port: 443
+    uuid: '58ea8326-65e1-4848-9ee6-cb6bc8753ba5'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@VPNCUSTOMIZE,@VPNCUSTOMIZE'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | 12F62A'
+    type: vless
+    server: '200.102.183.57'
+    port: 80
+    uuid: '664f65f4-33b3-43a3-b9e5-68192d1d428e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'qi8ws15c7jv5q2fa'
+
+  - name: 'LV 🇱🇻 | @Raydikalx | 776DF1'
+    type: vless
+    server: '89.36.161.222'
+    port: 2083
+    uuid: '70e20b2e-3b1f-4c25-9a3d-9240570391bb'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'Global 🌐 | @Raydikalx | 67EE83'
+    type: vless
+    server: 'laoye.in-gect.fun'
+    port: 2083
+    uuid: '70e20b2e-3b1f-4c25-9a3d-9240570391bb'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | CB4992'
+    type: vless
+    server: 'usejh2.neobo-tooth.ru'
+    port: 2083
+    uuid: '70e20b2e-3b1f-4c25-9a3d-9240570391bb'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'Global 🌐 | @Raydikalx | 842E6D'
+    type: vless
+    server: 'mtn-iTV2RAY.ddns.net'
+    port: 2083
+    uuid: '7ac34a93-0890-4eff-fc12-08b44d831e90'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'JP 🇯🇵 | @Raydikalx | 7A38C5'
+    type: vless
+    server: '31.76.91.31'
+    port: 443
+    uuid: '7b22dce8-7ebd-425b-8ca4-7b6190321985'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'qq'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 3658C3'
+    type: vless
+    server: '45.144.52.187'
+    port: 443
+    uuid: '7b22dce8-7ebd-425b-8ca4-7b6190321985'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'qq'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | 028F0B'
+    type: vless
+    server: '82.22.2.225'
+    port: 443
+    uuid: '7b22dce8-7ebd-425b-8ca4-7b6190321985'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'qq'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'US 🇺🇸 | @Raydikalx | 64F0AA'
+    type: vless
+    server: '91.196.33.157'
+    port: 443
+    uuid: '7b22dce8-7ebd-425b-8ca4-7b6190321985'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'qq'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | CE068A'
+    type: vless
+    server: '94.249.148.20'
+    port: 443
+    uuid: '7b22dce8-7ebd-425b-8ca4-7b6190321985'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'CA 🇨🇦 | @Raydikalx | 1E71AB'
+    type: vless
+    server: 'sync.2ml.bid'
+    port: 443
+    uuid: '8344360f-0349-4784-a19f-33fd92e89389'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'v3-direct'
+
+  - name: 'CA 🇨🇦 | @Raydikalx | 748385'
+    type: vless
+    server: '188.114.97.6'
+    port: 2096
+    uuid: '83a589e2-3680-4bc2-a4e6-ed8f2d2452b4'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 6B99BA'
+    type: vless
+    server: '109.248.17.252'
+    port: 443
+    uuid: '9000a7f3-df2a-49a8-ae56-3e7777bd32f7'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 268512'
+    type: vless
+    server: '111.88.128.167'
+    port: 8517
+    uuid: '92a4056a-38d6-49d0-8bd2-600e55af1e9f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'api.v1.StreamService'
+
+  - name: 'Global 🌐 | @Raydikalx | CDA4EE'
+    type: vless
+    server: 'mci-iTV2RAY.ddns.net'
+    port: 2087
+    uuid: '93fb79d5-b84f-44de-9588-ee4fd5e8bd1c'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | CF049F'
+    type: vless
+    server: '80.47.13.182'
+    port: 443
+    uuid: '95f85937-7b95-45c4-8d69-95da6a978569'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'stats.v2.StreamService'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | 44CAE7'
+    type: vless
+    server: 'dl.megadrishto.com'
+    port: 443
+    uuid: '95f85937-7b95-45c4-8d69-95da6a978569'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'stats.v2.StreamService'
+
+  - name: 'IN 🇮🇳 | @Raydikalx | 307D1D'
+    type: vless
+    server: '172.105.252.35'
+    port: 2003
+    uuid: '99de7aac-d2a5-48fd-92cb-d1e6c3c719a4'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'GRPC'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | E91E79'
+    type: vless
+    server: 'adgof.mgodping12.xyz'
+    port: 2087
+    uuid: '9e4f2282-d27b-47be-867e-de555f5f62e2'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+      - 'h3'
+    client-fingerprint: 'chrome'
+
+  - name: 'Global 🌐 | @Raydikalx | 4A3F7E'
+    type: vless
+    server: 'melo-mtn.outline-vpn.cloud'
+    port: 443
+    uuid: 'a3e76574-9458-4783-905b-970cf0ccdcd1'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 8CAF2A'
+    type: vless
+    server: 'cadrin.wtf'
+    port: 443
+    uuid: 'a4740bee-81ad-4a58-99c9-eca576ecb6e6'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'edge'
+    grpc-opts:
+      grpc-service-name: 'cache.sync.v1'
+
+  - name: 'Global 🌐 | @Raydikalx | E26B41'
+    type: vless
+    server: 'frad.webshecan.cloud'
+    port: 2083
+    uuid: 'a83b52bd-8a99-4df5-a4c9-c82c043c1f8d'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | D23BA4'
+    type: vless
+    server: '189.74.114.119'
+    port: 443
+    uuid: 'abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: '3e99d50d5740985d'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | EB4090'
+    type: vless
+    server: 'api.mediaklenov.cc'
+    port: 443
+    uuid: 'abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    grpc-opts:
+      grpc-service-name: '3e99d50d5740985d'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | BD0A37'
+    type: vless
+    server: '5.75.197.39'
+    port: 2088
+    uuid: 'ae23e87e-0764-4152-901c-1427b00c81b7'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+
+  - name: 'Global 🌐 | @Raydikalx | 5BDC78'
+    type: vless
+    server: 'mci-iTV2RAY.ddns.net'
+    port: 2087
+    uuid: 'af02bcda-806b-4bdb-d0bd-83af1301dbed'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | EC1AE7'
+    type: vless
+    server: '138.124.86.230'
+    port: 48115
+    uuid: 'b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: '138-124-86-230-sslip-io'
+
+  - name: 'Global 🌐 | @Raydikalx | 7733CF'
+    type: vless
+    server: 'mtn-iTV2RAY.ddns.net'
+    port: 2083
+    uuid: 'bbc62372-5e9e-4144-de1d-0bda3b9bd2be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 958D08'
+    type: vless
+    server: '147.45.175.81'
+    port: 443
+    uuid: 'c90395e6-2140-47ad-a54d-9b166729d3ef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'random'
+    grpc-opts:
+      grpc-service-name: 'grpc-ru'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 06D3A0'
+    type: vless
+    server: 'xsru1.ddnsfree.com'
+    port: 443
+    uuid: 'c90395e6-2140-47ad-a54d-9b166729d3ef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'grpc-ru'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 86DC2F'
+    type: vless
+    server: 'xssite.webredirect.org'
+    port: 443
+    uuid: 'c90395e6-2140-47ad-a54d-9b166729d3ef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    client-fingerprint: 'random'
+    grpc-opts:
+      grpc-service-name: 'grpc-ru'
+
+  - name: 'Global 🌐 | @Raydikalx | 5A5C17'
+    type: vless
+    server: 'mtn-iTV2RAY.ddns.net'
+    port: 2083
+    uuid: 'd662d09d-61e8-42ba-bc17-a40121589b26'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'Global 🌐 | @Raydikalx | B09C31'
+    type: vless
+    server: 'cf.gafe-marz.ir'
+    port: 2083
+    uuid: 'd8ade4cc-c672-4195-964b-473f21584100'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'Love'
+
+  - name: 'SC 🇸🇨 | @Raydikalx | 9552D6'
+    type: vless
+    server: '45.130.125.76'
+    port: 2096
+    uuid: 'dd24f07d-5ed1-4e51-8073-5733e904fa88'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'yjc.ir.alalamtv.net.fararu.com.iranprimer.usip.org.hamshahrionline.ir.alalamtv.net.tasnimnews.com'
+
+  - name: 'US 🇺🇸 | @Raydikalx | 7AA054'
+    type: vless
+    server: 'cf3.dalazhi.eu.org'
+    port: 8443
+    uuid: 'e14c0c0e-f838-49e9-bcee-01ead9208af2'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'unlogrpc'
+
+  - name: 'CA 🇨🇦 | @Raydikalx | 713117'
+    type: vless
+    server: '188.114.97.6'
+    port: 2096
+    uuid: 'e9fb98e3-28bd-4ee4-962f-195c4f6354a0'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    grpc-opts:
+      grpc-service-name: 'parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir'
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - 'RU 🇷🇺 | @Raydikalx | 75EC72'
+      - 'RU 🇷🇺 | @Raydikalx | B773F8'
+      - 'RU 🇷🇺 | @Raydikalx | 532428'
+      - 'RU 🇷🇺 | @Raydikalx | FA0809'
+      - 'RU 🇷🇺 | @Raydikalx | C87623'
+      - 'RU 🇷🇺 | @Raydikalx | A4522C'
+      - 'RU 🇷🇺 | @Raydikalx | FD7602'
+      - 'US 🇺🇸 | @Raydikalx | D45823'
+      - 'FR 🇫🇷 | @Raydikalx | 6CF6A4'
+      - 'US 🇺🇸 | @Raydikalx | A70940'
+      - 'NL 🇳🇱 | @Raydikalx | 18CBA9'
+      - 'NL 🇳🇱 | @Raydikalx | 163C09'
+      - 'NL 🇳🇱 | @Raydikalx | EF37CD'
+      - 'NL 🇳🇱 | @Raydikalx | 86A8C2'
+      - 'NL 🇳🇱 | @Raydikalx | 0408BB'
+      - 'NL 🇳🇱 | @Raydikalx | 3900EB'
+      - 'NL 🇳🇱 | @Raydikalx | AAD714'
+      - 'CA 🇨🇦 | @Raydikalx | F7B123'
+      - 'BG 🇧🇬 | @Raydikalx | 1D5158'
+      - 'BG 🇧🇬 | @Raydikalx | AE840B'
+      - 'Global 🌐 | @Raydikalx | A9DB48'
+      - 'RU 🇷🇺 | @Raydikalx | 723AE8'
+      - 'RU 🇷🇺 | @Raydikalx | 3763D0'
+      - 'RU 🇷🇺 | @Raydikalx | D0ED5B'
+      - 'FI 🇫🇮 | @Raydikalx | D0D31F'
+      - 'RU 🇷🇺 | @Raydikalx | 2976C2'
+      - 'RU 🇷🇺 | @Raydikalx | 606758'
+      - 'RU 🇷🇺 | @Raydikalx | 8DAAD9'
+      - 'AU 🇦🇺 | @Raydikalx | C1BB51'
+      - 'LT 🇱🇹 | @Raydikalx | D0CE2C'
+      - 'Global 🌐 | @Raydikalx | 897FD7'
+      - 'RU 🇷🇺 | @Raydikalx | D65240'
+      - 'IR 🇮🇷 | @Raydikalx | 8D7B90'
+      - 'FR 🇫🇷 | @Raydikalx | 12F62A'
+      - 'LV 🇱🇻 | @Raydikalx | 776DF1'
+      - 'Global 🌐 | @Raydikalx | 67EE83'
+      - 'FR 🇫🇷 | @Raydikalx | CB4992'
+      - 'Global 🌐 | @Raydikalx | 842E6D'
+      - 'JP 🇯🇵 | @Raydikalx | 7A38C5'
+      - 'FI 🇫🇮 | @Raydikalx | 3658C3'
+      - 'FR 🇫🇷 | @Raydikalx | 028F0B'
+      - 'US 🇺🇸 | @Raydikalx | 64F0AA'
+      - 'DE 🇩🇪 | @Raydikalx | CE068A'
+      - 'CA 🇨🇦 | @Raydikalx | 1E71AB'
+      - 'CA 🇨🇦 | @Raydikalx | 748385'
+      - 'DE 🇩🇪 | @Raydikalx | 6B99BA'
+      - 'RU 🇷🇺 | @Raydikalx | 268512'
+      - 'Global 🌐 | @Raydikalx | CDA4EE'
+      - 'PL 🇵🇱 | @Raydikalx | CF049F'
+      - 'PL 🇵🇱 | @Raydikalx | 44CAE7'
+      - 'IN 🇮🇳 | @Raydikalx | 307D1D'
+      - 'IR 🇮🇷 | @Raydikalx | E91E79'
+      - 'Global 🌐 | @Raydikalx | 4A3F7E'
+      - 'RU 🇷🇺 | @Raydikalx | 8CAF2A'
+      - 'Global 🌐 | @Raydikalx | E26B41'
+      - 'RU 🇷🇺 | @Raydikalx | D23BA4'
+      - 'RU 🇷🇺 | @Raydikalx | EB4090'
+      - 'DE 🇩🇪 | @Raydikalx | BD0A37'
+      - 'Global 🌐 | @Raydikalx | 5BDC78'
+      - 'SE 🇸🇪 | @Raydikalx | EC1AE7'
+      - 'Global 🌐 | @Raydikalx | 7733CF'
+      - 'RU 🇷🇺 | @Raydikalx | 958D08'
+      - 'RU 🇷🇺 | @Raydikalx | 06D3A0'
+      - 'RU 🇷🇺 | @Raydikalx | 86DC2F'
+      - 'Global 🌐 | @Raydikalx | 5A5C17'
+      - 'Global 🌐 | @Raydikalx | B09C31'
+      - 'SC 🇸🇨 | @Raydikalx | 9552D6'
+      - 'US 🇺🇸 | @Raydikalx | 7AA054'
+      - 'CA 🇨🇦 | @Raydikalx | 713117'
+
+rules:
+  - MATCH,Auto-Select
