@@ -1,18 +1,4 @@
 proxies:
-  - name: 'RU 🇷🇺 | @Raydikalx | 75EC72'
-    type: vless
-    server: '188.225.36.219'
-    port: 443
-    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'olvento.sync.v1'
-
   - name: 'RU 🇷🇺 | @Raydikalx | B773F8'
     type: vless
     server: '201.24.124.187'
@@ -22,41 +8,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
-    client-fingerprint: 'firefox'
+    client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'glush.de3.v1'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 532428'
-    type: vless
-    server: '5.42.115.141'
-    port: 443
-    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    grpc-opts:
-      grpc-service-name: 'glush.de7.v1'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | FA0809'
-    type: vless
-    server: '81.200.158.26'
-    port: 443
-    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
-    grpc-opts:
-      grpc-service-name: 'glush.de1.v1'
 
   - name: 'RU 🇷🇺 | @Raydikalx | C87623'
     type: vless
@@ -67,7 +24,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -83,10 +40,23 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'glush.de7.v1'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 514089'
+    type: vless
+    server: 'birchbark.gerqix.online'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'glush.de7.v1'
 
@@ -99,10 +69,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
-    client-fingerprint: 'safari'
+    client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'glush.de7.v1'
 
@@ -115,7 +85,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'grpc'
@@ -129,26 +99,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'vlgrpc'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A70940'
-    type: vless
-    server: '69.17.3.150'
-    port: 2001
-    uuid: '140d6fc9-2c6d-41bd-a487-182b52c0184f'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'UCLOUD'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 18CBA9'
     type: vless
@@ -159,7 +115,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'home.v2.MetricsService'
@@ -173,7 +129,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'stats.v2.StreamService'
@@ -187,7 +143,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'api.v1.FeedService'
@@ -201,7 +157,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -217,7 +173,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -233,7 +189,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -249,27 +205,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'api.v1.FeedService'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | F7B123'
-    type: vless
-    server: 'www.visa.com'
-    port: 443
-    uuid: '17b5036e-0fbf-451c-8794-5f3d115178e9'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: '@ZEDMODEON-@ZEDMODEON'
 
   - name: 'BG 🇧🇬 | @Raydikalx | 1D5158'
     type: vless
@@ -280,7 +219,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -296,7 +235,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -312,51 +251,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 723AE8'
-    type: vless
-    server: '81.200.158.26'
-    port: 443
-    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'glush.de3.v1'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 3763D0'
-    type: vless
-    server: 'astronovalis.wtf'
-    port: 443
-    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
-    grpc-opts:
-      grpc-service-name: 'glush.de2.v1'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | D0ED5B'
-    type: vless
-    server: 'vellum.filnex.baby'
-    port: 443
-    uuid: '25ac78e7-6d1d-4c9a-a450-c01a4871769f'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'glush.de3.v1'
 
   - name: 'FI 🇫🇮 | @Raydikalx | D0D31F'
     type: vless
@@ -367,7 +264,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'fi-grpc-test'
@@ -381,7 +278,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'mobile.api.Event'
@@ -395,14 +292,30 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'mobile.api.Event'
 
-  - name: 'RU 🇷🇺 | @Raydikalx | 8DAAD9'
+  - name: 'RU 🇷🇺 | @Raydikalx | 497083'
+    type: vless
+    server: 'leviko-ru4448.shopingggg.ir'
+    port: 443
+    uuid: '38308ff1-5aa9-494f-a25a-0f2870d56b3e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'mobile.api.Event'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 9E313F'
     type: vless
     server: 'vps3.nemnogogo.com'
     port: 443
@@ -411,10 +324,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'chrome'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'mobile.api.Event'
 
@@ -427,7 +337,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@VPNCUSTOMIZE'
 
@@ -440,7 +350,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'grpc'
@@ -454,23 +364,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | D65240'
-    type: vless
-    server: '81.200.158.26'
-    port: 443
-    uuid: '572463d3-dab5-4dcb-8459-2b51735186e0'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
-    grpc-opts:
-      grpc-service-name: 'glush.de1.v1'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 8D7B90'
     type: vless
@@ -481,7 +377,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@VPNCUSTOMIZE,@VPNCUSTOMIZE'
 
@@ -494,10 +390,24 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'qi8ws15c7jv5q2fa'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 74546B'
+    type: vless
+    server: '185.140.12.160'
+    port: 2083
+    uuid: '70e20b2e-3b1f-4c25-9a3d-9240570391bb'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'ios'
+    grpc-opts:
+      grpc-service-name: 'grpc'
 
   - name: 'LV 🇱🇻 | @Raydikalx | 776DF1'
     type: vless
@@ -508,7 +418,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'grpc'
 
@@ -521,7 +431,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'grpc'
 
@@ -534,7 +444,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'grpc'
 
@@ -547,7 +457,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
 
@@ -560,7 +470,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'qq'
     grpc-opts:
       grpc-service-name: 'grpc'
@@ -574,7 +484,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'qq'
@@ -590,7 +500,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'qq'
     grpc-opts:
       grpc-service-name: 'grpc'
@@ -604,7 +514,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'qq'
     grpc-opts:
       grpc-service-name: 'grpc'
@@ -618,7 +528,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'grpc'
 
@@ -631,7 +541,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'v3-direct'
 
@@ -644,7 +554,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir'
 
@@ -657,7 +567,8 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com'
 
@@ -670,7 +581,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -686,7 +597,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
 
@@ -699,7 +610,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'stats.v2.StreamService'
@@ -713,7 +624,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -729,7 +640,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'GRPC'
 
@@ -742,43 +653,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
       - 'h3'
     client-fingerprint: 'chrome'
-
-  - name: 'Global 🌐 | @Raydikalx | 4A3F7E'
-    type: vless
-    server: 'melo-mtn.outline-vpn.cloud'
-    port: 443
-    uuid: 'a3e76574-9458-4783-905b-970cf0ccdcd1'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 8CAF2A'
-    type: vless
-    server: 'cadrin.wtf'
-    port: 443
-    uuid: 'a4740bee-81ad-4a58-99c9-eca576ecb6e6'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'edge'
-    grpc-opts:
-      grpc-service-name: 'cache.sync.v1'
 
   - name: 'Global 🌐 | @Raydikalx | E26B41'
     type: vless
@@ -789,7 +669,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -803,7 +683,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'firefox'
     grpc-opts:
       grpc-service-name: '3e99d50d5740985d'
@@ -817,7 +697,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     grpc-opts:
@@ -832,7 +712,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 5BDC78'
@@ -844,7 +724,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
 
@@ -857,8 +737,35 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: '138-124-86-230-sslip-io'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | E140F4'
+    type: vless
+    server: '138.124.86.230'
+    port: 48115
+    uuid: 'b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'firefox'
+    grpc-opts:
+      grpc-service-name: '138-124-86-230-sslip-io'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | 14E858'
+    type: vless
+    server: 'leviko-se6979.shopingggg.ir'
+    port: 48115
+    uuid: 'b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '138-124-86-230-sslip-io'
 
@@ -871,37 +778,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 958D08'
-    type: vless
-    server: '147.45.175.81'
-    port: 443
-    uuid: 'c90395e6-2140-47ad-a54d-9b166729d3ef'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'random'
-    grpc-opts:
-      grpc-service-name: 'grpc-ru'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 06D3A0'
-    type: vless
-    server: 'xsru1.ddnsfree.com'
-    port: 443
-    uuid: 'c90395e6-2140-47ad-a54d-9b166729d3ef'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'grpc-ru'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 86DC2F'
     type: vless
@@ -912,7 +791,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'random'
     grpc-opts:
       grpc-service-name: 'grpc-ru'
@@ -926,7 +805,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: '@iTV2RAY'
 
@@ -939,7 +818,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'Love'
 
@@ -952,29 +831,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     grpc-opts:
       grpc-service-name: 'yjc.ir.alalamtv.net.fararu.com.iranprimer.usip.org.hamshahrionline.ir.alalamtv.net.tasnimnews.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7AA054'
-    type: vless
-    server: 'cf3.dalazhi.eu.org'
-    port: 8443
-    uuid: 'e14c0c0e-f838-49e9-bcee-01ead9208af2'
-    network: grpc
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'chrome'
-    grpc-opts:
-      grpc-service-name: 'unlogrpc'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 713117'
     type: vless
@@ -985,7 +848,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     grpc-opts:
       grpc-service-name: 'parstoday.com.iribnews.ir.donya-e-eqtesad.com.alef.ir.donya-e-eqtesad.com.iribnews.ir.farsnews.ir'
 
@@ -997,16 +860,13 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - 'RU 🇷🇺 | @Raydikalx | 75EC72'
       - 'RU 🇷🇺 | @Raydikalx | B773F8'
-      - 'RU 🇷🇺 | @Raydikalx | 532428'
-      - 'RU 🇷🇺 | @Raydikalx | FA0809'
       - 'RU 🇷🇺 | @Raydikalx | C87623'
       - 'RU 🇷🇺 | @Raydikalx | A4522C'
+      - 'RU 🇷🇺 | @Raydikalx | 514089'
       - 'RU 🇷🇺 | @Raydikalx | FD7602'
       - 'US 🇺🇸 | @Raydikalx | D45823'
       - 'FR 🇫🇷 | @Raydikalx | 6CF6A4'
-      - 'US 🇺🇸 | @Raydikalx | A70940'
       - 'NL 🇳🇱 | @Raydikalx | 18CBA9'
       - 'NL 🇳🇱 | @Raydikalx | 163C09'
       - 'NL 🇳🇱 | @Raydikalx | EF37CD'
@@ -1014,23 +874,20 @@ proxy-groups:
       - 'NL 🇳🇱 | @Raydikalx | 0408BB'
       - 'NL 🇳🇱 | @Raydikalx | 3900EB'
       - 'NL 🇳🇱 | @Raydikalx | AAD714'
-      - 'CA 🇨🇦 | @Raydikalx | F7B123'
       - 'BG 🇧🇬 | @Raydikalx | 1D5158'
       - 'BG 🇧🇬 | @Raydikalx | AE840B'
       - 'Global 🌐 | @Raydikalx | A9DB48'
-      - 'RU 🇷🇺 | @Raydikalx | 723AE8'
-      - 'RU 🇷🇺 | @Raydikalx | 3763D0'
-      - 'RU 🇷🇺 | @Raydikalx | D0ED5B'
       - 'FI 🇫🇮 | @Raydikalx | D0D31F'
       - 'RU 🇷🇺 | @Raydikalx | 2976C2'
       - 'RU 🇷🇺 | @Raydikalx | 606758'
-      - 'RU 🇷🇺 | @Raydikalx | 8DAAD9'
+      - 'RU 🇷🇺 | @Raydikalx | 497083'
+      - 'RU 🇷🇺 | @Raydikalx | 9E313F'
       - 'AU 🇦🇺 | @Raydikalx | C1BB51'
       - 'LT 🇱🇹 | @Raydikalx | D0CE2C'
       - 'Global 🌐 | @Raydikalx | 897FD7'
-      - 'RU 🇷🇺 | @Raydikalx | D65240'
       - 'IR 🇮🇷 | @Raydikalx | 8D7B90'
       - 'FR 🇫🇷 | @Raydikalx | 12F62A'
+      - 'DE 🇩🇪 | @Raydikalx | 74546B'
       - 'LV 🇱🇻 | @Raydikalx | 776DF1'
       - 'Global 🌐 | @Raydikalx | 67EE83'
       - 'FR 🇫🇷 | @Raydikalx | CB4992'
@@ -1049,22 +906,19 @@ proxy-groups:
       - 'PL 🇵🇱 | @Raydikalx | 44CAE7'
       - 'IN 🇮🇳 | @Raydikalx | 307D1D'
       - 'IR 🇮🇷 | @Raydikalx | E91E79'
-      - 'Global 🌐 | @Raydikalx | 4A3F7E'
-      - 'RU 🇷🇺 | @Raydikalx | 8CAF2A'
       - 'Global 🌐 | @Raydikalx | E26B41'
       - 'RU 🇷🇺 | @Raydikalx | D23BA4'
       - 'RU 🇷🇺 | @Raydikalx | EB4090'
       - 'DE 🇩🇪 | @Raydikalx | BD0A37'
       - 'Global 🌐 | @Raydikalx | 5BDC78'
       - 'SE 🇸🇪 | @Raydikalx | EC1AE7'
+      - 'SE 🇸🇪 | @Raydikalx | E140F4'
+      - 'SE 🇸🇪 | @Raydikalx | 14E858'
       - 'Global 🌐 | @Raydikalx | 7733CF'
-      - 'RU 🇷🇺 | @Raydikalx | 958D08'
-      - 'RU 🇷🇺 | @Raydikalx | 06D3A0'
       - 'RU 🇷🇺 | @Raydikalx | 86DC2F'
       - 'Global 🌐 | @Raydikalx | 5A5C17'
       - 'Global 🌐 | @Raydikalx | B09C31'
       - 'SC 🇸🇨 | @Raydikalx | 9552D6'
-      - 'US 🇺🇸 | @Raydikalx | 7AA054'
       - 'CA 🇨🇦 | @Raydikalx | 713117'
 
 rules:
