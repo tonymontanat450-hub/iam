@@ -8,49 +8,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'CA 🇨🇦 | @Raydikalx | A4C4F2'
-    type: vless
-    server: '104.18.139.67'
-    port: 443
-    uuid: '0280c276-641b-49af-b699-4931c30ac137'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'firefox'
-    xhttp-opts:
-      path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'CA 🇨🇦 | @Raydikalx | DF34EA'
-    type: vless
-    server: '104.18.141.67'
-    port: 443
-    uuid: '0280c276-641b-49af-b699-4931c30ac137'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'firefox'
-    xhttp-opts:
-      path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | B3DB3B'
@@ -62,7 +26,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -70,7 +34,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 893DB8'
@@ -82,13 +46,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'firefox'
     xhttp-opts:
       path: '/api/v3/stream/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 48607B'
     type: vless
@@ -99,13 +63,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/fast'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 7F4D28'
@@ -117,11 +81,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM?ed=80'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 8FB798'
@@ -133,14 +97,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/assets/v1/ingest/5y2XX8T5BC'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 9BDA9E'
@@ -152,14 +116,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/static/v1/blob/SUBAhgozTk'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 1DEE90'
@@ -171,14 +135,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/stream/v3/upload/KAawhnLCtp'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 6A07FB'
@@ -190,14 +154,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/cdn/v2/blob/uvUWSZiudw'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | D5D455'
@@ -209,10 +173,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/assets/v1/segment/tNDnAEKWSp'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 77FD2E'
@@ -224,14 +188,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/media/v1/push/NKdRufUu3q'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'RU 🇷🇺 | @Raydikalx | FF90DA'
@@ -243,15 +207,86 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de3/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 523B2D'
+    type: vless
+    server: 'arbor.elvano.website'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de7/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | ACE78C'
+    type: vless
+    server: 'bayleaf.elvano.website'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 8A87DC'
+    type: vless
+    server: 'brookside.moltex.click'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de7/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | B9386D'
+    type: vless
+    server: 'clearing.moltex.click'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 8BA8B1'
     type: vless
@@ -262,13 +297,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/library/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'RU 🇷🇺 | @Raydikalx | 5C2093'
@@ -280,14 +315,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de4/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 873229'
+    type: vless
+    server: 'gesso.merlano.monster'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de5/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | DF44F4'
@@ -299,11 +353,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de5/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 929166'
@@ -315,15 +369,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de6/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 27E272'
+    type: vless
+    server: 'heatherfield.moltex.click'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | CDD55B'
     type: vless
@@ -334,11 +406,49 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de3/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 7FD8D2'
+    type: vless
+    server: 'moonstone.gerqix.online'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de4/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | DF8D9F'
+    type: vless
+    server: 'mosaic.merlano.monster'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de3/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 763BA6'
@@ -350,14 +460,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de6/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 53D741'
@@ -369,14 +479,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de7/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 1CEFD7'
@@ -388,11 +498,49 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/de6/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 671A83'
+    type: vless
+    server: 'riverstone.gerqix.online'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de7/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 1B4326'
+    type: vless
+    server: 'seedling.elvano.website'
+    port: 443
+    uuid: '0b6a7fe0-206b-4071-9f96-cd397d1ec01a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/de4/sync'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 0A0358'
@@ -404,13 +552,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 342262'
@@ -422,11 +570,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'AT 🇦🇹 | @Raydikalx | B74D6B'
@@ -438,11 +586,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/xh'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F09B30'
     type: vless
@@ -453,14 +601,50 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 3B9E57'
+    type: vless
+    server: 'angelmh.cv'
+    port: 2873
+    uuid: '13001c5c-c691-4d64-a8ff-83084ff82d3c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: stream-up
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 224C68'
+    type: vless
+    server: 's4.zynetraq.ir'
+    port: 2087
+    uuid: '141d5e21-082b-415c-1500-0e40ed7403e1'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+      - 'h3'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/BetForward'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | F2267E'
@@ -472,13 +656,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Join-JavidnamanIran-on-Telegram'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'DE 🇩🇪 | @Raydikalx | 2ADDF3'
@@ -490,13 +674,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Join-JavidnamanIran-on-Telegram'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'DE 🇩🇪 | @Raydikalx | CFAEDC'
@@ -508,13 +692,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Join-JavidnamanIran-on-Telegram'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'Global 🌐 | @Raydikalx | 5B350F'
@@ -526,14 +710,30 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Join-JavidnamanIran-on-Telegram'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
+
+  - name: 'CA 🇨🇦 | @Raydikalx | DD83C2'
+    type: vless
+    server: '172.64.155.209'
+    port: 8443
+    uuid: '14eccb4f-ca88-4732-b191-d8daacf63448'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | E57E02'
     type: vless
@@ -544,11 +744,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 2CE194'
@@ -560,11 +760,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 29FC3D'
@@ -576,11 +776,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | D3F5C2'
@@ -592,11 +792,42 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'CZ 🇨🇿 | @Raydikalx | D12F36'
+    type: vless
+    server: '144.31.218.188'
+    port: 443
+    uuid: '1f2836d7-e9ef-47d7-a9c4-1037077ae8d7'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 8FF094'
+    type: vless
+    server: '45.67.215.21'
+    port: 443
+    uuid: '216a03d5-bc3c-40c6-a2fd-dc153dbb3867'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'firefox'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 841547'
@@ -608,11 +839,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | BB5824'
@@ -624,11 +855,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 3F2EEC'
@@ -640,13 +871,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'IR 🇮🇷 | @Raydikalx | D97BD3'
@@ -658,7 +889,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -666,7 +897,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/BetForward'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | D1DF67'
@@ -678,13 +909,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | B4F476'
@@ -696,13 +927,133 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     xhttp-opts:
       path: '/media/live/stream/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | 8BF26B'
+    type: vless
+    server: '199.232.78.159'
+    port: 443
+    uuid: '27b53581-e75d-0001-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | C40E1A'
+    type: vless
+    server: '199.232.78.160'
+    port: 443
+    uuid: '27b53581-e75d-0005-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | 769E3E'
+    type: vless
+    server: '199.232.78.159'
+    port: 443
+    uuid: '27b53581-e75d-0006-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | 7993BB'
+    type: vless
+    server: '151.101.36.1'
+    port: 443
+    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | C5C2A5'
+    type: vless
+    server: '199.232.78.159'
+    port: 443
+    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | CE70D3'
+    type: vless
+    server: '199.232.78.160'
+    port: 443
+    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/gxh'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'DE 🇩🇪 | @Raydikalx | 1F9412'
@@ -714,13 +1065,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'random'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | E13BAB'
@@ -732,14 +1083,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | DF9426'
@@ -751,13 +1102,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | B7AFC0'
@@ -769,13 +1120,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 955331'
@@ -787,12 +1138,28 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'firefox'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
+
+  - name: 'BG 🇧🇬 | @Raydikalx | 77DD53'
+    type: vless
+    server: '1d70.noirex.ir'
+    port: 443
+    uuid: '2e0cb375-a5f3-4536-bcbc-6504fc5e79e4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/p/kqt1kt/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
 
   - name: 'CA 🇨🇦 | @Raydikalx | F9DC54'
     type: vless
@@ -803,11 +1170,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/dawdawdqwrrtt'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | 8AC175'
@@ -819,11 +1186,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/dawdawdqwrrtt'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | B7A2E8'
@@ -835,11 +1202,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/dawdawdqwrrtt'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | B25C74'
@@ -851,27 +1218,31 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/dawdawdqwrrtt'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'US 🇺🇸 | @Raydikalx | FCA12B'
+  - name: 'IR 🇮🇷 | @Raydikalx | C98CEB'
     type: vless
-    server: 'render.com'
-    port: 2053
-    uuid: '3056fc19-a77a-418f-b78d-773b717c3444'
+    server: 's11.celvixo.ir'
+    port: 2087
+    uuid: '3063c63d-acde-41c7-2305-720cdb761a9e'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+      - 'h3'
     client-fingerprint: 'chrome'
     xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/BetForward'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 7458EC'
@@ -883,13 +1254,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | A7ED87'
@@ -901,13 +1272,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | DA430F'
@@ -919,13 +1290,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 4A4D34'
@@ -937,13 +1308,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 526D2D'
@@ -956,7 +1327,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -964,7 +1335,23 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/login.php'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 63105D'
+    type: vless
+    server: '45.67.215.21'
+    port: 443
+    uuid: '3493b1bc-1c65-46e6-9cb6-9dd62b99afea'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'firefox'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 2D2955'
@@ -976,13 +1363,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/kavir'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'NL 🇳🇱 | @Raydikalx | 33CE4F'
@@ -994,12 +1381,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     xhttp-opts:
       path: '/kavir'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'Global 🌐 | @Raydikalx | DF04CF'
@@ -1011,16 +1398,16 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
-    client-fingerprint: 'firefox'
+    client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/kavir'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
-  - name: 'RU 🇷🇺 | @Raydikalx | DC607D'
+  - name: 'RU 🇷🇺 | @Raydikalx | 55F3A6'
     type: vless
     server: '185.86.145.173'
     port: 443
@@ -1029,11 +1416,27 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'firefox'
+    xhttp-opts:
+      path: '/api/v1/upload'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | F8F0D0'
+    type: vless
+    server: '78.159.240.72'
+    port: 8443
+    uuid: '37af0181-5598-4aad-a040-d926bcb65757'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 1873CF'
     type: vless
@@ -1044,11 +1447,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 37962A'
@@ -1060,11 +1463,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/static/js/chunk'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | 63D87C'
@@ -1076,13 +1479,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/static/js/chunk'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'CA 🇨🇦 | @Raydikalx | 3DFAB0'
@@ -1094,11 +1497,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/de'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'SC 🇸🇨 | @Raydikalx | 0CBA42'
@@ -1110,14 +1513,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/de'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | C5C7E9'
@@ -1129,33 +1532,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'US 🇺🇸 | @Raydikalx | 0DECEA'
-    type: vless
-    server: 'websaitiran.zorfel.ir'
-    port: 443
-    uuid: '45c09bef-41ee-49af-8152-4b45d2d7d91f'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'RU 🇷🇺 | @Raydikalx | ECB71A'
+  - name: 'RU 🇷🇺 | @Raydikalx | 2A91F2'
     type: vless
     server: '193.160.208.240'
     port: 443
@@ -1164,11 +1551,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/assets/twru01/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8710B6'
@@ -1180,14 +1566,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/assets/nl02/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'SG 🇸🇬 | @Raydikalx | AAE12E'
@@ -1199,10 +1585,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/Telegram3:@Configfori'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | E21A90'
@@ -1214,27 +1600,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'US 🇺🇸 | @Raydikalx | 766C2B'
-    type: vless
-    server: 'tulip.amydoodles.com'
-    port: 443
-    uuid: '4e932df2-a06a-4043-861c-87fe8d217aae'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    xhttp-opts:
-      path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 95C023'
@@ -1246,7 +1616,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -1254,7 +1624,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | 1DEB39'
@@ -1266,32 +1636,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 5E1CBE'
-    type: vless
-    server: '178.176.128.128'
-    port: 443
-    uuid: '50b95deb-6394-46c5-b88a-583e5b3ca7ee'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'firefox'
-    xhttp-opts:
-      path: '/storage/blob/v2/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | DD007E'
     type: vless
@@ -1302,12 +1654,98 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
+
+  - name: 'CA 🇨🇦 | @Raydikalx | FC038B'
+    type: vless
+    server: '172.64.155.209'
+    port: 8443
+    uuid: '55b3fd10-3658-40a2-8951-ec90932d1d30'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'CA 🇨🇦 | @Raydikalx | A46D91'
+    type: vless
+    server: 'chatgpt.com'
+    port: 8443
+    uuid: '55b3fd10-3658-40a2-8951-ec90932d1d30'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 81E9E3'
+    type: vless
+    server: '91.107.191.188'
+    port: 443
+    uuid: '56b7fb67-aae8-435d-9fb1-545dcfb2fb7e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/Meh?di=443'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | BA1ED4'
+    type: vless
+    server: 'kala.bestsellers1.site'
+    port: 443
+    uuid: '56b7fb67-aae8-435d-9fb1-545dcfb2fb7e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/Meh?di=443'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 69515B'
+    type: vless
+    server: '8pqutb.whitechannel-x1-cdn.ru'
+    port: 443
+    uuid: '59db3b91-48e2-405f-a9a1-7ef11c957104'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/api/v1/a6qtx9o1/sync/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | 7A6ADA'
     type: vless
@@ -1318,14 +1756,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'http/1.1'
       - 'h2'
     client-fingerprint: 'edge'
     xhttp-opts:
       path: '/assets/build/_app/immutable/chunks/stream-one/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'EE 🇪🇪 | @Raydikalx | E704A0'
     type: vless
@@ -1336,10 +1774,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/ShamanXHTTP2026'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 973F27'
@@ -1351,13 +1789,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 46D439'
@@ -1369,14 +1807,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/assets/build/_app/immutable/chunks/stream-one/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 1A6C99'
     type: vless
@@ -1387,11 +1825,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | FDEF92'
@@ -1403,13 +1841,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Meh?di=443'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'SG 🇸🇬 | @Raydikalx | 3B62AD'
@@ -1421,14 +1859,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/2f0ZyU'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 5D21C6'
@@ -1440,11 +1878,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | CC9FFA'
@@ -1456,12 +1894,48 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | 1AC4EB'
+    type: vless
+    server: 'api.ferrin.uk'
+    port: 443
+    uuid: '7d1a74fd-8a38-4a29-863f-5da53a9e557e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/es'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: stream-one
+
+  - name: 'US 🇺🇸 | @Raydikalx | 1C4221'
+    type: vless
+    server: 'api.ferrin.uk'
+    port: 443
+    uuid: '7d1a74fd-8a38-4a29-863f-5da53a9e557e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/es/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM?ed=2048'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | C8D7ED'
     type: vless
@@ -1472,13 +1946,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/es/?@MARAMBASHI—MARAMBASHI—MARAMBASHI—MARAMBASHI?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | 5930B0'
@@ -1490,49 +1964,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/es/?TELEGRAM—B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub—TELEGRAM?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'US 🇺🇸 | @Raydikalx | 5F2306'
-    type: vless
-    server: 'api.ferrin.uk'
-    port: 443
-    uuid: '7d1a74fd-8a38-4a29-863f-5da53a9e557e'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'android'
-    xhttp-opts:
-      path: '/es/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'US 🇺🇸 | @Raydikalx | 26A9C0'
-    type: vless
-    server: 'api.ferrin.uk'
-    port: 443
-    uuid: '7d1a74fd-8a38-4a29-863f-5da53a9e557e'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'chrome'
-    xhttp-opts:
-      path: '/es'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | 1FC75A'
@@ -1544,13 +1982,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 848DD2'
@@ -1562,13 +2000,48 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | 490282'
+    type: vless
+    server: '216.24.57.1'
+    port: 8443
+    uuid: '7ee2a33c-94c0-4af7-8f86-f42bef3e9e02'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'LT 🇱🇹 | @Raydikalx | 39AF29'
+    type: vless
+    server: 'pix.gilangard.ir'
+    port: 8443
+    uuid: '7ee2a33c-94c0-4af7-8f86-f42bef3e9e02'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 81EABC'
@@ -1580,14 +2053,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | AB560A'
@@ -1599,13 +2072,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/3a6b3b038ea34622bd1e13ec5798ab03'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
 
   - name: 'CA 🇨🇦 | @Raydikalx | 7EAD5C'
@@ -1617,14 +2090,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/8802c2c55be0'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 338149'
@@ -1636,7 +2109,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1644,7 +2117,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/BetForward'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 0548C1'
@@ -1656,13 +2129,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/ccxf5snr06b8xxb6'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | C38183'
@@ -1674,14 +2147,50 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/ccxf5snr06b8xxb6/?@MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | E6DAA8'
+    type: vless
+    server: '199.232.239.239'
+    port: 443
+    uuid: '88c56216-3061-4f77-dc86-6ca903299b64'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'firefox'
+    xhttp-opts:
+      path: '/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | 5248D9'
+    type: vless
+    server: '199.232.239.239'
+    port: 443
+    uuid: '88c56216-3061-4f77-dc86-6ca903299b64'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 53F015'
     type: vless
@@ -1692,13 +2201,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/@WanCloudFA'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | B81B36'
@@ -1710,13 +2219,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 796EA7'
@@ -1728,11 +2237,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/FiShChIpS'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | FBAF4E'
@@ -1744,27 +2253,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'US 🇺🇸 | @Raydikalx | 8C058B'
-    type: vless
-    server: 'mhcdn.sudo-network.co'
-    port: 2087
-    uuid: '8d2c45b0-58d6-4c79-8b66-2a7876f9dfbb'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    xhttp-opts:
-      path: '/?ed=2560'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | A12F2E'
@@ -1776,13 +2269,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/@Alfred_Config/@Alfred_Config/@Alfred_Config'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 44DB90'
@@ -1794,13 +2287,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Meh?di'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 52C594'
@@ -1813,14 +2306,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
       - 'http/1.1'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 32DACB'
@@ -1832,13 +2325,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/fast'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 60AB25'
@@ -1850,14 +2343,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/upload'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'SC 🇸🇨 | @Raydikalx | 7367D4'
@@ -1869,7 +2362,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -1877,10 +2370,10 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'US 🇺🇸 | @Raydikalx | E69782'
+  - name: 'US 🇺🇸 | @Raydikalx | FCCEBE'
     type: vless
     server: '216.24.57.1'
     port: 2083
@@ -1889,12 +2382,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7F5CB3'
     type: vless
@@ -1905,7 +2397,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -1913,7 +2405,7 @@ proxies:
     client-fingerprint: 'ios'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'CA 🇨🇦 | @Raydikalx | F7B8B7'
@@ -1925,10 +2417,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | E5940B'
@@ -1940,11 +2432,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 418E99'
@@ -1956,11 +2448,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | 7A6A9F'
@@ -1972,7 +2464,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -1980,10 +2472,10 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/settings----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
-  - name: 'CA 🇨🇦 | @Raydikalx | C6F4EA'
+  - name: 'CA 🇨🇦 | @Raydikalx | 14B551'
     type: vless
     server: '172.64.155.209'
     port: 8443
@@ -1992,14 +2484,18 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'http/1.1'
+      - 'h2'
+      - 'h3'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'CA 🇨🇦 | @Raydikalx | 1D0C0E'
+  - name: 'CA 🇨🇦 | @Raydikalx | 83DB8B'
     type: vless
     server: 'chatgpt.com'
     port: 8443
@@ -2008,7 +2504,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'http/1.1'
       - 'h2'
@@ -2016,7 +2512,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | DD7C7C'
@@ -2028,11 +2524,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'BY 🇧🇾 | @Raydikalx | 790986'
@@ -2044,11 +2540,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'BY 🇧🇾 | @Raydikalx | 4395D6'
@@ -2060,27 +2556,27 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'Global 🌐 | @Raydikalx | 78F9A3'
+  - name: 'BY 🇧🇾 | @Raydikalx | BF0BBE'
     type: vless
-    server: 'leviko-pl1961.shopingggg.ir'
+    server: 'leviko-pl1084.shopingggg.ir'
     port: 4443
     uuid: 'a35c508f-4d5d-4531-842e-6e9d43c762c0'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | 5A996F'
@@ -2092,11 +2588,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'Global 🌐 | @Raydikalx | 2EEFA9'
     type: vless
@@ -2107,11 +2603,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | FD3FEC'
@@ -2123,11 +2619,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'Global 🌐 | @Raydikalx | E8DFA0'
     type: vless
@@ -2138,11 +2634,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'LV 🇱🇻 | @Raydikalx | 5E738C'
@@ -2154,11 +2650,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 7F1B58'
@@ -2170,11 +2666,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/sync/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | A03562'
@@ -2186,28 +2682,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 76D486'
-    type: vless
-    server: '45.9.190.245'
-    port: 443
-    uuid: 'a5b1d16b-719b-4bd6-9d7b-fe6d84607da9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-    client-fingerprint: 'firefox'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 26AB8D'
     type: vless
@@ -2218,10 +2697,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/Telegram3:@Configfori'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'SG 🇸🇬 | @Raydikalx | 03B829'
@@ -2233,10 +2712,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/Telegram3:@Configfori'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | D27488'
@@ -2248,11 +2727,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/conv4/stream/77dd2aeeb94331fbff325bb48850392b'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'SC 🇸🇨 | @Raydikalx | D6C5A4'
@@ -2264,11 +2743,49 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/v2raylink'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'CA 🇨🇦 | @Raydikalx | BB5698'
+    type: vless
+    server: 't1.g-boot.ir'
+    port: 443
+    uuid: 'ae407090-fcd7-41e1-acf1-6115a6b8dcf4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/8802c2c55be0'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'CA 🇨🇦 | @Raydikalx | E8C3C6'
+    type: vless
+    server: 't3.g-boot.ir'
+    port: 443
+    uuid: 'ae407090-fcd7-41e1-acf1-6115a6b8dcf4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/8802c2c55be0'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | D05535'
@@ -2281,7 +2798,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -2289,7 +2806,25 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 6C7348'
+    type: vless
+    server: 'dl3.mbndadwsdf132131.torkey.ir'
+    port: 8443
+    uuid: 'b1b32a4a-eafd-4deb-baa0-c380189c3dcc'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    xhttp-opts:
+      path: '/assets/v1'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 132ABA'
@@ -2301,12 +2836,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     xhttp-opts:
       path: '/ccxf5snr06b8xxb6'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'SG 🇸🇬 | @Raydikalx | BE8FC8'
@@ -2318,10 +2853,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/adambarfi3'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 5682EB'
@@ -2334,13 +2869,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Meh?di=443'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 38872D'
@@ -2352,13 +2887,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 304038'
@@ -2370,13 +2905,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 6CA34A'
@@ -2389,11 +2924,45 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | B74338'
+    type: vless
+    server: '146.75.59.99'
+    port: 443
+    uuid: 'b7d51604-0805-41ed-9347-1f9c3571f19f'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/uk-fsx1'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 9A8F77'
+    type: vless
+    server: 'runway.chapjavan.ir'
+    port: 8880
+    uuid: 'b7d51604-0805-41ed-9347-1f9c3571f19f'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'JP 🇯🇵 | @Raydikalx | 46CA8F'
@@ -2405,14 +2974,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 3CAAAB'
@@ -2424,13 +2993,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | CFCA3C'
@@ -2442,13 +3011,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET?ed=2560'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 4E0C87'
@@ -2460,13 +3029,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---@Fear_Config---'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 71B60B'
@@ -2478,13 +3047,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---@bored_vpn'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 6FA050'
@@ -2496,11 +3065,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 700FF2'
@@ -2512,16 +3081,16 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA/--@WanCloudFA'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'CA 🇨🇦 | @Raydikalx | 19D2A7'
+  - name: 'CA 🇨🇦 | @Raydikalx | 57A24D'
     type: vless
     server: 'chatgpt.com'
     port: 8443
@@ -2530,14 +3099,18 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'http/1.1'
+      - 'h2'
+      - 'h3'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'CA 🇨🇦 | @Raydikalx | 7972E4'
+  - name: 'CA 🇨🇦 | @Raydikalx | EFDB6D'
     type: vless
     server: 'sinavm3.soft10.ir'
     port: 8443
@@ -2546,11 +3119,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'http/1.1'
+      - 'h2'
+      - 'h3'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 7970DB'
@@ -2563,13 +3140,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/videofjrj'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | DFB335'
@@ -2581,11 +3158,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | FC14CD'
@@ -2598,13 +3175,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Meh?di=443'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'LV 🇱🇻 | @Raydikalx | 8A440C'
@@ -2616,14 +3193,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/SmlDER32Ja'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | 1BBAC1'
@@ -2635,14 +3212,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 08799D'
@@ -2654,13 +3231,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 8C376B'
@@ -2672,13 +3249,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | E3A3B5'
+    type: vless
+    server: 's4.hemvixa.ir'
+    port: 2087
+    uuid: 'd448e308-89e2-4d39-b836-6f5751af557e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+      - 'h3'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/BetForward'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CY 🇨🇾 | @Raydikalx | 772702'
@@ -2690,11 +3287,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'firefox'
     xhttp-opts:
       path: '/media/e1c76c'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'BR 🇧🇷 | @Raydikalx | F9A1F1'
@@ -2706,7 +3303,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -2714,7 +3311,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | C65479'
@@ -2726,7 +3323,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
@@ -2734,7 +3331,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | CF1DF3'
@@ -2746,11 +3343,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/download.php'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'Global 🌐 | @Raydikalx | 628707'
@@ -2762,53 +3359,31 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'CA 🇨🇦 | @Raydikalx | D6EC2A'
+  - name: 'US 🇺🇸 | @Raydikalx | 78CF38'
     type: vless
-    server: 't1.g-boot.ir'
+    server: '146.75.32.177'
     port: 443
-    uuid: 'e2bbc15d-8121-4ecf-beb5-1fecf46abfc6'
+    uuid: 'e15225fb-0998-4719-8391-eede56f4d472'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'firefox'
     xhttp-opts:
-      path: '/8802c2c55be0'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 6684B7'
-    type: vless
-    server: 't3.g-boot.ir'
-    port: 443
-    uuid: 'e2bbc15d-8121-4ecf-beb5-1fecf46abfc6'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-    xhttp-opts:
-      path: '/8802c2c55be0'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: packet-up
 
   - name: 'US 🇺🇸 | @Raydikalx | F76F03'
     type: vless
@@ -2820,13 +3395,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 8BD7FD'
@@ -2838,11 +3413,26 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/xh'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | DFD85D'
+    type: vless
+    server: 'ipfast.kingmna.com'
+    port: 443
+    uuid: 'e5bab8e0-45c9-4e26-a346-8a522abf5406'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    xhttp-opts:
+      path: '/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 18DA3A'
@@ -2854,13 +3444,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | F26417'
@@ -2873,14 +3463,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | EE4C89'
@@ -2892,11 +3482,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 1696DC'
@@ -2908,11 +3498,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 6725D7'
@@ -2924,13 +3514,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | 972075'
@@ -2942,11 +3532,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 25AFFA'
     type: vless
@@ -2957,11 +3547,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | CC6502'
     type: vless
@@ -2972,13 +3562,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'RU 🇷🇺 | @Raydikalx | 2CCA2B'
+  - name: 'Global 🌐 | @Raydikalx | 2CCA2B'
     type: vless
     server: 'tg1.cdnphotos.org'
     port: 443
@@ -2987,13 +3577,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/api/v1/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | A96FB1'
@@ -3005,10 +3595,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | 03B84C'
@@ -3020,10 +3610,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | FEC0F1'
@@ -3035,10 +3625,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'CA 🇨🇦 | @Raydikalx | 71F120'
@@ -3050,10 +3640,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 2ED275'
@@ -3065,16 +3655,16 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'DE 🇩🇪 | @Raydikalx | A6CA0F'
+  - name: 'FI 🇫🇮 | @Raydikalx | A6CA0F'
     type: vless
     server: 'www.tgju.org'
     port: 443
@@ -3083,15 +3673,31 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-up
+
+  - name: 'US 🇺🇸 | @Raydikalx | 96E73B'
+    type: vless
+    server: 'render.com'
+    port: 443
+    uuid: 'f739a4fa-e015-4040-80ed-1e4aa10db8a8'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
+    xhttp-opts:
+      path: '/'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+      mode: stream-one
 
   - name: 'IR 🇮🇷 | @Raydikalx | DEFEB6'
     type: vless
@@ -3102,7 +3708,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -3110,7 +3716,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/BetForward'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | F52932'
@@ -3123,17 +3729,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h3'
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/configure/services/vzQ6lbMCPkOKGnZN5uJR3e/versions/2/domains'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 45B907'
+  - name: 'DE 🇩🇪 | @Raydikalx | F7F557'
     type: vless
     server: 'host.taghvimtime.ir'
     port: 8443
@@ -3142,13 +3748,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/Meh?di=443'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 6C0E74'
@@ -3160,10 +3766,10 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     xhttp-opts:
       path: '/api'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | 763E05'
@@ -3175,13 +3781,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/?Telegram---EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | A055B2'
@@ -3193,11 +3799,11 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/setare'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | B4A1BE'
@@ -3209,7 +3815,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -3217,7 +3823,7 @@ proxies:
     client-fingerprint: 'chrome'
     xhttp-opts:
       path: '/BetForward'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
       mode: auto
 
 
@@ -3229,8 +3835,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 'CA 🇨🇦 | @Raydikalx | 48A088'
-      - 'CA 🇨🇦 | @Raydikalx | A4C4F2'
-      - 'CA 🇨🇦 | @Raydikalx | DF34EA'
       - 'CA 🇨🇦 | @Raydikalx | B3DB3B'
       - 'FI 🇫🇮 | @Raydikalx | 893DB8'
       - 'US 🇺🇸 | @Raydikalx | 48607B'
@@ -3242,67 +3846,93 @@ proxy-groups:
       - 'GB 🇬🇧 | @Raydikalx | D5D455'
       - 'GB 🇬🇧 | @Raydikalx | 77FD2E'
       - 'RU 🇷🇺 | @Raydikalx | FF90DA'
+      - 'RU 🇷🇺 | @Raydikalx | 523B2D'
+      - 'RU 🇷🇺 | @Raydikalx | ACE78C'
+      - 'RU 🇷🇺 | @Raydikalx | 8A87DC'
+      - 'RU 🇷🇺 | @Raydikalx | B9386D'
       - 'GB 🇬🇧 | @Raydikalx | 8BA8B1'
       - 'RU 🇷🇺 | @Raydikalx | 5C2093'
+      - 'RU 🇷🇺 | @Raydikalx | 873229'
       - 'RU 🇷🇺 | @Raydikalx | DF44F4'
       - 'RU 🇷🇺 | @Raydikalx | 929166'
+      - 'RU 🇷🇺 | @Raydikalx | 27E272'
       - 'RU 🇷🇺 | @Raydikalx | CDD55B'
+      - 'RU 🇷🇺 | @Raydikalx | 7FD8D2'
+      - 'RU 🇷🇺 | @Raydikalx | DF8D9F'
       - 'RU 🇷🇺 | @Raydikalx | 763BA6'
       - 'RU 🇷🇺 | @Raydikalx | 53D741'
       - 'RU 🇷🇺 | @Raydikalx | 1CEFD7'
+      - 'RU 🇷🇺 | @Raydikalx | 671A83'
+      - 'RU 🇷🇺 | @Raydikalx | 1B4326'
       - 'US 🇺🇸 | @Raydikalx | 0A0358'
       - 'US 🇺🇸 | @Raydikalx | 342262'
       - 'AT 🇦🇹 | @Raydikalx | B74D6B'
       - 'US 🇺🇸 | @Raydikalx | F09B30'
+      - 'FI 🇫🇮 | @Raydikalx | 3B9E57'
+      - 'IR 🇮🇷 | @Raydikalx | 224C68'
       - 'DE 🇩🇪 | @Raydikalx | F2267E'
       - 'DE 🇩🇪 | @Raydikalx | 2ADDF3'
       - 'DE 🇩🇪 | @Raydikalx | CFAEDC'
       - 'Global 🌐 | @Raydikalx | 5B350F'
+      - 'CA 🇨🇦 | @Raydikalx | DD83C2'
       - 'US 🇺🇸 | @Raydikalx | E57E02'
       - 'US 🇺🇸 | @Raydikalx | 2CE194'
       - 'US 🇺🇸 | @Raydikalx | 29FC3D'
       - 'US 🇺🇸 | @Raydikalx | D3F5C2'
+      - 'CZ 🇨🇿 | @Raydikalx | D12F36'
+      - 'RU 🇷🇺 | @Raydikalx | 8FF094'
       - 'IR 🇮🇷 | @Raydikalx | 841547'
       - 'IR 🇮🇷 | @Raydikalx | BB5824'
       - 'US 🇺🇸 | @Raydikalx | 3F2EEC'
       - 'IR 🇮🇷 | @Raydikalx | D97BD3'
       - 'US 🇺🇸 | @Raydikalx | D1DF67'
       - 'RU 🇷🇺 | @Raydikalx | B4F476'
+      - 'US 🇺🇸 | @Raydikalx | 8BF26B'
+      - 'US 🇺🇸 | @Raydikalx | C40E1A'
+      - 'US 🇺🇸 | @Raydikalx | 769E3E'
+      - 'US 🇺🇸 | @Raydikalx | 7993BB'
+      - 'US 🇺🇸 | @Raydikalx | C5C2A5'
+      - 'US 🇺🇸 | @Raydikalx | CE70D3'
       - 'DE 🇩🇪 | @Raydikalx | 1F9412'
       - 'NL 🇳🇱 | @Raydikalx | E13BAB'
       - 'Global 🌐 | @Raydikalx | DF9426'
       - 'DE 🇩🇪 | @Raydikalx | B7AFC0'
       - 'DE 🇩🇪 | @Raydikalx | 955331'
+      - 'BG 🇧🇬 | @Raydikalx | 77DD53'
       - 'CA 🇨🇦 | @Raydikalx | F9DC54'
       - 'CA 🇨🇦 | @Raydikalx | 8AC175'
       - 'CA 🇨🇦 | @Raydikalx | B7A2E8'
       - 'CA 🇨🇦 | @Raydikalx | B25C74'
-      - 'US 🇺🇸 | @Raydikalx | FCA12B'
+      - 'IR 🇮🇷 | @Raydikalx | C98CEB'
       - 'US 🇺🇸 | @Raydikalx | 7458EC'
       - 'US 🇺🇸 | @Raydikalx | A7ED87'
       - 'US 🇺🇸 | @Raydikalx | DA430F'
       - 'US 🇺🇸 | @Raydikalx | 4A4D34'
       - 'US 🇺🇸 | @Raydikalx | 526D2D'
+      - 'RU 🇷🇺 | @Raydikalx | 63105D'
       - 'NL 🇳🇱 | @Raydikalx | 2D2955'
       - 'NL 🇳🇱 | @Raydikalx | 33CE4F'
       - 'Global 🌐 | @Raydikalx | DF04CF'
-      - 'RU 🇷🇺 | @Raydikalx | DC607D'
+      - 'RU 🇷🇺 | @Raydikalx | 55F3A6'
+      - 'DE 🇩🇪 | @Raydikalx | F8F0D0'
       - 'NL 🇳🇱 | @Raydikalx | 1873CF'
       - 'US 🇺🇸 | @Raydikalx | 37962A'
       - 'US 🇺🇸 | @Raydikalx | 63D87C'
       - 'CA 🇨🇦 | @Raydikalx | 3DFAB0'
       - 'SC 🇸🇨 | @Raydikalx | 0CBA42'
       - 'US 🇺🇸 | @Raydikalx | C5C7E9'
-      - 'US 🇺🇸 | @Raydikalx | 0DECEA'
-      - 'RU 🇷🇺 | @Raydikalx | ECB71A'
+      - 'RU 🇷🇺 | @Raydikalx | 2A91F2'
       - 'NL 🇳🇱 | @Raydikalx | 8710B6'
       - 'SG 🇸🇬 | @Raydikalx | AAE12E'
       - 'US 🇺🇸 | @Raydikalx | E21A90'
-      - 'US 🇺🇸 | @Raydikalx | 766C2B'
       - 'US 🇺🇸 | @Raydikalx | 95C023'
       - 'Global 🌐 | @Raydikalx | 1DEB39'
-      - 'RU 🇷🇺 | @Raydikalx | 5E1CBE'
       - 'US 🇺🇸 | @Raydikalx | DD007E'
+      - 'CA 🇨🇦 | @Raydikalx | FC038B'
+      - 'CA 🇨🇦 | @Raydikalx | A46D91'
+      - 'DE 🇩🇪 | @Raydikalx | 81E9E3'
+      - 'DE 🇩🇪 | @Raydikalx | BA1ED4'
+      - 'RU 🇷🇺 | @Raydikalx | 69515B'
       - 'GB 🇬🇧 | @Raydikalx | 7A6ADA'
       - 'EE 🇪🇪 | @Raydikalx | E704A0'
       - 'US 🇺🇸 | @Raydikalx | 973F27'
@@ -3312,41 +3942,44 @@ proxy-groups:
       - 'SG 🇸🇬 | @Raydikalx | 3B62AD'
       - 'US 🇺🇸 | @Raydikalx | 5D21C6'
       - 'US 🇺🇸 | @Raydikalx | CC9FFA'
+      - 'US 🇺🇸 | @Raydikalx | 1AC4EB'
+      - 'US 🇺🇸 | @Raydikalx | 1C4221'
       - 'US 🇺🇸 | @Raydikalx | C8D7ED'
       - 'US 🇺🇸 | @Raydikalx | 5930B0'
-      - 'US 🇺🇸 | @Raydikalx | 5F2306'
-      - 'US 🇺🇸 | @Raydikalx | 26A9C0'
       - 'US 🇺🇸 | @Raydikalx | 1FC75A'
       - 'US 🇺🇸 | @Raydikalx | 848DD2'
+      - 'US 🇺🇸 | @Raydikalx | 490282'
+      - 'LT 🇱🇹 | @Raydikalx | 39AF29'
       - 'US 🇺🇸 | @Raydikalx | 81EABC'
       - 'CA 🇨🇦 | @Raydikalx | AB560A'
       - 'CA 🇨🇦 | @Raydikalx | 7EAD5C'
       - 'IR 🇮🇷 | @Raydikalx | 338149'
       - 'RU 🇷🇺 | @Raydikalx | 0548C1'
       - 'RU 🇷🇺 | @Raydikalx | C38183'
+      - 'US 🇺🇸 | @Raydikalx | E6DAA8'
+      - 'US 🇺🇸 | @Raydikalx | 5248D9'
       - 'US 🇺🇸 | @Raydikalx | 53F015'
       - 'US 🇺🇸 | @Raydikalx | B81B36'
       - 'IR 🇮🇷 | @Raydikalx | 796EA7'
       - 'DE 🇩🇪 | @Raydikalx | FBAF4E'
-      - 'US 🇺🇸 | @Raydikalx | 8C058B'
       - 'US 🇺🇸 | @Raydikalx | A12F2E'
       - 'DE 🇩🇪 | @Raydikalx | 44DB90'
       - 'US 🇺🇸 | @Raydikalx | 52C594'
       - 'US 🇺🇸 | @Raydikalx | 32DACB'
       - 'NL 🇳🇱 | @Raydikalx | 60AB25'
       - 'SC 🇸🇨 | @Raydikalx | 7367D4'
-      - 'US 🇺🇸 | @Raydikalx | E69782'
+      - 'US 🇺🇸 | @Raydikalx | FCCEBE'
       - 'US 🇺🇸 | @Raydikalx | 7F5CB3'
       - 'CA 🇨🇦 | @Raydikalx | F7B8B7'
       - 'US 🇺🇸 | @Raydikalx | E5940B'
       - 'US 🇺🇸 | @Raydikalx | 418E99'
       - 'CA 🇨🇦 | @Raydikalx | 7A6A9F'
-      - 'CA 🇨🇦 | @Raydikalx | C6F4EA'
-      - 'CA 🇨🇦 | @Raydikalx | 1D0C0E'
+      - 'CA 🇨🇦 | @Raydikalx | 14B551'
+      - 'CA 🇨🇦 | @Raydikalx | 83DB8B'
       - 'US 🇺🇸 | @Raydikalx | DD7C7C'
       - 'BY 🇧🇾 | @Raydikalx | 790986'
       - 'BY 🇧🇾 | @Raydikalx | 4395D6'
-      - 'Global 🌐 | @Raydikalx | 78F9A3'
+      - 'BY 🇧🇾 | @Raydikalx | BF0BBE'
       - 'Global 🌐 | @Raydikalx | 5A996F'
       - 'Global 🌐 | @Raydikalx | 2EEFA9'
       - 'Global 🌐 | @Raydikalx | FD3FEC'
@@ -3354,18 +3987,22 @@ proxy-groups:
       - 'LV 🇱🇻 | @Raydikalx | 5E738C'
       - 'US 🇺🇸 | @Raydikalx | 7F1B58'
       - 'US 🇺🇸 | @Raydikalx | A03562'
-      - 'NL 🇳🇱 | @Raydikalx | 76D486'
       - 'SG 🇸🇬 | @Raydikalx | 26AB8D'
       - 'SG 🇸🇬 | @Raydikalx | 03B829'
       - 'Global 🌐 | @Raydikalx | D27488'
       - 'SC 🇸🇨 | @Raydikalx | D6C5A4'
+      - 'CA 🇨🇦 | @Raydikalx | BB5698'
+      - 'CA 🇨🇦 | @Raydikalx | E8C3C6'
       - 'CA 🇨🇦 | @Raydikalx | D05535'
+      - 'IR 🇮🇷 | @Raydikalx | 6C7348'
       - 'RU 🇷🇺 | @Raydikalx | 132ABA'
       - 'SG 🇸🇬 | @Raydikalx | BE8FC8'
       - 'DE 🇩🇪 | @Raydikalx | 5682EB'
       - 'US 🇺🇸 | @Raydikalx | 38872D'
       - 'US 🇺🇸 | @Raydikalx | 304038'
       - 'US 🇺🇸 | @Raydikalx | 6CA34A'
+      - 'US 🇺🇸 | @Raydikalx | B74338'
+      - 'IR 🇮🇷 | @Raydikalx | 9A8F77'
       - 'JP 🇯🇵 | @Raydikalx | 46CA8F'
       - 'US 🇺🇸 | @Raydikalx | 3CAAAB'
       - 'US 🇺🇸 | @Raydikalx | CFCA3C'
@@ -3373,8 +4010,8 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 71B60B'
       - 'US 🇺🇸 | @Raydikalx | 6FA050'
       - 'US 🇺🇸 | @Raydikalx | 700FF2'
-      - 'CA 🇨🇦 | @Raydikalx | 19D2A7'
-      - 'CA 🇨🇦 | @Raydikalx | 7972E4'
+      - 'CA 🇨🇦 | @Raydikalx | 57A24D'
+      - 'CA 🇨🇦 | @Raydikalx | EFDB6D'
       - 'US 🇺🇸 | @Raydikalx | 7970DB'
       - 'Global 🌐 | @Raydikalx | DFB335'
       - 'DE 🇩🇪 | @Raydikalx | FC14CD'
@@ -3382,15 +4019,16 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 1BBAC1'
       - 'US 🇺🇸 | @Raydikalx | 08799D'
       - 'US 🇺🇸 | @Raydikalx | 8C376B'
+      - 'IR 🇮🇷 | @Raydikalx | E3A3B5'
       - 'CY 🇨🇾 | @Raydikalx | 772702'
       - 'BR 🇧🇷 | @Raydikalx | F9A1F1'
       - 'US 🇺🇸 | @Raydikalx | C65479'
       - 'CA 🇨🇦 | @Raydikalx | CF1DF3'
       - 'Global 🌐 | @Raydikalx | 628707'
-      - 'CA 🇨🇦 | @Raydikalx | D6EC2A'
-      - 'CA 🇨🇦 | @Raydikalx | 6684B7'
+      - 'US 🇺🇸 | @Raydikalx | 78CF38'
       - 'US 🇺🇸 | @Raydikalx | F76F03'
       - 'DE 🇩🇪 | @Raydikalx | 8BD7FD'
+      - 'US 🇺🇸 | @Raydikalx | DFD85D'
       - 'NL 🇳🇱 | @Raydikalx | 18DA3A'
       - 'US 🇺🇸 | @Raydikalx | F26417'
       - 'RU 🇷🇺 | @Raydikalx | EE4C89'
@@ -3399,16 +4037,17 @@ proxy-groups:
       - 'RU 🇷🇺 | @Raydikalx | 972075'
       - 'RU 🇷🇺 | @Raydikalx | 25AFFA'
       - 'RU 🇷🇺 | @Raydikalx | CC6502'
-      - 'RU 🇷🇺 | @Raydikalx | 2CCA2B'
+      - 'Global 🌐 | @Raydikalx | 2CCA2B'
       - 'CA 🇨🇦 | @Raydikalx | A96FB1'
       - 'CA 🇨🇦 | @Raydikalx | 03B84C'
       - 'CA 🇨🇦 | @Raydikalx | FEC0F1'
       - 'CA 🇨🇦 | @Raydikalx | 71F120'
       - 'US 🇺🇸 | @Raydikalx | 2ED275'
-      - 'DE 🇩🇪 | @Raydikalx | A6CA0F'
+      - 'FI 🇫🇮 | @Raydikalx | A6CA0F'
+      - 'US 🇺🇸 | @Raydikalx | 96E73B'
       - 'IR 🇮🇷 | @Raydikalx | DEFEB6'
       - 'US 🇺🇸 | @Raydikalx | F52932'
-      - 'DE 🇩🇪 | @Raydikalx | 45B907'
+      - 'DE 🇩🇪 | @Raydikalx | F7F557'
       - 'DE 🇩🇪 | @Raydikalx | 6C0E74'
       - 'US 🇺🇸 | @Raydikalx | 763E05'
       - 'US 🇺🇸 | @Raydikalx | A055B2'
