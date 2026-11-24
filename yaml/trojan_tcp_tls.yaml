@@ -7,7 +7,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | E75317'
     type: trojan
@@ -17,7 +17,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | BB2FE8'
     type: trojan
@@ -27,7 +27,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'KR 🇰🇷 | @Raydikalx | 75B776'
     type: trojan
@@ -37,7 +37,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 93578B'
     type: trojan
@@ -47,7 +47,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4705C1'
     type: trojan
@@ -57,7 +57,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 796A40'
     type: trojan
@@ -67,7 +67,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 00771D'
     type: trojan
@@ -77,7 +77,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 798B3A'
     type: trojan
@@ -87,7 +87,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8DA169'
     type: trojan
@@ -97,7 +97,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D327E5'
     type: trojan
@@ -107,7 +107,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C55613'
     type: trojan
@@ -117,7 +117,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F2A0CA'
     type: trojan
@@ -127,7 +127,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 0CB14F'
     type: trojan
@@ -137,7 +137,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A7D9EA'
     type: trojan
@@ -147,7 +147,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8051E9'
     type: trojan
@@ -157,7 +157,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 0567AA'
     type: trojan
@@ -167,7 +167,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F77BD3'
     type: trojan
@@ -177,7 +177,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 736062'
     type: trojan
@@ -187,7 +187,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | BB9EC6'
     type: trojan
@@ -197,7 +197,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | FE1AD2'
     type: trojan
@@ -207,7 +207,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C23131'
     type: trojan
@@ -217,7 +217,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A08D26'
     type: trojan
@@ -227,7 +227,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E8963D'
     type: trojan
@@ -237,7 +237,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 949227'
     type: trojan
@@ -247,7 +247,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D9696F'
     type: trojan
@@ -257,7 +257,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 03F702'
     type: trojan
@@ -267,7 +267,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F81FC5'
     type: trojan
@@ -277,7 +277,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 33F8BE'
     type: trojan
@@ -287,7 +287,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 1921E5'
     type: trojan
@@ -297,7 +297,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | B194A8'
     type: trojan
@@ -307,7 +307,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | FB69CD'
     type: trojan
@@ -317,7 +317,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 252CA9'
     type: trojan
@@ -327,7 +327,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | A4272B'
     type: trojan
@@ -337,7 +337,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | DA2ACE'
     type: trojan
@@ -347,7 +347,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | DF8630'
     type: trojan
@@ -357,7 +357,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 894BDE'
     type: trojan
@@ -367,7 +367,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | C6F0FA'
     type: trojan
@@ -377,7 +377,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 475B94'
     type: trojan
@@ -387,7 +387,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 82B9CD'
     type: trojan
@@ -397,7 +397,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 5310AB'
     type: trojan
@@ -407,7 +407,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 412F3F'
     type: trojan
@@ -417,7 +417,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C8D4AD'
     type: trojan
@@ -427,7 +427,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A0C347'
     type: trojan
@@ -437,7 +437,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | FB18EA'
@@ -448,7 +448,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7DB317'
@@ -459,7 +459,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | F195D8'
@@ -470,7 +470,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 48B559'
@@ -481,7 +481,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | B897AE'
     type: trojan
@@ -491,7 +491,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 09103E'
     type: trojan
@@ -501,7 +501,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | C7686D'
     type: trojan
@@ -511,7 +511,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 168319'
     type: trojan
@@ -521,7 +521,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 79D302'
     type: trojan
@@ -531,7 +531,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 6CB1D6'
     type: trojan
@@ -541,7 +541,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | FB5613'
     type: trojan
@@ -551,7 +551,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 540A40'
     type: trojan
@@ -561,7 +561,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7B15EE'
     type: trojan
@@ -571,7 +571,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 5BA270'
     type: trojan
@@ -581,7 +581,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | B143E4'
     type: trojan
@@ -591,7 +591,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 71EF67'
     type: trojan
@@ -601,7 +601,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 3DAA21'
     type: trojan
@@ -611,7 +611,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 652AA5'
     type: trojan
@@ -621,7 +621,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 58D7D4'
     type: trojan
@@ -631,7 +631,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 16ACF4'
     type: trojan
@@ -641,7 +641,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 1D3803'
     type: trojan
@@ -651,7 +651,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 2432D9'
     type: trojan
@@ -661,7 +661,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 815D87'
     type: trojan
@@ -671,7 +671,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E66AF3'
     type: trojan
@@ -681,7 +681,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | EAAF0E'
     type: trojan
@@ -691,7 +691,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E30022'
     type: trojan
@@ -701,7 +701,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 792421'
     type: trojan
@@ -711,7 +711,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | B26947'
     type: trojan
@@ -721,7 +721,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 468254'
     type: trojan
@@ -731,7 +731,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 472D5E'
     type: trojan
@@ -741,7 +741,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | C8B193'
     type: trojan
@@ -751,7 +751,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'MX 🇲🇽 | @Raydikalx | 055C21'
     type: trojan
@@ -761,7 +761,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'AU 🇦🇺 | @Raydikalx | 4787DF'
     type: trojan
@@ -771,7 +771,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'IL 🇮🇱 | @Raydikalx | 7C445A'
     type: trojan
@@ -781,7 +781,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CL 🇨🇱 | @Raydikalx | 3679D3'
     type: trojan
@@ -791,7 +791,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | CFA29A'
     type: trojan
@@ -801,7 +801,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 67F66B'
     type: trojan
@@ -811,7 +811,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | B1D7F7'
     type: trojan
@@ -821,7 +821,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C81AF3'
     type: trojan
@@ -831,7 +831,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 684C69'
     type: trojan
@@ -841,7 +841,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 6572E1'
     type: trojan
@@ -851,7 +851,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 1BAF48'
     type: trojan
@@ -861,7 +861,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 52E9AA'
     type: trojan
@@ -871,7 +871,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 3274C4'
     type: trojan
@@ -881,7 +881,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 16AFF6'
     type: trojan
@@ -891,7 +891,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8BF190'
     type: trojan
@@ -901,7 +901,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4EBD64'
     type: trojan
@@ -911,7 +911,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | FFA00A'
     type: trojan
@@ -921,7 +921,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 23538E'
     type: trojan
@@ -931,7 +931,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4538E8'
     type: trojan
@@ -941,7 +941,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 4AC48F'
     type: trojan
@@ -951,7 +951,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | F6A42C'
     type: trojan
@@ -961,7 +961,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 3B5924'
     type: trojan
@@ -971,7 +971,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 2A8C03'
     type: trojan
@@ -981,7 +981,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | F48624'
     type: trojan
@@ -991,7 +991,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 2A4AB3'
@@ -1002,7 +1002,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ES 🇪🇸 | @Raydikalx | 2712B5'
     type: trojan
@@ -1012,7 +1012,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4BF2FF'
     type: trojan
@@ -1022,7 +1022,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 651D8C'
     type: trojan
@@ -1032,7 +1032,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 77C617'
     type: trojan
@@ -1042,7 +1042,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | 885E99'
@@ -1053,7 +1053,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | AD8601'
     type: trojan
@@ -1063,7 +1063,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 120146'
     type: trojan
@@ -1073,7 +1073,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E05E90'
     type: trojan
@@ -1083,7 +1083,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 412587'
     type: trojan
@@ -1093,7 +1093,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | E3A45B'
@@ -1104,7 +1104,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | AE2C85'
     type: trojan
@@ -1114,7 +1114,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | B8902A'
@@ -1125,7 +1125,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8B573E'
@@ -1136,7 +1136,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 3D936F'
@@ -1147,7 +1147,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 97C064'
     type: trojan
@@ -1157,7 +1157,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | A5AEF2'
     type: trojan
@@ -1167,7 +1167,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 2C8E24'
     type: trojan
@@ -1177,7 +1177,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | EA36F6'
     type: trojan
@@ -1187,7 +1187,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'CL 🇨🇱 | @Raydikalx | D75E15'
     type: trojan
@@ -1197,7 +1197,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'Global 🌐 | @Raydikalx | 590A4E'
     type: trojan
@@ -1207,7 +1207,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'Global 🌐 | @Raydikalx | 8D041E'
     type: trojan
@@ -1217,7 +1217,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 80487A'
     type: trojan
@@ -1227,7 +1227,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'TW 🇹🇼 | @Raydikalx | BE3690'
     type: trojan
@@ -1237,7 +1237,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | B25FED'
@@ -1248,7 +1248,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | 280D3F'
@@ -1259,7 +1259,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 2546A8'
     type: trojan
@@ -1269,7 +1269,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | FAB78A'
     type: trojan
@@ -1279,7 +1279,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'firefox'
 
   - name: 'SG 🇸🇬 | @Raydikalx | D08154'
@@ -1290,7 +1290,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8CE14C'
     type: trojan
@@ -1300,7 +1300,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | E63BC2'
     type: trojan
@@ -1310,7 +1310,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 35E45C'
@@ -1321,7 +1321,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'ID 🇮🇩 | @Raydikalx | B454CB'
     type: trojan
@@ -1331,7 +1331,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 8099F3'
     type: trojan
@@ -1341,7 +1341,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | E0DD1B'
     type: trojan
@@ -1351,7 +1351,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | E2EB67'
     type: trojan
@@ -1361,7 +1361,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | C20C1E'
     type: trojan
@@ -1371,7 +1371,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 933884'
     type: trojan
@@ -1381,7 +1381,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'MY 🇲🇾 | @Raydikalx | 7E8D78'
     type: trojan
@@ -1391,7 +1391,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'TH 🇹🇭 | @Raydikalx | 324DD7'
     type: trojan
@@ -1401,7 +1401,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'CA 🇨🇦 | @Raydikalx | AA675E'
@@ -1412,7 +1412,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'IN 🇮🇳 | @Raydikalx | 515F34'
     type: trojan
@@ -1422,7 +1422,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'KR 🇰🇷 | @Raydikalx | 10B57A'
     type: trojan
@@ -1432,7 +1432,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'MX 🇲🇽 | @Raydikalx | 4A012F'
     type: trojan
@@ -1442,7 +1442,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'TH 🇹🇭 | @Raydikalx | 5B2CEE'
     type: trojan
@@ -1452,7 +1452,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 1DF37F'
     type: trojan
@@ -1462,7 +1462,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | AEAA37'
     type: trojan
@@ -1472,7 +1472,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | B18C64'
     type: trojan
@@ -1482,7 +1482,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | D3E5A8'
     type: trojan
@@ -1492,7 +1492,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | CE2761'
@@ -1503,7 +1503,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 0A2FBF'
@@ -1514,7 +1514,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | A8789C'
     type: trojan
@@ -1524,7 +1524,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D4C9E4'
     type: trojan
@@ -1534,7 +1534,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 938B7F'
     type: trojan
@@ -1544,7 +1544,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | BE23E5'
@@ -1555,7 +1555,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 354AF4'
@@ -1566,7 +1566,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4E9BF5'
     type: trojan
@@ -1576,7 +1576,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'HK 🇭🇰 | @Raydikalx | F764EB'
@@ -1587,7 +1587,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 67DBC5'
     type: trojan
@@ -1597,7 +1597,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | CD10FA'
     type: trojan
@@ -1607,7 +1607,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 391105'
     type: trojan
@@ -1617,7 +1617,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 2BC027'
     type: trojan
@@ -1627,7 +1627,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | BEF953'
     type: trojan
@@ -1637,7 +1637,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 4AB5D5'
     type: trojan
@@ -1647,7 +1647,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D6CDBA'
     type: trojan
@@ -1657,7 +1657,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 22AF20'
     type: trojan
@@ -1667,7 +1667,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 49B65F'
     type: trojan
@@ -1677,7 +1677,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 179189'
     type: trojan
@@ -1687,7 +1687,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 97BA3A'
     type: trojan
@@ -1697,7 +1697,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | C4AF0E'
     type: trojan
@@ -1707,7 +1707,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 6A2478'
     type: trojan
@@ -1717,7 +1717,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 001B88'
     type: trojan
@@ -1727,7 +1727,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E61A28'
     type: trojan
@@ -1737,7 +1737,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | 7F07F4'
     type: trojan
@@ -1747,7 +1747,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1761,7 +1761,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | FC4C22'
     type: trojan
@@ -1771,7 +1771,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'BY 🇧🇾 | @Raydikalx | 4B3BD3'
@@ -1782,7 +1782,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 0CD100'
     type: trojan
@@ -1792,7 +1792,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 23E5B2'
     type: trojan
@@ -1802,7 +1802,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 56583D'
     type: trojan
@@ -1812,7 +1812,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 9D1663'
     type: trojan
@@ -1822,7 +1822,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 6E1A12'
     type: trojan
@@ -1832,7 +1832,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'Global 🌐 | @Raydikalx | 83DA8F'
     type: trojan
@@ -1842,7 +1842,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 8783EE'
     type: trojan
@@ -1852,7 +1852,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1866,7 +1866,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F1727D'
@@ -1877,7 +1877,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 3FA33A'
@@ -1888,7 +1888,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 2E7809'
@@ -1899,7 +1899,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     alpn:
       - 'http/1.1'
 
@@ -1911,7 +1911,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1925,7 +1925,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 5A12B5'
@@ -1936,7 +1936,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1950,7 +1950,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    sni: 'bmc.com'
 
 
 proxy-groups:
