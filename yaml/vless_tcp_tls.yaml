@@ -8,7 +8,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | 794B01'
     type: vless
@@ -19,7 +19,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -32,7 +32,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | CEE2A2'
@@ -43,7 +43,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
+
+  - name: 'US 🇺🇸 | @Raydikalx | AF03D6'
+    type: vless
+    server: '216.106.185.158'
+    port: 443
+    uuid: '03fcc618-b93d-6796-6aed-8a38c975d581'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'instagram.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | B95E69'
     type: vless
@@ -53,7 +63,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 42E793'
     type: vless
@@ -63,7 +73,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 60EC2D'
     type: vless
@@ -73,7 +83,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 492E74'
     type: vless
@@ -84,7 +94,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -98,7 +108,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 2C76E3'
@@ -109,7 +119,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -125,7 +135,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | E90676'
@@ -136,7 +146,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | 893805'
     type: vless
@@ -148,7 +158,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8E8BDC'
@@ -160,7 +170,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -176,7 +186,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 4ABB38'
@@ -188,7 +198,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -203,7 +213,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -218,7 +228,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -233,7 +243,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -248,7 +258,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -263,7 +273,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -278,7 +288,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -293,7 +303,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -308,7 +318,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -323,7 +333,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -338,7 +348,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -353,7 +363,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -367,7 +377,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'firefox'
@@ -381,7 +391,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'IR 🇮🇷 | @Raydikalx | E3DE4B'
@@ -392,7 +402,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 825A48'
@@ -403,7 +413,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'RO 🇷🇴 | @Raydikalx | DCE3A7'
@@ -415,7 +425,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -429,7 +439,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 7C7E2B'
     type: vless
@@ -440,7 +450,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | D34766'
@@ -452,7 +462,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 0F4780'
@@ -464,7 +474,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | F94B50'
@@ -476,7 +486,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 781F06'
@@ -488,7 +498,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | CE54DB'
     type: vless
@@ -499,7 +509,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'Global 🌐 | @Raydikalx | 1EB7E3'
@@ -512,7 +522,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 2CCA03'
@@ -525,7 +535,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | CD4F29'
@@ -536,7 +546,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 2E4C86'
@@ -548,7 +558,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | BE25A5'
     type: vless
@@ -559,7 +569,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -574,7 +584,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -588,7 +598,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | AA64C8'
@@ -600,7 +610,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | D4B32E'
@@ -612,7 +622,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -626,7 +636,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 6FD090'
     type: vless
@@ -637,7 +647,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 86B09D'
     type: vless
@@ -647,7 +657,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -661,7 +671,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 616692'
     type: vless
@@ -671,7 +681,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A35392'
     type: vless
@@ -682,7 +692,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -697,7 +707,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -712,7 +722,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -727,7 +737,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 338702'
     type: vless
@@ -738,7 +748,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 20D176'
@@ -750,7 +760,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 8AFCCF'
@@ -761,7 +771,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -774,7 +784,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | DCA879'
@@ -785,7 +795,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'NL 🇳🇱 | @Raydikalx | D0227D'
@@ -797,7 +807,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -812,7 +822,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -826,7 +836,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -841,7 +851,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -856,7 +866,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -871,7 +881,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -886,7 +896,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -901,7 +911,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -916,7 +926,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -931,7 +941,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -946,7 +956,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -961,7 +971,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -976,7 +986,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -991,7 +1001,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1006,7 +1016,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1021,7 +1031,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1036,7 +1046,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1051,7 +1061,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1066,7 +1076,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1081,7 +1091,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1096,7 +1106,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1111,7 +1121,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1126,7 +1136,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1141,7 +1151,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1156,7 +1166,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1170,7 +1180,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'SE 🇸🇪 | @Raydikalx | E40D7A'
@@ -1181,7 +1191,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1195,7 +1205,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 9F5101'
     type: vless
@@ -1206,7 +1216,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'JP 🇯🇵 | @Raydikalx | D2F30C'
@@ -1218,7 +1228,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 972897'
@@ -1231,7 +1241,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 05FC7D'
@@ -1243,7 +1253,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | E70C32'
@@ -1255,7 +1265,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | B29884'
@@ -1267,7 +1277,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1281,7 +1291,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
 
@@ -1293,7 +1303,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'TR 🇹🇷 | @Raydikalx | DF2F68'
@@ -1305,7 +1315,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1318,7 +1328,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | C355BB'
@@ -1329,7 +1339,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1344,7 +1354,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | A53FA8'
@@ -1356,7 +1366,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 487DCC'
@@ -1368,7 +1378,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1383,7 +1393,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1397,7 +1407,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | E5E825'
     type: vless
@@ -1407,7 +1417,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | D6494E'
     type: vless
@@ -1417,7 +1427,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1432,9 +1442,9 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 092FF3'
+  - name: 'CZ 🇨🇿 | @Raydikalx | 092FF3'
     type: vless
     server: 'cdn7-39.vk-cdnvideo.com'
     port: 8443
@@ -1442,7 +1452,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 94DC7B'
     type: vless
@@ -1453,7 +1463,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
     packet-encoding: 'xudp'
 
@@ -1465,7 +1475,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 7A6EC9'
@@ -1478,7 +1488,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | E12F5E'
@@ -1489,7 +1499,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'EE 🇪🇪 | @Raydikalx | 49465F'
@@ -1500,7 +1510,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus'
 
@@ -1513,7 +1523,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'CH 🇨🇭 | @Raydikalx | A19323'
@@ -1524,7 +1534,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | D8A9D8'
@@ -1536,7 +1546,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'Global 🌐 | @Raydikalx | BA259B'
@@ -1548,7 +1558,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 752B88'
     type: vless
@@ -1559,7 +1569,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 6BDA81'
@@ -1571,7 +1581,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1585,7 +1595,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 7CD70D'
@@ -1596,7 +1606,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 8BB929'
@@ -1607,7 +1617,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1620,7 +1630,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | BB6AFF'
@@ -1631,7 +1641,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 44DB4C'
@@ -1642,7 +1652,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1655,7 +1665,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1668,7 +1678,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1681,7 +1691,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1694,7 +1704,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1707,7 +1717,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1720,7 +1730,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -1734,7 +1744,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 3AC287'
@@ -1746,7 +1756,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1761,7 +1771,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1775,7 +1785,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 602592'
     type: vless
@@ -1785,7 +1795,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1798,7 +1808,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1813,7 +1823,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1827,7 +1837,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1841,7 +1851,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | B0E48E'
     type: vless
@@ -1851,7 +1861,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | 2AFF3F'
     type: vless
@@ -1862,7 +1872,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1877,7 +1887,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1892,7 +1902,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1906,7 +1916,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | CE445B'
     type: vless
@@ -1916,7 +1926,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -1931,7 +1941,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | E429A3'
     type: vless
@@ -1942,7 +1952,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 5813A9'
@@ -1954,7 +1964,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1968,7 +1978,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1982,7 +1992,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -1996,7 +2006,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2010,7 +2020,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2024,7 +2034,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2039,7 +2049,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2053,7 +2063,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2067,7 +2077,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2082,7 +2092,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2097,7 +2107,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2112,7 +2122,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2126,7 +2136,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2140,7 +2150,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2154,7 +2164,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2168,7 +2178,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2183,7 +2193,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2197,7 +2207,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2211,7 +2221,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2225,7 +2235,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'Global 🌐 | @Raydikalx | E771C9'
     type: vless
@@ -2237,7 +2247,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F2347D'
@@ -2249,7 +2259,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | B7B166'
@@ -2261,7 +2271,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2275,7 +2285,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -2289,7 +2299,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 348810'
@@ -2300,7 +2310,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 9EC19A'
@@ -2312,7 +2322,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2327,7 +2337,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 0D9E44'
@@ -2339,7 +2349,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 7FA53F'
@@ -2351,7 +2361,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -2365,7 +2375,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 163D6B'
     type: vless
@@ -2376,7 +2386,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -2389,7 +2399,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 5AF690'
@@ -2400,7 +2410,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | F38B0C'
@@ -2412,7 +2422,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 5B3531'
     type: vless
@@ -2422,7 +2432,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2435,7 +2445,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 19E126'
     type: vless
@@ -2446,7 +2456,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 196378'
     type: vless
@@ -2456,7 +2466,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 90BBC3'
     type: vless
@@ -2467,7 +2477,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'http/1.1'
     client-fingerprint: 'chrome'
@@ -2481,7 +2491,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 7767BB'
@@ -2492,7 +2502,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2507,7 +2517,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'firefox'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 39A09F'
@@ -2519,7 +2529,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'FI 🇫🇮 | @Raydikalx | AA814F'
@@ -2531,7 +2541,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -2546,7 +2556,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'SE 🇸🇪 | @Raydikalx | E8B157'
@@ -2558,7 +2568,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F1F544'
@@ -2570,7 +2580,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | A572DB'
@@ -2582,7 +2592,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
   - name: 'Global 🌐 | @Raydikalx | 0AAE40'
@@ -2594,7 +2604,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'snapchat.com,appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'instagram.com'
     client-fingerprint: 'chrome'
 
 
@@ -2609,6 +2619,7 @@ proxy-groups:
       - 'Global 🌐 | @Raydikalx | 794B01'
       - 'IR 🇮🇷 | @Raydikalx | A487A5'
       - 'US 🇺🇸 | @Raydikalx | CEE2A2'
+      - 'US 🇺🇸 | @Raydikalx | AF03D6'
       - 'CA 🇨🇦 | @Raydikalx | B95E69'
       - 'JP 🇯🇵 | @Raydikalx | 42E793'
       - 'US 🇺🇸 | @Raydikalx | 60EC2D'
@@ -2714,7 +2725,7 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | E5E825'
       - 'DE 🇩🇪 | @Raydikalx | D6494E'
       - 'DE 🇩🇪 | @Raydikalx | 8D7803'
-      - 'DE 🇩🇪 | @Raydikalx | 092FF3'
+      - 'CZ 🇨🇿 | @Raydikalx | 092FF3'
       - 'HK 🇭🇰 | @Raydikalx | 94DC7B'
       - 'DE 🇩🇪 | @Raydikalx | 5C3824'
       - 'IR 🇮🇷 | @Raydikalx | 7A6EC9'
