@@ -1,5 +1,5 @@
 proxies:
-  - name: 'ZA 🇿🇦 | @Raydikalx | F7DB86'
+  - name: 'ZA 🇿🇦 | @Raydikalx | 552A70'
     type: trojan
     server: '139.84.231.142'
     port: 443
@@ -49,7 +49,7 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | D36BFB'
+  - name: 'US 🇺🇸 | @Raydikalx | 4705C1'
     type: trojan
     server: '167.88.61.175'
     port: 443
@@ -58,7 +58,6 @@ proxies:
     tls: true
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
 
   - name: 'US 🇺🇸 | @Raydikalx | 796A40'
     type: trojan
@@ -269,7 +268,6 @@ proxies:
     tls: true
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F81FC5'
     type: trojan
@@ -294,16 +292,6 @@ proxies:
   - name: 'DE 🇩🇪 | @Raydikalx | 1921E5'
     type: trojan
     server: '193.108.119.29'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | B69AB6'
-    type: trojan
-    server: '193.108.119.78'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -370,17 +358,6 @@ proxies:
     tls: true
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | A7A956'
-    type: trojan
-    server: '208.69.78.222'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
 
   - name: 'CH 🇨🇭 | @Raydikalx | 894BDE'
     type: trojan
@@ -496,7 +473,7 @@ proxies:
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
 
-  - name: 'CA 🇨🇦 | @Raydikalx | 65E3BE'
+  - name: 'CA 🇨🇦 | @Raydikalx | 48B559'
     type: trojan
     server: '216.152.147.152'
     port: 443
@@ -966,17 +943,6 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'ES 🇪🇸 | @Raydikalx | 19E8AE'
-    type: trojan
-    server: '66.163.118.115'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
-
   - name: 'ES 🇪🇸 | @Raydikalx | 4AC48F'
     type: trojan
     server: '66.163.118.166'
@@ -997,7 +963,7 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'ES 🇪🇸 | @Raydikalx | 15FDDA'
+  - name: 'ES 🇪🇸 | @Raydikalx | 3B5924'
     type: trojan
     server: '66.163.118.244'
     port: 443
@@ -1173,7 +1139,7 @@ proxies:
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'chrome'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | A8D519'
+  - name: 'NL 🇳🇱 | @Raydikalx | 3D936F'
     type: trojan
     server: '66.163.127.215'
     port: 443
@@ -1203,17 +1169,6 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 5ADB5B'
-    type: trojan
-    server: '66.163.127.9'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
-
   - name: 'PL 🇵🇱 | @Raydikalx | 2C8E24'
     type: trojan
     server: '70.34.252.255'
@@ -1224,19 +1179,9 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'Global 🌐 | @Raydikalx | 671506'
+  - name: 'CA 🇨🇦 | @Raydikalx | EA36F6'
     type: trojan
-    server: 'leviko-ca1947.shopingggg.ir'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'Global 🌐 | @Raydikalx | 54EE8B'
-    type: trojan
-    server: 'leviko-ch0171.shopingggg.ir'
+    server: 'leviko-ca6908.shopingggg.ir'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1264,31 +1209,21 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'Global 🌐 | @Raydikalx | 714EA1'
-    type: trojan
-    server: 'leviko-de5955.shopingggg.ir'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'Global 🌐 | @Raydikalx | 90C04D'
-    type: trojan
-    server: 'leviko-es7501.shopingggg.ir'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
   - name: 'Global 🌐 | @Raydikalx | 8D041E'
     type: trojan
     server: 'leviko-nl2695.shopingggg.ir'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+
+  - name: 'HK 🇭🇰 | @Raydikalx | 80487A'
+    type: trojan
+    server: '47.242.93.89'
+    port: 12012
+    password: '12012'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -1336,16 +1271,6 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'HK 🇭🇰 | @Raydikalx | 4B0A43'
-    type: trojan
-    server: 'tjyg.m2k699.com'
-    port: 24999
-    password: '29086912-33e4-4e06-ba2b-60f1a195864f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
   - name: 'HK 🇭🇰 | @Raydikalx | FAB78A'
     type: trojan
     server: '43.255.157.222'
@@ -1356,16 +1281,6 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
     client-fingerprint: 'firefox'
-
-  - name: 'SG 🇸🇬 | @Raydikalx | A2A482'
-    type: trojan
-    server: '77.93.89.2'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | D08154'
     type: trojan
@@ -1387,7 +1302,7 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | 5E2D0C'
+  - name: 'SG 🇸🇬 | @Raydikalx | E63BC2'
     type: trojan
     server: 'bgsg1.hikigo.com'
     port: 443
@@ -1396,6 +1311,7 @@ proxies:
     tls: true
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
+    client-fingerprint: 'chrome'
 
   - name: 'HK 🇭🇰 | @Raydikalx | 35E45C'
     type: trojan
@@ -1427,7 +1343,7 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'JP 🇯🇵 | @Raydikalx | C3832D'
+  - name: 'JP 🇯🇵 | @Raydikalx | E0DD1B'
     type: trojan
     server: 'nu3rb.supertoolify.com'
     port: 443
@@ -1436,9 +1352,8 @@ proxies:
     tls: true
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
 
-  - name: 'JP 🇯🇵 | @Raydikalx | 47899B'
+  - name: 'JP 🇯🇵 | @Raydikalx | E2EB67'
     type: trojan
     server: 'win2loxfde0303.gggrelay.org'
     port: 34745
@@ -1704,17 +1619,6 @@ proxies:
     skip-cert-verify: true
     sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
 
-  - name: 'GB 🇬🇧 | @Raydikalx | 342B88'
-    type: trojan
-    server: '217.217.222.230'
-    port: 20123
-    password: 'd9064589-74af-432a-9390-5d8a9da281bf'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    client-fingerprint: 'chrome'
-
   - name: 'HK 🇭🇰 | @Raydikalx | 2BC027'
     type: trojan
     server: 'sclass-00.catcat321.com'
@@ -1729,16 +1633,6 @@ proxies:
     type: trojan
     server: 'sclass-00.catcat321.com'
     port: 20103
-    password: 'd9064589-74af-432a-9390-5d8a9da281bf'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | DEB3BA'
-    type: trojan
-    server: 'sclass-c1.catcat321.com'
-    port: 20051
     password: 'd9064589-74af-432a-9390-5d8a9da281bf'
     udp: true
     tls: true
@@ -1859,45 +1753,11 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: 'Global 🌐 | @Raydikalx | 81CCAB'
+  - name: 'JP 🇯🇵 | @Raydikalx | B20C65'
     type: trojan
-    server: 'leviko-se6097.shopingggg.ir'
-    port: 443
-    password: 'FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | FB8F2C'
-    type: trojan
-    server: '153.92.127.26'
-    port: 443
-    password: 'humanity'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 2782C7'
-    type: trojan
-    server: '188.114.97.6'
-    port: 443
-    password: 'humanity'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 8CFC48'
-    type: trojan
-    server: '188.114.98.0'
-    port: 443
-    password: 'humanity'
+    server: 'jpk.wentibuxiaobuda.xyz'
+    port: 9443
+    password: 'gfVP588mN_WKDUVTnHq18uO7fCdlDW76Wu0Zbd7vtzs'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -1929,16 +1789,6 @@ proxies:
     server: '65.109.215.50'
     port: 54673
     password: 'Ldbgt4IUYv0S 5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4='
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 8E7D47'
-    type: trojan
-    server: '156.246.93.237'
-    port: 17443
-    password: 'LDSLDq9XlM4-92pvTPOUuklMb99BLOCrdyejsupEca4'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -2053,16 +1903,6 @@ proxies:
     alpn:
       - 'http/1.1'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 06BE53'
-    type: trojan
-    server: '194.124.216.109'
-    port: 443
-    password: 'uThbm8eGmXZ7GKqnWy'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'cloudflare.com,instagram.com,appsflyer.com,gstatic.com,snapchat.com,google.com,cloudflareinsights.com,cloudflareclient.com,googleapis.com'
-
   - name: 'DE 🇩🇪 | @Raydikalx | 622426'
     type: trojan
     server: 'fi.zhabulik.ru'
@@ -2120,12 +1960,12 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - 'ZA 🇿🇦 | @Raydikalx | F7DB86'
+      - 'ZA 🇿🇦 | @Raydikalx | 552A70'
       - 'SG 🇸🇬 | @Raydikalx | E75317'
       - 'SG 🇸🇬 | @Raydikalx | BB2FE8'
       - 'KR 🇰🇷 | @Raydikalx | 75B776'
       - 'JP 🇯🇵 | @Raydikalx | 93578B'
-      - 'US 🇺🇸 | @Raydikalx | D36BFB'
+      - 'US 🇺🇸 | @Raydikalx | 4705C1'
       - 'US 🇺🇸 | @Raydikalx | 796A40'
       - 'US 🇺🇸 | @Raydikalx | 00771D'
       - 'US 🇺🇸 | @Raydikalx | 798B3A'
@@ -2150,14 +1990,12 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | F81FC5'
       - 'DE 🇩🇪 | @Raydikalx | 33F8BE'
       - 'DE 🇩🇪 | @Raydikalx | 1921E5'
-      - 'DE 🇩🇪 | @Raydikalx | B69AB6'
       - 'DE 🇩🇪 | @Raydikalx | B194A8'
       - 'CH 🇨🇭 | @Raydikalx | FB69CD'
       - 'CH 🇨🇭 | @Raydikalx | 252CA9'
       - 'CH 🇨🇭 | @Raydikalx | A4272B'
       - 'CH 🇨🇭 | @Raydikalx | DA2ACE'
       - 'CH 🇨🇭 | @Raydikalx | DF8630'
-      - 'CH 🇨🇭 | @Raydikalx | A7A956'
       - 'CH 🇨🇭 | @Raydikalx | 894BDE'
       - 'CH 🇨🇭 | @Raydikalx | C6F0FA'
       - 'CH 🇨🇭 | @Raydikalx | 475B94'
@@ -2169,7 +2007,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | FB18EA'
       - 'US 🇺🇸 | @Raydikalx | 7DB317'
       - 'US 🇺🇸 | @Raydikalx | F195D8'
-      - 'CA 🇨🇦 | @Raydikalx | 65E3BE'
+      - 'CA 🇨🇦 | @Raydikalx | 48B559'
       - 'CA 🇨🇦 | @Raydikalx | B897AE'
       - 'CA 🇨🇦 | @Raydikalx | 09103E'
       - 'CA 🇨🇦 | @Raydikalx | C7686D'
@@ -2216,10 +2054,9 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | FFA00A'
       - 'US 🇺🇸 | @Raydikalx | 23538E'
       - 'US 🇺🇸 | @Raydikalx | 4538E8'
-      - 'ES 🇪🇸 | @Raydikalx | 19E8AE'
       - 'ES 🇪🇸 | @Raydikalx | 4AC48F'
       - 'ES 🇪🇸 | @Raydikalx | F6A42C'
-      - 'ES 🇪🇸 | @Raydikalx | 15FDDA'
+      - 'ES 🇪🇸 | @Raydikalx | 3B5924'
       - 'ES 🇪🇸 | @Raydikalx | 2A8C03'
       - 'ES 🇪🇸 | @Raydikalx | F48624'
       - 'ES 🇪🇸 | @Raydikalx | 2A4AB3'
@@ -2236,33 +2073,28 @@ proxy-groups:
       - 'NL 🇳🇱 | @Raydikalx | AE2C85'
       - 'NL 🇳🇱 | @Raydikalx | B8902A'
       - 'NL 🇳🇱 | @Raydikalx | 8B573E'
-      - 'NL 🇳🇱 | @Raydikalx | A8D519'
+      - 'NL 🇳🇱 | @Raydikalx | 3D936F'
       - 'NL 🇳🇱 | @Raydikalx | 97C064'
       - 'NL 🇳🇱 | @Raydikalx | A5AEF2'
-      - 'NL 🇳🇱 | @Raydikalx | 5ADB5B'
       - 'PL 🇵🇱 | @Raydikalx | 2C8E24'
-      - 'Global 🌐 | @Raydikalx | 671506'
-      - 'Global 🌐 | @Raydikalx | 54EE8B'
+      - 'CA 🇨🇦 | @Raydikalx | EA36F6'
       - 'CL 🇨🇱 | @Raydikalx | D75E15'
       - 'Global 🌐 | @Raydikalx | 590A4E'
-      - 'Global 🌐 | @Raydikalx | 714EA1'
-      - 'Global 🌐 | @Raydikalx | 90C04D'
       - 'Global 🌐 | @Raydikalx | 8D041E'
+      - 'HK 🇭🇰 | @Raydikalx | 80487A'
       - 'TW 🇹🇼 | @Raydikalx | BE3690'
       - 'TR 🇹🇷 | @Raydikalx | B25FED'
       - 'US 🇺🇸 | @Raydikalx | 280D3F'
       - 'US 🇺🇸 | @Raydikalx | 2546A8'
-      - 'HK 🇭🇰 | @Raydikalx | 4B0A43'
       - 'HK 🇭🇰 | @Raydikalx | FAB78A'
-      - 'SG 🇸🇬 | @Raydikalx | A2A482'
       - 'SG 🇸🇬 | @Raydikalx | D08154'
       - 'US 🇺🇸 | @Raydikalx | 8CE14C'
-      - 'SG 🇸🇬 | @Raydikalx | 5E2D0C'
+      - 'SG 🇸🇬 | @Raydikalx | E63BC2'
       - 'HK 🇭🇰 | @Raydikalx | 35E45C'
       - 'ID 🇮🇩 | @Raydikalx | B454CB'
       - 'HK 🇭🇰 | @Raydikalx | 8099F3'
-      - 'JP 🇯🇵 | @Raydikalx | C3832D'
-      - 'JP 🇯🇵 | @Raydikalx | 47899B'
+      - 'JP 🇯🇵 | @Raydikalx | E0DD1B'
+      - 'JP 🇯🇵 | @Raydikalx | E2EB67'
       - 'HK 🇭🇰 | @Raydikalx | C20C1E'
       - 'HK 🇭🇰 | @Raydikalx | 933884'
       - 'MY 🇲🇾 | @Raydikalx | 7E8D78'
@@ -2288,10 +2120,8 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 67DBC5'
       - 'US 🇺🇸 | @Raydikalx | CD10FA'
       - 'US 🇺🇸 | @Raydikalx | 391105'
-      - 'GB 🇬🇧 | @Raydikalx | 342B88'
       - 'HK 🇭🇰 | @Raydikalx | 2BC027'
       - 'HK 🇭🇰 | @Raydikalx | BEF953'
-      - 'HK 🇭🇰 | @Raydikalx | DEB3BA'
       - 'HK 🇭🇰 | @Raydikalx | 4AB5D5'
       - 'US 🇺🇸 | @Raydikalx | D6CDBA'
       - 'US 🇺🇸 | @Raydikalx | 22AF20'
@@ -2303,14 +2133,10 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 001B88'
       - 'US 🇺🇸 | @Raydikalx | E61A28'
       - 'SE 🇸🇪 | @Raydikalx | 7F07F4'
-      - 'Global 🌐 | @Raydikalx | 81CCAB'
-      - 'NL 🇳🇱 | @Raydikalx | FB8F2C'
-      - 'CA 🇨🇦 | @Raydikalx | 2782C7'
-      - 'CA 🇨🇦 | @Raydikalx | 8CFC48'
+      - 'JP 🇯🇵 | @Raydikalx | B20C65'
       - 'DE 🇩🇪 | @Raydikalx | FC4C22'
       - 'BY 🇧🇾 | @Raydikalx | 4B3BD3'
       - 'FI 🇫🇮 | @Raydikalx | 0CD100'
-      - 'JP 🇯🇵 | @Raydikalx | 8E7D47'
       - 'US 🇺🇸 | @Raydikalx | 23E5B2'
       - 'US 🇺🇸 | @Raydikalx | 56583D'
       - 'US 🇺🇸 | @Raydikalx | 9D1663'
@@ -2321,7 +2147,6 @@ proxy-groups:
       - 'DE 🇩🇪 | @Raydikalx | F1727D'
       - 'DE 🇩🇪 | @Raydikalx | 3FA33A'
       - 'FR 🇫🇷 | @Raydikalx | 2E7809'
-      - 'NL 🇳🇱 | @Raydikalx | 06BE53'
       - 'DE 🇩🇪 | @Raydikalx | 622426'
       - 'SG 🇸🇬 | @Raydikalx | 77F4C7'
       - 'FI 🇫🇮 | @Raydikalx | 5A12B5'
