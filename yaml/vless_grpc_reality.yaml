@@ -1,0 +1,1939 @@
+proxies:
+  - name: 'NL 🇳🇱 | @Raydikalx | CDA434'
+    type: vless
+    server: '195.189.97.12'
+    port: 443
+    uuid: '01a21e01-6098-4c3b-a6fd-1a04d64d0c7f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc'
+      short-id: '085f6d90'
+    grpc-opts:
+      grpc-service-name: 'BookCatalog'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 3B318C'
+    type: vless
+    server: '79.141.164.124'
+    port: 443
+    uuid: '03a7ef52-cd8c-4350-854c-23a14b4f72b8'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'US 🇺🇸 | @Raydikalx | 2C5B80'
+    type: vless
+    server: '162.35.8.62'
+    port: 443
+    uuid: '056405e8-de9f-4d0d-8145-956f13cc34da'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'random'
+    reality-opts:
+      public-key: 'uUWYLl2Fdhr74k9o5WacesJjvsCwLiOHccgfR23TIk4'
+      short-id: '29b29106d4769e3a'
+    grpc-opts:
+      grpc-service-name: 'aa7f1b042f73'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | FD432F'
+    type: vless
+    server: '191.101.8.40'
+    port: 8443
+    uuid: '0ed9418b-e687-4c2d-8869-7e368c44887e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'NW2c4t6gXODenb0_Mo5Qf-1nrJr5xFQm30zf-IVfHjY'
+      short-id: '08'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 2681FF'
+    type: vless
+    server: '191.101.8.41'
+    port: 8443
+    uuid: '0ed9418b-e687-4c2d-8869-7e368c44887e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'NW2c4t6gXODenb0_Mo5Qf-1nrJr5xFQm30zf-IVfHjY'
+      short-id: '08'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 1415C5'
+    type: vless
+    server: 'nl40.homelab-cdn.cloud'
+    port: 8443
+    uuid: '0ed9418b-e687-4c2d-8869-7e368c44887e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'NW2c4t6gXODenb0_Mo5Qf-1nrJr5xFQm30zf-IVfHjY'
+      short-id: '08'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | C84837'
+    type: vless
+    server: '45.135.194.196'
+    port: 8080
+    uuid: '10664038-6dcf-44ee-af41-af68c8977aa7'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'lDTkHKQpGCP9HvD5XkNDLwtowMQsAjCsp-swzKwjq1M'
+      short-id: 'c58bb592f0a4c5ca'
+
+  - name: 'TR 🇹🇷 | @Raydikalx | 8FEE50'
+    type: vless
+    server: '77.92.151.84'
+    port: 8080
+    uuid: '10664038-6dcf-44ee-af41-af68c8977aa7'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'GeG5a650rtp0qIvBsbzmUx38h15bZ_u7U0v6vobzbW0'
+      short-id: '3d2ccefeeb44ccbb'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 6521BF'
+    type: vless
+    server: '176.108.243.192'
+    port: 9880
+    uuid: '14777bd9-56a5-46f6-a94f-826b4800dc05'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0'
+      short-id: 'aa'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 6D6B6A'
+    type: vless
+    server: '91.99.168.213'
+    port: 443
+    uuid: '14eba471-4623-4ed1-b937-f5b2206749bf'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4'
+      short-id: '1c547814'
+    grpc-opts:
+      grpc-service-name: 'Telegram-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 69CC10'
+    type: vless
+    server: 'magazine.sentry-warrunner.xyz'
+    port: 443
+    uuid: '14eba471-4623-4ed1-b937-f5b2206749bf'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4'
+      short-id: '1c547814'
+    grpc-opts:
+      grpc-service-name: 'Telegram-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers-@HELIX_Servers'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 4DF692'
+    type: vless
+    server: '79.141.164.124'
+    port: 443
+    uuid: '14f3543e-6136-47a2-9bc0-eea1dac73d07'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'CA 🇨🇦 | @Raydikalx | A7A518'
+    type: vless
+    server: 'shadow.mikikoo.com'
+    port: 2087
+    uuid: '15150c26-7e7f-42a7-8e7a-d0b9ab359214'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '4vqnyvBYwbYWLCTK0a849E1eEQ3z03W0cSU2E5_Au2U'
+      short-id: 'a89fcda873316426'
+    grpc-opts:
+      grpc-service-name: 'yourServiceName'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | A97C19'
+    type: vless
+    server: '45.88.13.5'
+    port: 8443
+    uuid: '2bb8b13c-b3f0-2552-da05-d0929bfb36db'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk'
+    grpc-opts:
+      grpc-service-name: 'TunService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 7DB2E2'
+    type: vless
+    server: '78.159.245.75'
+    port: 9002
+    uuid: '2c634977-584e-4e1f-b501-1b70c77a6743'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc'
+    grpc-opts:
+      grpc-service-name: 'grpc-reality'
+
+  - name: 'RS 🇷🇸 | @Raydikalx | 65176D'
+    type: vless
+    server: '150.40.126.24'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE'
+      short-id: '4872856d5489c37d'
+    grpc-opts:
+      grpc-service-name: 'gw.v1.ObjectService'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | 042890'
+    type: vless
+    server: '45.9.156.24'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4'
+      short-id: '501ab3325b77e1ca'
+    grpc-opts:
+      grpc-service-name: 'api.v2.PushService'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | FDC086'
+    type: vless
+    server: '45.9.156.27'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk'
+      short-id: '1be1bd931c98c84a'
+    grpc-opts:
+      grpc-service-name: 'home.v1.ApiService'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | 19E1FA'
+    type: vless
+    server: '45.9.156.42'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw'
+      short-id: '1a3102bb8e51399e'
+    grpc-opts:
+      grpc-service-name: 'gw.v2.RelayService'
+
+  - name: 'MD 🇲🇩 | @Raydikalx | D11207'
+    type: vless
+    server: '89.35.14.33'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg'
+      short-id: '8e07337954f9823f'
+    grpc-opts:
+      grpc-service-name: 'hub.v1.ApiService'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | 9CE3B0'
+    type: vless
+    server: 'bg3.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk'
+      short-id: '1be1bd931c98c84a'
+    grpc-opts:
+      grpc-service-name: 'home.v1.ApiService'
+
+  - name: 'BG 🇧🇬 | @Raydikalx | BA830C'
+    type: vless
+    server: 'bg4.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc'
+      short-id: '51f45d4fd58cc319'
+    grpc-opts:
+      grpc-service-name: 'cloud.v1.RelayService'
+
+  - name: 'MD 🇲🇩 | @Raydikalx | C55BC8'
+    type: vless
+    server: 'md1.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY'
+      short-id: '221ba6174224ca5b'
+    grpc-opts:
+      grpc-service-name: 'hub.v1.RelayService'
+
+  - name: 'RS 🇷🇸 | @Raydikalx | 2AEDA3'
+    type: vless
+    server: 'rs2.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE'
+      short-id: '1469af2040b7c323'
+    grpc-opts:
+      grpc-service-name: 'media.v1.ObjectService'
+
+  - name: 'RS 🇷🇸 | @Raydikalx | FF945B'
+    type: vless
+    server: 'rs3.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ'
+      short-id: '35d05b666e2c6cdf'
+    grpc-opts:
+      grpc-service-name: 'edge.v2.FeedService'
+
+  - name: 'RS 🇷🇸 | @Raydikalx | 35964F'
+    type: vless
+    server: 'rs4.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs'
+      short-id: '861ac7d66953e55f'
+    grpc-opts:
+      grpc-service-name: 'media.v1.StreamService'
+
+  - name: 'RS 🇷🇸 | @Raydikalx | 592161'
+    type: vless
+    server: 'rs5.univesalsrv.com'
+    port: 443
+    uuid: '2f35965a-9a9b-45fd-ba32-987296dfb6be'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE'
+      short-id: '4872856d5489c37d'
+    grpc-opts:
+      grpc-service-name: 'gw.v1.ObjectService'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | E212FF'
+    type: vless
+    server: '194.238.57.23'
+    port: 443
+    uuid: '303c2140-19ff-4eea-b1b1-865d4160d261'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g'
+      short-id: '53499a662395'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | C73F3D'
+    type: vless
+    server: '185.179.190.170'
+    port: 59222
+    uuid: '30572b57-f5ab-4eb8-82d4-a24d399b99f6'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'riOqDvO6CI06_GP7aJEtDH27zPWu6BiFwGrUESatk1I'
+      short-id: 'e03d3096bebd'
+
+  - name: 'JP 🇯🇵 | @Raydikalx | 9BDB29'
+    type: vless
+    server: '31.76.91.138'
+    port: 2087
+    uuid: '309b0ce3-09a8-4883-bfe4-bd56e215be44'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4'
+      short-id: 'c226283c4de5b1ad'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | 3BFFB6'
+    type: vless
+    server: 'dd.openaccessnode.com'
+    port: 504
+    uuid: '31701b5d-ca95-92f9-d684-dae3706161ea'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs'
+      short-id: '1d64e9805b4f9ae3'
+    grpc-opts:
+      grpc-service-name: 'JNIR'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 2B717B'
+    type: vless
+    server: '78.159.240.11'
+    port: 445
+    uuid: '37af0181-5598-4aad-a040-d926bcb65757'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | D8143D'
+    type: vless
+    server: '78.159.245.147'
+    port: 445
+    uuid: '37af0181-5598-4aad-a040-d926bcb65757'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | E2C513'
+    type: vless
+    server: '78.159.246.83'
+    port: 445
+    uuid: '37af0181-5598-4aad-a040-d926bcb65757'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | D6683E'
+    type: vless
+    server: '145.79.177.134'
+    port: 6443
+    uuid: '391a32c6-084c-4d61-8e8d-472678021dac'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'a3yUxhq8UVjuSGrtdQZs-epe3B8fepkuCOkGibNyL0E'
+      short-id: '27b13b0239429b12'
+    grpc-opts:
+      grpc-service-name: '/api/v1/update'
+
+  - name: 'LU 🇱🇺 | @Raydikalx | D44332'
+    type: vless
+    server: '185.188.146.107'
+    port: 6443
+    uuid: '391a32c6-084c-4d61-8e8d-472678021dac'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w'
+      short-id: '1265c88595b5c91a'
+    grpc-opts:
+      grpc-service-name: '/api/v1/update'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 26B820'
+    type: vless
+    server: '85.234.86.20'
+    port: 6443
+    uuid: '391a32c6-084c-4d61-8e8d-472678021dac'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM'
+      short-id: '885781b112c298a5'
+    grpc-opts:
+      grpc-service-name: '/api/v1/update'
+
+  - name: 'NG 🇳🇬 | @Raydikalx | 880DC3'
+    type: vless
+    server: '196.196.149.80'
+    port: 443
+    uuid: '4201786b-d99b-4147-a5f0-20d47acddb81'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30'
+      short-id: 'e7cffac9f8cfb434'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | DA5F90'
+    type: vless
+    server: '177.3.213.177'
+    port: 8444
+    uuid: '43add026-128a-47d3-a403-b3875b4638db'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q'
+      short-id: 'bcefc042d39188e0'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | F06B67'
+    type: vless
+    server: 'assets.fernstatic.com'
+    port: 8444
+    uuid: '43add026-128a-47d3-a403-b3875b4638db'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q'
+      short-id: 'bcefc042d39188e0'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'US 🇺🇸 | @Raydikalx | 595504'
+    type: vless
+    server: '88.216.73.74'
+    port: 33843
+    uuid: '493024a4-2da7-4ff9-9bc7-fdd5543141d2'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'TL1CK8WVdpIj9WBX6I79EItHrgUy4Gb9qQ31EKr8sww'
+      short-id: 'ddf4cc'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 560A81'
+    type: vless
+    server: '5.149.249.94'
+    port: 443
+    uuid: '4a140c2f-5b0c-4524-950c-026de74fcf69'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | B3801D'
+    type: vless
+    server: '178.20.28.5'
+    port: 8443
+    uuid: '4fabeed0-790e-9724-8f12-138ed31ac60e'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo'
+    grpc-opts:
+      grpc-service-name: 'TunService'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | C933A8'
+    type: vless
+    server: '80.47.13.56'
+    port: 443
+    uuid: '52e854c3-f891-4eb5-943a-fe385f59e8fb'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg'
+      short-id: '884b938083b628d2'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | D72FCA'
+    type: vless
+    server: '171.22.129.3'
+    port: 2053
+    uuid: '5413edfb-08d6-4fba-b51c-809c04feb127'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'o_HrloEGeJF7j3RChs2gC7YzyezRMLlguh7Zqbh1WhY'
+      short-id: '01dd4a1b292c6177'
+    grpc-opts:
+      grpc-service-name: 'de2262268grpc'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | EC3B04'
+    type: vless
+    server: '83.147.232.69'
+    port: 10459
+    uuid: '55ad002b-6cdf-4d76-81bb-91f3f605afc5'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg'
+      short-id: 'af86f23452bf025a'
+    grpc-opts:
+      grpc-service-name: 'openway_ndrl'
+
+  - name: 'GB 🇬🇧 | @Raydikalx | 164DD9'
+    type: vless
+    server: '216.86.70.175'
+    port: 443
+    uuid: '59db3b91-48e2-405f-a9a1-7ef11c957104'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY'
+      short-id: '8f3e9c4b1a8d6e21'
+    grpc-opts:
+      grpc-service-name: 'grpc-service'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 3263F6'
+    type: vless
+    server: '176.108.246.58'
+    port: 9881
+    uuid: '5d16ac22-6eea-426f-b778-6f4c2961faef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 45AFBD'
+    type: vless
+    server: '176.108.246.73'
+    port: 9873
+    uuid: '5d16ac22-6eea-426f-b778-6f4c2961faef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU'
+      short-id: 'aabbccdd'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 79645A'
+    type: vless
+    server: '31.184.219.147'
+    port: 9894
+    uuid: '5d16ac22-6eea-426f-b778-6f4c2961faef'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc'
+      short-id: 'aabb'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'LV 🇱🇻 | @Raydikalx | EBC9DA'
+    type: vless
+    server: 'l4.l-itx.info'
+    port: 7443
+    uuid: '5da05cf7-9913-45a9-a7c6-71a41b1cd713'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA'
+      short-id: '6ba85179e30d4fc3'
+    grpc-opts:
+      grpc-service-name: 'xyz'
+
+  - name: 'IN 🇮🇳 | @Raydikalx | F87C61'
+    type: vless
+    server: 'hydra.yokkastars.com'
+    port: 2443
+    uuid: '5e679ccd-1586-4d5f-b87b-48251046cad8'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg'
+      short-id: '92c32de179e5d908'
+    grpc-opts:
+      grpc-service-name: 'rex-eb0bf76b710ce763'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | AE0005'
+    type: vless
+    server: '144.31.1.201'
+    port: 8090
+    uuid: '5f829d2f-2f13-450c-81ac-e9832b8e47ec'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs'
+      short-id: '6b2f4e6ac9b1d2f0'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 628F90'
+    type: vless
+    server: '31.184.244.162'
+    port: 2053
+    uuid: '60a361f9-3c45-4954-9e4c-92a85bda243d'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY'
+      short-id: '4881f8244d1b9021'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 0AF107'
+    type: vless
+    server: '87.251.77.95'
+    port: 443
+    uuid: '61b08368-97cf-4f24-9e17-8c4a20cc2eea'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ'
+      short-id: 'fa3c4d0d247a82d8'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 7F0A9C'
+    type: vless
+    server: '5.149.248.151'
+    port: 443
+    uuid: '72992f3d-875e-496d-a410-372317076427'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | B8B49A'
+    type: vless
+    server: '152.228.139.33'
+    port: 51671
+    uuid: '75cc7568-abb0-46a8-88be-8137d3c647d4'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU'
+      short-id: '2fed44d8c59f7e71'
+    grpc-opts:
+      grpc-service-name: 'grpc_common3'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 18F893'
+    type: vless
+    server: '168.222.194.138'
+    port: 9880
+    uuid: '76186f1e-3062-4a2b-98c2-fab3c61a9511'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU'
+      short-id: 'aabbccdd'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'UA 🇺🇦 | @Raydikalx | 3550C8'
+    type: vless
+    server: '91.224.86.107'
+    port: 9830
+    uuid: '76186f1e-3062-4a2b-98c2-fab3c61a9511'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU'
+      short-id: 'aabbccdd'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'UA 🇺🇦 | @Raydikalx | FC878A'
+    type: vless
+    server: '91.224.87.22'
+    port: 9873
+    uuid: '76186f1e-3062-4a2b-98c2-fab3c61a9511'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU'
+      short-id: 'aabbccdd'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'UA 🇺🇦 | @Raydikalx | 1251DE'
+    type: vless
+    server: '91.224.87.22'
+    port: 9882
+    uuid: '76186f1e-3062-4a2b-98c2-fab3c61a9511'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU'
+      short-id: 'aabb'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 93BF33'
+    type: vless
+    server: '2a01:4f8:1c1b:7df::1'
+    port: 443
+    uuid: '764a13da-76a5-4bc0-a2c9-e2a02f62408f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw'
+      short-id: '32d7a82d'
+    grpc-opts:
+      grpc-service-name: '@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | F540D4'
+    type: vless
+    server: '193.233.89.130'
+    port: 8443
+    uuid: '7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | 96AC3B'
+    type: vless
+    server: '152.228.139.33'
+    port: 35108
+    uuid: '81dc0b61-f9fe-4ad6-8b4e-b8c067b73712'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'random'
+    reality-opts:
+      public-key: 'X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg'
+      short-id: '52add08b86a5ccea'
+    grpc-opts:
+      grpc-service-name: 'grpc-common3'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 90D21A'
+    type: vless
+    server: '111.88.126.223'
+    port: 443
+    uuid: '8f154051-5b60-4e04-8880-a416c133a61b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'eaVqwSSLbNGpm_bgN-V6z9AUQk451-IcMNTD7s0W8SM'
+      short-id: '55aa9038'
+    grpc-opts:
+      grpc-service-name: 'pn.sync'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | 0C3AA7'
+    type: vless
+    server: '31.77.56.68'
+    port: 2052
+    uuid: '8f154051-5b60-4e04-8880-a416c133a61b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '4UA4nr9RIIEOC6ZDK5AHkj5v0Q-e3_jNeVI5cIgPSg4'
+      short-id: '24'
+    grpc-opts:
+      grpc-service-name: 'plogrpc'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 86E5FD'
+    type: vless
+    server: 'devlayer.ru'
+    port: 8444
+    uuid: '8f719b99-8ee2-4402-8dc0-b37ad5b49ee1'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c'
+      short-id: 'c46a27f4595db3d4'
+    grpc-opts:
+      grpc-service-name: 'grpc-reality'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 1718F5'
+    type: vless
+    server: '2.26.82.237'
+    port: 443
+    uuid: '906be882-7f16-47c3-8702-59db2ada9688'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | DC0308'
+    type: vless
+    server: '37.114.37.192'
+    port: 443
+    uuid: '955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'eyEGQfdxyhZG0bCKlwp8hSihdc5WHTGmw4umrW4_bxY'
+    grpc-opts:
+      grpc-service-name: 'api-mod'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 6EA3A9'
+    type: vless
+    server: 'book.jarbook.net'
+    port: 443
+    uuid: '95d0e214-eab0-4701-93ed-fea4f1b56062'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo'
+      short-id: 'dceb4214'
+    grpc-opts:
+      grpc-service-name: 'BookCatalog'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | E604A8'
+    type: vless
+    server: '45.151.101.103'
+    port: 443
+    uuid: '95e8532b-cc69-42d4-9553-e3c23292b15b'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk'
+      short-id: '2da4299da566b7'
+    grpc-opts:
+      grpc-service-name: 'your-custom-path'
+
+  - name: 'Global 🌐 | @Raydikalx | DFEE2A'
+    type: vless
+    server: 'x9k-7m.se.auragg.org'
+    port: 8444
+    uuid: '98dab41c-f18a-406b-8de2-3cc8bb797d5d'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM'
+      short-id: 'd6b2e9f1a4c8d3f5'
+    grpc-opts:
+      grpc-service-name: 'auragrpc'
+
+  - name: 'Global 🌐 | @Raydikalx | A011EF'
+    type: vless
+    server: 'iTV2RAY.ddns.net'
+    port: 666
+    uuid: '9e0af40e-b2c6-4634-a79a-1554efd60093'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'fKCqvEzVLiU1zAkzclsSQAJZCbHQoLhpu-RKnpMZgnk'
+      short-id: '767543c7'
+    grpc-opts:
+      grpc-service-name: '@iTV2RAY'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 90A7C8'
+    type: vless
+    server: '217.69.167.135'
+    port: 15392
+    uuid: '9e998501-eaae-4d7e-bbe5-6cecfaef8334'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428'
+      short-id: '6a326909'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | FB2011'
+    type: vless
+    server: '5.149.248.151'
+    port: 443
+    uuid: 'a1195f62-7dc3-48c0-8d65-7eeaf3c2df40'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'DK 🇩🇰 | @Raydikalx | B40C3B'
+    type: vless
+    server: '193.233.253.180'
+    port: 8444
+    uuid: 'a346c521-7a7f-452b-9356-a4893feb5982'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0'
+    grpc-opts:
+      grpc-service-name: 'GunService'
+
+  - name: 'TR 🇹🇷 | @Raydikalx | E6EE31'
+    type: vless
+    server: '62.133.63.45'
+    port: 8444
+    uuid: 'a346c521-7a7f-452b-9356-a4893feb5982'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0'
+      short-id: '457fab2ac885dbe0'
+    grpc-opts:
+      grpc-service-name: 'GunService'
+
+  - name: 'TR 🇹🇷 | @Raydikalx | 468FEB'
+    type: vless
+    server: '62.133.63.45'
+    port: 8444
+    uuid: 'a346c521-7a7f-452b-9356-a4893feb5982'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0'
+    grpc-opts:
+      grpc-service-name: 'GunService'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 7B145A'
+    type: vless
+    server: '88.216.220.87'
+    port: 443
+    uuid: 'a8e3155b-ceb1-4fcb-bc0c-2e77ec005401'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w'
+      short-id: '1ea59febb8d4fc8e'
+    grpc-opts:
+      grpc-service-name: 'api.v1.StreamService'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | A35F86'
+    type: vless
+    server: '88.216.220.88'
+    port: 443
+    uuid: 'a8e3155b-ceb1-4fcb-bc0c-2e77ec005401'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g'
+      short-id: 'd3b394558cfe0266'
+    grpc-opts:
+      grpc-service-name: 'api.v1.StreamService'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | F7E3C9'
+    type: vless
+    server: 'api.noneok.com'
+    port: 443
+    uuid: 'a8e3155b-ceb1-4fcb-bc0c-2e77ec005401'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w'
+      short-id: '1ea59febb8d4fc8e'
+    grpc-opts:
+      grpc-service-name: 'api.v1.StreamService'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | E17FB2'
+    type: vless
+    server: '79.141.164.81'
+    port: 443
+    uuid: 'ab9324ba-0415-4cf8-a40c-e4b493d3d939'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | C66779'
+    type: vless
+    server: '185.223.57.10'
+    port: 33743
+    uuid: 'b3a11068-1a7e-4643-85de-7c82cce46943'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY'
+    grpc-opts:
+      grpc-service-name: 'TunService'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 63B499'
+    type: vless
+    server: '94.183.164.176'
+    port: 443
+    uuid: 'b4192dfb-f458-4303-b877-29a41a6d8416'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU'
+    grpc-opts:
+      grpc-service-name: 'ebl'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 9C3591'
+    type: vless
+    server: 'api-nl.mimowhat.online'
+    port: 443
+    uuid: 'b9abca13-8d45-43db-b0a2-4d26f85380c3'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'UfhkmeMxxTEELKQpAnNFEwkuP1aED6S5O52XDeQa0gU'
+      short-id: '3ca46e27ee7c27c9'
+    grpc-opts:
+      grpc-service-name: 'health.v1.Health'
+
+  - name: 'CZ 🇨🇿 | @Raydikalx | E2D54E'
+    type: vless
+    server: '195.58.46.231'
+    port: 443
+    uuid: 'bbb945a6-7d16-4099-b802-d3a7ccebd3ca'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA'
+      short-id: 'b8abb26d3cfadcfb'
+    grpc-opts:
+      grpc-service-name: 'livestreamcontent'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | B144A7'
+    type: vless
+    server: '5.149.248.151'
+    port: 443
+    uuid: 'be54ca9f-a015-410b-b814-00af405309db'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 4D7AC6'
+    type: vless
+    server: '89.222.123.211'
+    port: 16923
+    uuid: 'c065e1bb-cb56-41e5-b043-9dfd15b67565'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA'
+      short-id: '10ffb85da1c2d986'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 540CB9'
+    type: vless
+    server: '164.37.224.246'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU'
+      short-id: 'd3bd772514c87d28'
+    grpc-opts:
+      grpc-service-name: '204adda7e3da'
+
+  - name: 'SK 🇸🇰 | @Raydikalx | 20F409'
+    type: vless
+    server: '196.245.153.156'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA'
+      short-id: '6d289ff0f47c0aac'
+    grpc-opts:
+      grpc-service-name: '7d5abcd7d8a1'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | ECE80F'
+    type: vless
+    server: '79.182.39.131'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU'
+      short-id: 'd3bd772514c87d28'
+    grpc-opts:
+      grpc-service-name: '204adda7e3da'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | AE7870'
+    type: vless
+    server: '89.169.54.244'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE'
+      short-id: '50a749f0eccb628c'
+    grpc-opts:
+      grpc-service-name: '5b79e8a94241'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 4E8DD9'
+    type: vless
+    server: '185.229.9.176'
+    port: 46018
+    uuid: 'd01e89b1-e260-4d30-a363-4a46ff3f9627'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'een4U3X5mnY1gH2swiakXS9BJ8P4omf8Qp_s8sTp_3Y'
+      short-id: '68ae5e7c11f80af5'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | 3A60CD'
+    type: vless
+    server: '201.58.189.105'
+    port: 2083
+    uuid: 'd7ddade6-b7a0-4cab-a910-d5d5c378d98a'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4'
+      short-id: '8bd80253'
+    grpc-opts:
+      grpc-service-name: 'google.storage.v2.Storage'
+
+  - name: 'CH 🇨🇭 | @Raydikalx | C936A4'
+    type: vless
+    server: '1c.hlclub.tech'
+    port: 8446
+    uuid: 'dac0e736-5c69-4b7c-8b1d-27cbbc3bd948'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA'
+      short-id: '555ac69b22424282'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 1B61FA'
+    type: vless
+    server: '95.85.233.181'
+    port: 443
+    uuid: 'e0bb3250-1873-4b9d-b9b5-7aa6c863885f'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y'
+      short-id: 'c56c3ba3b9f676c5'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | D177F8'
+    type: vless
+    server: '168.113.252.30'
+    port: 9881
+    uuid: 'e460e7b2-a146-4468-87ed-52510b2caae6'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0'
+      short-id: 'aabb'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 37AF63'
+    type: vless
+    server: '168.113.255.133'
+    port: 9880
+    uuid: 'e460e7b2-a146-4468-87ed-52510b2caae6'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0'
+      short-id: 'aa'
+    grpc-opts:
+      grpc-service-name: 'grpc-tunnel'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 972736'
+    type: vless
+    server: '217.149.30.124'
+    port: 50053
+    uuid: 'e6acf17c-b19c-45ee-afda-373ba72795ce'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'X87ukWYsXHjmc-s4vDX0ph6sUoUklkFdtL_lXthn-z0'
+      short-id: 'eb3b7e6bbc66552e'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 872A14'
+    type: vless
+    server: '64.188.64.72'
+    port: 443
+    uuid: 'e898ccd6-fa43-4740-974b-62e9f6fb9583'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'UeKjZBRFTnsqCNxXYT2pkLtdiBfYq1KDVDHW_NQN-Cg'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 541CD7'
+    type: vless
+    server: '77.90.0.22'
+    port: 2087
+    uuid: 'ead4a562-edf2-40cf-ad33-13ae98546226'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'lN4gxtu1uZUH0d-RFC35FHoAwKZ6bNGV7I68JCAbGF4'
+      short-id: 'c0e1f54d'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+  - name: 'RU 🇷🇺 | @Raydikalx | C04295'
+    type: vless
+    server: '176.123.160.193'
+    port: 176
+    uuid: 'ecf12398-8689-4c8d-91e2-8f1aeb8bd556'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'h6C_S8mSHwrvoWycQbMd7j3H2HTabo9tFYCdLRXzETs'
+      short-id: '7f53c13ffe6a0cb3'
+    grpc-opts:
+      grpc-service-name: 'aios-ru'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | E6627F'
+    type: vless
+    server: '193.23.200.213'
+    port: 45011
+    uuid: 'ecf12398-8689-4c8d-91e2-8f1aeb8bd556'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'Mff-kn6Ea1zxRi0azOyxTkzZ5LLwDDcDP4ug3Iu3RHg'
+      short-id: '30bbe9305ba64b64'
+    grpc-opts:
+      grpc-service-name: 'a5c4fe744853'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 3E6823'
+    type: vless
+    server: '5.149.249.94'
+    port: 443
+    uuid: 'ed77c1dc-3df2-412b-b855-49286f979c21'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 792542'
+    type: vless
+    server: '185.88.101.105'
+    port: 443
+    uuid: 'f2341274-8dd8-4b80-95fd-780641f6f2da'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ'
+      short-id: '0858af97f4e7324d'
+    grpc-opts:
+      grpc-service-name: 'fl13svinkapro-grpc'
+
+  - name: 'NL 🇳🇱 | @Raydikalx | BE44C6'
+    type: vless
+    server: '185.192.22.159'
+    port: 8444
+    uuid: 'f55e9aba-7b14-4f6f-b59a-d5b3d45c9309'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0'
+      short-id: '457fab2ac885dbe0'
+    grpc-opts:
+      grpc-service-name: 'GunService'
+
+  - name: 'GB 🇬🇧 | @Raydikalx | E95D1D'
+    type: vless
+    server: '185.81.113.253'
+    port: 443
+    uuid: 'f8cb3c89-32af-4255-bebc-d90aad175069'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'PL 🇵🇱 | @Raydikalx | B376FB'
+    type: vless
+    server: '212.2.34.15'
+    port: 443
+    uuid: 'f8cb3c89-32af-4255-bebc-d90aad175069'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | B56036'
+    type: vless
+    server: '79.141.174.123'
+    port: 443
+    uuid: 'f8cb3c89-32af-4255-bebc-d90aad175069'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ'
+      short-id: '27350908de933e09'
+    grpc-opts:
+      grpc-service-name: 'neurex'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | CD9828'
+    type: vless
+    server: '89.34.90.68'
+    port: 8443
+    uuid: 'fe8e2ffb-8796-408c-af5b-0d4774215e00'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA'
+      short-id: '6ba85179e30d4fc2'
+    grpc-opts:
+      grpc-service-name: 'grpc'
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - 'NL 🇳🇱 | @Raydikalx | CDA434'
+      - 'NL 🇳🇱 | @Raydikalx | 3B318C'
+      - 'US 🇺🇸 | @Raydikalx | 2C5B80'
+      - 'NL 🇳🇱 | @Raydikalx | FD432F'
+      - 'NL 🇳🇱 | @Raydikalx | 2681FF'
+      - 'NL 🇳🇱 | @Raydikalx | 1415C5'
+      - 'DE 🇩🇪 | @Raydikalx | C84837'
+      - 'TR 🇹🇷 | @Raydikalx | 8FEE50'
+      - 'RU 🇷🇺 | @Raydikalx | 6521BF'
+      - 'DE 🇩🇪 | @Raydikalx | 6D6B6A'
+      - 'DE 🇩🇪 | @Raydikalx | 69CC10'
+      - 'NL 🇳🇱 | @Raydikalx | 4DF692'
+      - 'CA 🇨🇦 | @Raydikalx | A7A518'
+      - 'NL 🇳🇱 | @Raydikalx | A97C19'
+      - 'NL 🇳🇱 | @Raydikalx | 7DB2E2'
+      - 'RS 🇷🇸 | @Raydikalx | 65176D'
+      - 'BG 🇧🇬 | @Raydikalx | 042890'
+      - 'BG 🇧🇬 | @Raydikalx | FDC086'
+      - 'BG 🇧🇬 | @Raydikalx | 19E1FA'
+      - 'MD 🇲🇩 | @Raydikalx | D11207'
+      - 'BG 🇧🇬 | @Raydikalx | 9CE3B0'
+      - 'BG 🇧🇬 | @Raydikalx | BA830C'
+      - 'MD 🇲🇩 | @Raydikalx | C55BC8'
+      - 'RS 🇷🇸 | @Raydikalx | 2AEDA3'
+      - 'RS 🇷🇸 | @Raydikalx | FF945B'
+      - 'RS 🇷🇸 | @Raydikalx | 35964F'
+      - 'RS 🇷🇸 | @Raydikalx | 592161'
+      - 'SE 🇸🇪 | @Raydikalx | E212FF'
+      - 'RU 🇷🇺 | @Raydikalx | C73F3D'
+      - 'JP 🇯🇵 | @Raydikalx | 9BDB29'
+      - 'SE 🇸🇪 | @Raydikalx | 3BFFB6'
+      - 'DE 🇩🇪 | @Raydikalx | 2B717B'
+      - 'NL 🇳🇱 | @Raydikalx | D8143D'
+      - 'NL 🇳🇱 | @Raydikalx | E2C513'
+      - 'DE 🇩🇪 | @Raydikalx | D6683E'
+      - 'LU 🇱🇺 | @Raydikalx | D44332'
+      - 'FI 🇫🇮 | @Raydikalx | 26B820'
+      - 'NG 🇳🇬 | @Raydikalx | 880DC3'
+      - 'DE 🇩🇪 | @Raydikalx | DA5F90'
+      - 'DE 🇩🇪 | @Raydikalx | F06B67'
+      - 'US 🇺🇸 | @Raydikalx | 595504'
+      - 'NL 🇳🇱 | @Raydikalx | 560A81'
+      - 'DE 🇩🇪 | @Raydikalx | B3801D'
+      - 'PL 🇵🇱 | @Raydikalx | C933A8'
+      - 'RU 🇷🇺 | @Raydikalx | D72FCA'
+      - 'PL 🇵🇱 | @Raydikalx | EC3B04'
+      - 'GB 🇬🇧 | @Raydikalx | 164DD9'
+      - 'RU 🇷🇺 | @Raydikalx | 3263F6'
+      - 'RU 🇷🇺 | @Raydikalx | 45AFBD'
+      - 'RU 🇷🇺 | @Raydikalx | 79645A'
+      - 'LV 🇱🇻 | @Raydikalx | EBC9DA'
+      - 'IN 🇮🇳 | @Raydikalx | F87C61'
+      - 'PL 🇵🇱 | @Raydikalx | AE0005'
+      - 'DE 🇩🇪 | @Raydikalx | 628F90'
+      - 'DE 🇩🇪 | @Raydikalx | 0AF107'
+      - 'NL 🇳🇱 | @Raydikalx | 7F0A9C'
+      - 'FR 🇫🇷 | @Raydikalx | B8B49A'
+      - 'RU 🇷🇺 | @Raydikalx | 18F893'
+      - 'UA 🇺🇦 | @Raydikalx | 3550C8'
+      - 'UA 🇺🇦 | @Raydikalx | FC878A'
+      - 'UA 🇺🇦 | @Raydikalx | 1251DE'
+      - 'DE 🇩🇪 | @Raydikalx | 93BF33'
+      - 'RU 🇷🇺 | @Raydikalx | F540D4'
+      - 'FR 🇫🇷 | @Raydikalx | 96AC3B'
+      - 'RU 🇷🇺 | @Raydikalx | 90D21A'
+      - 'PL 🇵🇱 | @Raydikalx | 0C3AA7'
+      - 'FI 🇫🇮 | @Raydikalx | 86E5FD'
+      - 'NL 🇳🇱 | @Raydikalx | 1718F5'
+      - 'DE 🇩🇪 | @Raydikalx | DC0308'
+      - 'NL 🇳🇱 | @Raydikalx | 6EA3A9'
+      - 'RU 🇷🇺 | @Raydikalx | E604A8'
+      - 'Global 🌐 | @Raydikalx | DFEE2A'
+      - 'Global 🌐 | @Raydikalx | A011EF'
+      - 'NL 🇳🇱 | @Raydikalx | 90A7C8'
+      - 'NL 🇳🇱 | @Raydikalx | FB2011'
+      - 'DK 🇩🇰 | @Raydikalx | B40C3B'
+      - 'TR 🇹🇷 | @Raydikalx | E6EE31'
+      - 'TR 🇹🇷 | @Raydikalx | 468FEB'
+      - 'DE 🇩🇪 | @Raydikalx | 7B145A'
+      - 'DE 🇩🇪 | @Raydikalx | A35F86'
+      - 'DE 🇩🇪 | @Raydikalx | F7E3C9'
+      - 'NL 🇳🇱 | @Raydikalx | E17FB2'
+      - 'PL 🇵🇱 | @Raydikalx | C66779'
+      - 'IR 🇮🇷 | @Raydikalx | 63B499'
+      - 'NL 🇳🇱 | @Raydikalx | 9C3591'
+      - 'CZ 🇨🇿 | @Raydikalx | E2D54E'
+      - 'NL 🇳🇱 | @Raydikalx | B144A7'
+      - 'DE 🇩🇪 | @Raydikalx | 4D7AC6'
+      - 'NL 🇳🇱 | @Raydikalx | 540CB9'
+      - 'SK 🇸🇰 | @Raydikalx | 20F409'
+      - 'NL 🇳🇱 | @Raydikalx | ECE80F'
+      - 'DE 🇩🇪 | @Raydikalx | AE7870'
+      - 'RU 🇷🇺 | @Raydikalx | 4E8DD9'
+      - 'PL 🇵🇱 | @Raydikalx | 3A60CD'
+      - 'CH 🇨🇭 | @Raydikalx | C936A4'
+      - 'DE 🇩🇪 | @Raydikalx | 1B61FA'
+      - 'RU 🇷🇺 | @Raydikalx | D177F8'
+      - 'RU 🇷🇺 | @Raydikalx | 37AF63'
+      - 'RU 🇷🇺 | @Raydikalx | 972736'
+      - 'DE 🇩🇪 | @Raydikalx | 872A14'
+      - 'DE 🇩🇪 | @Raydikalx | 541CD7'
+      - 'RU 🇷🇺 | @Raydikalx | C04295'
+      - 'SE 🇸🇪 | @Raydikalx | E6627F'
+      - 'NL 🇳🇱 | @Raydikalx | 3E6823'
+      - 'FI 🇫🇮 | @Raydikalx | 792542'
+      - 'NL 🇳🇱 | @Raydikalx | BE44C6'
+      - 'GB 🇬🇧 | @Raydikalx | E95D1D'
+      - 'PL 🇵🇱 | @Raydikalx | B376FB'
+      - 'SE 🇸🇪 | @Raydikalx | B56036'
+      - 'DE 🇩🇪 | @Raydikalx | CD9828'
+
+rules:
+  - MATCH,Auto-Select
