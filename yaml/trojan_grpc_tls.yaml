@@ -1,0 +1,53 @@
+proxies:
+  - name: 'TW 🇹🇼 | @Raydikalx | 98C5EE'
+    type: trojan
+    server: '125.227.86.45'
+    port: 443
+    password: '0a9f1f5a397bd427'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 5FAE6B'
+    type: trojan
+    server: '171.22.119.74'
+    port: 8446
+    password: 'Pass-Client-1'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'SE 🇸🇪 | @Raydikalx | 49F4F8'
+    type: trojan
+    server: 'sw100.marshonet.store'
+    port: 8228
+    password: 'pHLdtRnEC5stYZvt9GqMyMYx215AskPW'
+    network: grpc
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+    grpc-opts:
+      grpc-service-name: 'trgrpc'
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - 'TW 🇹🇼 | @Raydikalx | 98C5EE'
+      - 'DE 🇩🇪 | @Raydikalx | 5FAE6B'
+      - 'SE 🇸🇪 | @Raydikalx | 49F4F8'
+
+rules:
+  - MATCH,Auto-Select
