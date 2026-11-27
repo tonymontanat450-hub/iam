@@ -1,116 +1,5 @@
 proxies:
-  - name: 'ZA 🇿🇦 | @Raydikalx | F7DB86'
-    type: trojan
-    server: '139.84.231.142'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SG 🇸🇬 | @Raydikalx | E75317'
-    type: trojan
-    server: '149.28.130.108'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SG 🇸🇬 | @Raydikalx | BB2FE8'
-    type: trojan
-    server: '15.235.184.127'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'KR 🇰🇷 | @Raydikalx | 75B776'
-    type: trojan
-    server: '158.247.253.243'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 93578B'
-    type: trojan
-    server: '167.179.108.225'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | D36BFB'
-    type: trojan
-    server: '167.88.61.175'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 796A40'
-    type: trojan
-    server: '167.88.61.193'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 00771D'
-    type: trojan
-    server: '167.88.61.198'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 8DA169'
-    type: trojan
-    server: '167.88.61.20'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | F83763'
-    type: trojan
-    server: '167.88.61.52'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | D327E5'
-    type: trojan
-    server: '167.88.61.52'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | C55613'
+  - name: '🇺🇸 United States · GHCM'
     type: trojan
     server: '167.88.61.85'
     port: 443
@@ -120,7 +9,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | F2A0CA'
+  - name: '🇺🇸 United States · NZFB'
     type: trojan
     server: '169.197.140.169'
     port: 443
@@ -130,157 +19,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 0CB14F'
-    type: trojan
-    server: '169.197.140.171'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 8051E9'
-    type: trojan
-    server: '169.197.140.214'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 0567AA'
-    type: trojan
-    server: '169.197.140.218'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | F77BD3'
-    type: trojan
-    server: '169.197.140.224'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 736062'
-    type: trojan
-    server: '169.197.140.245'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | BB9EC6'
-    type: trojan
-    server: '170.101.101.112'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | FE1AD2'
-    type: trojan
-    server: '170.101.101.131'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | C23131'
-    type: trojan
-    server: '170.101.101.19'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A08D26'
-    type: trojan
-    server: '170.101.101.211'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | E8963D'
-    type: trojan
-    server: '170.101.101.237'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 949227'
-    type: trojan
-    server: '170.101.101.53'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | D9696F'
-    type: trojan
-    server: '170.101.101.67'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 03F702'
-    type: trojan
-    server: '193.108.119.134'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | F81FC5'
-    type: trojan
-    server: '193.108.119.15'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 33F8BE'
-    type: trojan
-    server: '193.108.119.193'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 1921E5'
+  - name: '🇩🇪 Germany · CRED'
     type: trojan
     server: '193.108.119.29'
     port: 443
@@ -290,37 +29,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | B194A8'
-    type: trojan
-    server: '193.108.119.96'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | FB69CD'
-    type: trojan
-    server: '208.69.78.158'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | 252CA9'
-    type: trojan
-    server: '208.69.78.19'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | DA2ACE'
+  - name: '🇨🇭 Switzerland · H6PK'
     type: trojan
     server: '208.69.78.208'
     port: 443
@@ -330,141 +39,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'CH 🇨🇭 | @Raydikalx | 894BDE'
-    type: trojan
-    server: '208.69.78.29'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | C6F0FA'
-    type: trojan
-    server: '208.69.78.33'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | 82B9CD'
-    type: trojan
-    server: '208.69.78.60'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 412F3F'
-    type: trojan
-    server: '216.106.186.155'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | C8D4AD'
-    type: trojan
-    server: '216.106.186.32'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A0C347'
-    type: trojan
-    server: '216.106.186.33'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | FB18EA'
-    type: trojan
-    server: '216.106.186.46'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7DB317'
-    type: trojan
-    server: '216.106.186.66'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | F195D8'
-    type: trojan
-    server: '216.106.186.82'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 48B559'
-    type: trojan
-    server: '216.152.147.152'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | B897AE'
-    type: trojan
-    server: '216.152.147.201'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 09103E'
-    type: trojan
-    server: '216.152.147.48'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | C7686D'
-    type: trojan
-    server: '216.152.147.74'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 168319'
+  - name: '🇨🇦 Canada · 9N88'
     type: trojan
     server: '216.152.147.79'
     port: 443
@@ -474,137 +49,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'CA 🇨🇦 | @Raydikalx | 6CB1D6'
-    type: trojan
-    server: '216.152.147.85'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | FB5613'
-    type: trojan
-    server: '216.152.147.89'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 540A40'
-    type: trojan
-    server: '216.152.147.93'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7B15EE'
-    type: trojan
-    server: '216.152.155.131'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 5BA270'
-    type: trojan
-    server: '216.152.155.158'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | B143E4'
-    type: trojan
-    server: '216.152.155.176'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 71EF67'
-    type: trojan
-    server: '216.152.155.176'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 3DAA21'
-    type: trojan
-    server: '216.152.155.23'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 16ACF4'
-    type: trojan
-    server: '216.152.155.50'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 1D3803'
-    type: trojan
-    server: '216.152.155.54'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 815D87'
-    type: trojan
-    server: '216.152.155.59'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | EAAF0E'
-    type: trojan
-    server: '216.152.156.159'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | E30022'
-    type: trojan
-    server: '216.152.156.212'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 792421'
+  - name: '🇺🇸 United States · AMC7'
     type: trojan
     server: '216.152.156.42'
     port: 443
@@ -614,167 +59,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | B26947'
-    type: trojan
-    server: '216.152.156.49'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 468254'
-    type: trojan
-    server: '216.152.156.65'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 472D5E'
-    type: trojan
-    server: '216.152.156.81'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'BR 🇧🇷 | @Raydikalx | C8B193'
-    type: trojan
-    server: '216.238.104.154'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'MX 🇲🇽 | @Raydikalx | 055C21'
-    type: trojan
-    server: '216.238.80.100'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AU 🇦🇺 | @Raydikalx | 4787DF'
-    type: trojan
-    server: '45.63.30.142'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IL 🇮🇱 | @Raydikalx | 7C445A'
-    type: trojan
-    server: '64.176.163.182'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CL 🇨🇱 | @Raydikalx | 3679D3'
-    type: trojan
-    server: '64.176.7.205'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | CFA29A'
-    type: trojan
-    server: '66.163.112.121'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 67F66B'
-    type: trojan
-    server: '66.163.112.13'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | B1D7F7'
-    type: trojan
-    server: '66.163.112.142'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | C81AF3'
-    type: trojan
-    server: '66.163.112.147'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 684C69'
-    type: trojan
-    server: '66.163.112.171'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 6572E1'
-    type: trojan
-    server: '66.163.112.242'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 1BAF48'
-    type: trojan
-    server: '66.163.112.31'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 52E9AA'
-    type: trojan
-    server: '66.163.112.76'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 3274C4'
+  - name: '🇺🇸 United States · JJK5'
     type: trojan
     server: '66.163.114.106'
     port: 443
@@ -784,7 +69,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 16AFF6'
+  - name: '🇺🇸 United States · Z1EN'
     type: trojan
     server: '66.163.114.114'
     port: 443
@@ -794,17 +79,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 8BF190'
-    type: trojan
-    server: '66.163.114.126'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 4EBD64'
+  - name: '🇺🇸 United States · XSR9'
     type: trojan
     server: '66.163.114.132'
     port: 443
@@ -814,7 +89,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | FFA00A'
+  - name: '🇺🇸 United States · VZN1'
     type: trojan
     server: '66.163.114.166'
     port: 443
@@ -824,7 +99,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 23538E'
+  - name: '🇺🇸 United States · 2GR5'
     type: trojan
     server: '66.163.114.245'
     port: 443
@@ -834,7 +109,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 4538E8'
+  - name: '🇺🇸 United States · E9EE'
     type: trojan
     server: '66.163.114.45'
     port: 443
@@ -844,9 +119,19 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'ES 🇪🇸 | @Raydikalx | 19E8AE'
+  - name: '🇪🇸 Spain · R0G6'
     type: trojan
-    server: '66.163.118.115'
+    server: '66.163.118.131'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 3E4Q'
+    type: trojan
+    server: '66.163.122.81'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -855,142 +140,7 @@ proxies:
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'ES 🇪🇸 | @Raydikalx | 4AC48F'
-    type: trojan
-    server: '66.163.118.166'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'ES 🇪🇸 | @Raydikalx | F12CA1'
-    type: trojan
-    server: '66.163.118.203'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'ES 🇪🇸 | @Raydikalx | 3B5924'
-    type: trojan
-    server: '66.163.118.244'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'ES 🇪🇸 | @Raydikalx | 2A8C03'
-    type: trojan
-    server: '66.163.118.251'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'ES 🇪🇸 | @Raydikalx | F48624'
-    type: trojan
-    server: '66.163.118.40'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'ES 🇪🇸 | @Raydikalx | 2712B5'
-    type: trojan
-    server: '66.163.118.62'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 651D8C'
-    type: trojan
-    server: '66.163.122.113'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 77C617'
-    type: trojan
-    server: '66.163.122.25'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | AD8601'
-    type: trojan
-    server: '66.163.122.26'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 120146'
-    type: trojan
-    server: '66.163.122.30'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 412587'
-    type: trojan
-    server: '66.163.122.46'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | E3A45B'
-    type: trojan
-    server: '66.163.122.7'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | AE2C85'
-    type: trojan
-    server: '66.163.127.107'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | B8902A'
+  - name: '🇳🇱 Netherlands · ETK5'
     type: trojan
     server: '66.163.127.154'
     port: 443
@@ -1001,7 +151,289 @@ proxies:
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 4C40A9'
+  - name: '🇨🇦 Canada · BFRY'
+    type: trojan
+    server: 'leviko-ca4436.shopingggg.ir'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇳🇱 Netherlands · 2CT4'
+    type: trojan
+    server: 'leviko-nl8252.shopingggg.ir'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · R8KE'
+    type: trojan
+    server: '78.159.250.189'
+    port: 443
+    password: 'F9uC3FnWeXPZ9KqEd7oZrcJxfNvvkegq'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'firefox'
+
+  - name: '🇺🇸 United States · 3BCT'
+    type: trojan
+    server: '5.101.51.138'
+    port: 2097
+    password: 'cWM5aWtWR9'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'ios'
+
+  - name: '🇫🇷 France · DBP8'
+    type: trojan
+    server: '5.101.51.138'
+    port: 8443
+    password: 'cWM5aWtWR9'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'android'
+
+  - name: '🇺🇸 United States · 1AQZ'
+    type: trojan
+    server: 'ru-1.krugvpn.me'
+    port: 2097
+    password: 'cWM5aWtWR9'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+
+  - name: '🇫🇷 France · YJ8C'
+    type: trojan
+    server: 'ru-1.krugvpn.me'
+    port: 8443
+    password: 'cWM5aWtWR9'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+
+  - name: '🇯🇵 Japan · RFDX'
+    type: trojan
+    server: 'jpk.wentibuxiaobuda.xyz'
+    port: 9443
+    password: 'gfVP588mN_WKDUVTnHq18uO7fCdlDW76Wu0Zbd7vtzs'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇸🇬 Singapore · 41A4'
+    type: trojan
+    server: '86.38.247.109'
+    port: 2087
+    password: 'sshs8_6481354771'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · CCD0'
+    type: trojan
+    server: '170.101.101.19'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 8WTR'
+    type: trojan
+    server: '167.88.61.175'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 3KVY'
+    type: trojan
+    server: '167.88.61.20'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 4E63'
+    type: trojan
+    server: '167.88.61.52'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · DHEK'
+    type: trojan
+    server: '170.101.101.211'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇩🇪 Germany · XY3E'
+    type: trojan
+    server: '193.108.119.134'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇦 Canada · BSTD'
+    type: trojan
+    server: '216.152.147.152'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇦 Canada · RFTK'
+    type: trojan
+    server: '216.152.147.85'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇦 Canada · PGSW'
+    type: trojan
+    server: '216.152.147.93'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · MXKJ'
+    type: trojan
+    server: '216.152.155.131'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · EFFJ'
+    type: trojan
+    server: '216.152.155.158'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · WTWZ'
+    type: trojan
+    server: '216.152.155.176'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 81N1'
+    type: trojan
+    server: '216.152.155.54'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · HGWR'
+    type: trojan
+    server: '216.152.156.65'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · DCET'
+    type: trojan
+    server: '216.152.156.81'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · W214'
+    type: trojan
+    server: '66.163.112.121'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · AAZ1'
+    type: trojan
+    server: '66.163.112.242'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇳🇱 Netherlands · KE30'
     type: trojan
     server: '66.163.127.155'
     port: 443
@@ -1011,17 +443,7 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | A8D519'
-    type: trojan
-    server: '66.163.127.215'
-    port: 443
-    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 97C064'
+  - name: '🇳🇱 Netherlands · CV2G'
     type: trojan
     server: '66.163.127.225'
     port: 443
@@ -1031,9 +453,9 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | A5AEF2'
+  - name: '🇺🇸 United States · WA9R'
     type: trojan
-    server: '66.163.127.44'
+    server: '169.197.140.214'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1041,9 +463,9 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 5ADB5B'
+  - name: '🇺🇸 United States · WG1T'
     type: trojan
-    server: '66.163.127.9'
+    server: '170.101.101.53'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1051,9 +473,9 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'PL 🇵🇱 | @Raydikalx | 2C8E24'
+  - name: '🇩🇪 Germany · 4Y68'
     type: trojan
-    server: '70.34.252.255'
+    server: '193.108.119.15'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1061,9 +483,31 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'CA 🇨🇦 | @Raydikalx | EA36F6'
+  - name: '🇨🇦 Canada · FW1W'
     type: trojan
-    server: 'leviko-ca6908.shopingggg.ir'
+    server: '216.152.147.48'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇦 Canada · RMWA'
+    type: trojan
+    server: '216.152.147.74'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇦 Canada · EV5D'
+    type: trojan
+    server: '216.152.147.89'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1071,9 +515,9 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'Global 🌐 | @Raydikalx | 590A4E'
+  - name: '🇺🇸 United States · KV4X'
     type: trojan
-    server: 'leviko-cl7123.shopingggg.ir'
+    server: '216.152.155.23'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1081,9 +525,9 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'Global 🌐 | @Raydikalx | 8D041E'
+  - name: '🇺🇸 United States · 70SC'
     type: trojan
-    server: 'leviko-nl2695.shopingggg.ir'
+    server: '216.152.155.59'
     port: 443
     password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
@@ -1091,428 +535,79 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'HK 🇭🇰 | @Raydikalx | 80487A'
+  - name: '🇺🇸 United States · SMAE'
     type: trojan
-    server: '47.242.93.89'
-    port: 12012
-    password: '12012'
+    server: '216.152.156.159'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · NDN5'
+    type: trojan
+    server: '216.152.156.212'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · P6QT'
+    type: trojan
+    server: '66.163.112.13'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'TW 🇹🇼 | @Raydikalx | 13A957'
+  - name: '🇺🇸 United States · HZ88'
     type: trojan
-    server: '34.80.15.95'
+    server: '66.163.112.142'
     port: 443
-    password: '123456'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · XSTJ'
+    type: trojan
+    server: '66.163.112.31'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇪🇸 Spain · YXD8'
+    type: trojan
+    server: '66.163.118.203'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇪🇸 Spain · 421G'
+    type: trojan
+    server: '66.163.118.40'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'TR 🇹🇷 | @Raydikalx | B25FED'
-    type: trojan
-    server: 'girm.thugiping.com'
-    port: 443
-    password: '1814e548-140f-480d-bf35-9c947cd1a245'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 280D3F'
-    type: trojan
-    server: '216.106.186.66'
-    port: 443
-    password: '242a3d8eee5e4ed1a6bfa4141d549a25'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 2546A8'
-    type: trojan
-    server: 'www.findlocaljobnetworkandbuildcommunityconnections.com'
-    port: 443
-    password: '242a3d8eee5e4ed1a6bfa4141d549a25'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 8CE14C'
-    type: trojan
-    server: 'a2dgus.supertoolify.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SG 🇸🇬 | @Raydikalx | E63BC2'
-    type: trojan
-    server: 'bgsg1.hikigo.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'ID 🇮🇩 | @Raydikalx | B454CB'
-    type: trojan
-    server: 'i1tr.mateflora.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'ID 🇮🇩 | @Raydikalx | 84ED0E'
-    type: trojan
-    server: 'i1tr.mateflora.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | 8099F3'
-    type: trojan
-    server: 'nb1hk.hikigo.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | C3832D'
-    type: trojan
-    server: 'nu3rb.supertoolify.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | E2EB67'
-    type: trojan
-    server: 'win2loxfde0303.gggrelay.org'
-    port: 34745
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | 0C7272'
-    type: trojan
-    server: 'xvxn1hkzf.mateflora.com'
-    port: 443
-    password: '57beeeb0-03fc-4fc9-94da-7604488a7134'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'MY 🇲🇾 | @Raydikalx | 7E8D78'
-    type: trojan
-    server: '47.250.84.25'
-    port: 443
-    password: '5931134d1cde66bf83a54acdfebe7ab2'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TH 🇹🇭 | @Raydikalx | 324DD7'
-    type: trojan
-    server: '38.60.233.126'
-    port: 33079
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | AA675E'
-    type: trojan
-    server: 'ca001.zestapp778.com'
-    port: 46977
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IN 🇮🇳 | @Raydikalx | 515F34'
-    type: trojan
-    server: 'in002.zestapp778.com'
-    port: 42733
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'KR 🇰🇷 | @Raydikalx | 10B57A'
-    type: trojan
-    server: 'kr002.zestapp778.com'
-    port: 48851
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 4A012F'
-    type: trojan
-    server: 'mx001.zestapp778.com'
-    port: 15083
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TH 🇹🇭 | @Raydikalx | 5B2CEE'
-    type: trojan
-    server: 'th001.zestapp778.com'
-    port: 33079
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 1DF37F'
-    type: trojan
-    server: 'us001.zestapp778.com'
-    port: 57277
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | AEAA37'
-    type: trojan
-    server: 'us007.zestapp778.com'
-    port: 42314
-    password: '5t6i121em5lkmsmk'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | B18C64'
-    type: trojan
-    server: '95.40.110.184'
-    port: 50887
-    password: '6ec301428255a78a1d826988d86cc87e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | D3E5A8'
-    type: trojan
-    server: '95.40.43.135'
-    port: 50887
-    password: '6ec301428255a78a1d826988d86cc87e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'AU 🇦🇺 | @Raydikalx | E4305B'
-    type: trojan
-    server: '31.72img.xyz'
-    port: 443
-    password: '81d93f62-15a2-4994-adb9-0b5d906aac7e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AU 🇦🇺 | @Raydikalx | E491D2'
-    type: trojan
-    server: '60.72img.xyz'
-    port: 443
-    password: '81d93f62-15a2-4994-adb9-0b5d906aac7e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | CE2761'
-    type: trojan
-    server: '193.124.46.65'
-    port: 443
-    password: '8bS8vVC5CQ2GsckhMh8IT1jv'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 0A2FBF'
-    type: trojan
-    server: '3.10.143.243'
-    port: 16151
-    password: '8mjHjiRVsOT5'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | A8789C'
-    type: trojan
-    server: '43.167.186.78'
-    port: 8443
-    password: '9646699a-18b0-4ebc-9f53-453cc1c8e637'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 0B770A'
-    type: trojan
-    server: '66.23.203.21'
-    port: 59689
-    password: 'ae7eb4dwyaz25pxwgq59'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 938B7F'
-    type: trojan
-    server: '87.121.218.169'
-    port: 443
-    password: 'bptHV5U91mWneB61rRKhCQ8f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | BE23E5'
-    type: trojan
-    server: '172.235.63.252'
-    port: 443
-    password: 'bX_lNHWoW6ywq82mI=KUr 8i__VSp0Hs_E'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 354AF4'
-    type: trojan
-    server: '31.76.10.180'
-    port: 36508
-    password: 'cMCQxnflDO'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 4E9BF5'
-    type: trojan
-    server: '157.254.38.210'
-    port: 20103
-    password: 'd7563108-615c-4338-a7bd-77f359869a4a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | F764EB'
-    type: trojan
-    server: 'sclass-00.catcat321.com'
-    port: 20103
-    password: 'd7563108-615c-4338-a7bd-77f359869a4a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 67DBC5'
-    type: trojan
-    server: 'sclass-01.catcat321.com'
-    port: 20103
-    password: 'd7563108-615c-4338-a7bd-77f359869a4a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 630DDF'
-    type: trojan
-    server: 'sclass-b1.catcat321.com'
-    port: 20028
-    password: 'd7563108-615c-4338-a7bd-77f359869a4a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 391105'
-    type: trojan
-    server: 'sclass-b1.catcat321.com'
-    port: 20051
-    password: 'd7563108-615c-4338-a7bd-77f359869a4a'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | 2BC027'
-    type: trojan
-    server: 'sclass-00.catcat321.com'
-    port: 20123
-    password: 'd9064589-74af-432a-9390-5d8a9da281bf'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | 4AB5D5'
-    type: trojan
-    server: 'sclass-c1.catcat321.com'
-    port: 20086
-    password: 'd9064589-74af-432a-9390-5d8a9da281bf'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 22AF20'
-    type: trojan
-    server: '216.106.186.32'
-    port: 443
-    password: 'dba20dcb635e430fa4d3bfc303a149d2'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 49B65F'
+  - name: '🇺🇸 United States · P3HY'
     type: trojan
     server: 'blog.findlocaljobnetworkandbuildcommunityconnections.com'
     port: 443
@@ -1522,47 +617,356 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 179189'
+  - name: '🇪🇸 Spain · Z1KS'
     type: trojan
-    server: '18.199.218.181'
-    port: 16154
-    password: 'djHTZmNXIVnA'
+    server: '66.163.118.115'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇪🇸 Spain · HCQK'
+    type: trojan
+    server: '66.163.118.251'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | 97BA3A'
+  - name: '🇩🇪 Germany · SW42'
     type: trojan
-    server: '139.180.146.200'
-    port: 8886
-    password: 'e26a229d-e8f2-4ff9-8c7d-58a9d83ee437'
+    server: 'leviko-de5094.shopingggg.ir'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'JP 🇯🇵 | @Raydikalx | C4AF0E'
+  - name: '🇪🇸 Spain · RMS9'
     type: trojan
-    server: '45.32.52.173'
-    port: 8886
-    password: 'e26a229d-e8f2-4ff9-8c7d-58a9d83ee437'
+    server: '66.163.118.166'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 6A2478'
+  - name: '🇪🇸 Spain · JBJY'
+    type: trojan
+    server: '66.163.118.244'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇩🇪 Germany · SW32'
+    type: trojan
+    server: '193.108.119.193'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · G7F1'
+    type: trojan
+    server: '170.101.101.112'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 0AP4'
+    type: trojan
+    server: '169.197.140.224'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · TX09'
+    type: trojan
+    server: '170.101.101.237'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 7MG0'
+    type: trojan
+    server: '66.163.122.26'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇩🇪 Germany · E61C'
+    type: trojan
+    server: '193.108.119.34'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇩🇪 Germany · GQVT'
+    type: trojan
+    server: '193.108.119.96'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · CYM6'
+    type: trojan
+    server: '169.197.140.208'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇭 Switzerland · RKHW'
+    type: trojan
+    server: '208.69.78.29'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · CMCH'
+    type: trojan
+    server: '66.163.114.126'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · FM7Q'
+    type: trojan
+    server: '167.88.61.198'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 90EF'
+    type: trojan
+    server: '66.163.112.76'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · AYGT'
+    type: trojan
+    server: '66.163.122.7'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · FS1M'
+    type: trojan
+    server: '216.106.186.46'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇰🇷 South Korea · BJR7'
+    type: trojan
+    server: '154.90.62.70'
+    port: 56127
+    password: 'p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇸🇬 Singapore · B130'
+    type: trojan
+    server: '43.156.36.253'
+    port: 443
+    password: 'WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇪🇸 Spain · FXE5'
+    type: trojan
+    server: '66.163.118.62'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇭 Switzerland · CM33'
+    type: trojan
+    server: '208.69.78.60'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 5MZ3'
+    type: trojan
+    server: '66.163.122.113'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · SHGD'
+    type: trojan
+    server: '216.152.155.50'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 38S7'
+    type: trojan
+    server: '170.101.101.131'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · YHBK'
+    type: trojan
+    server: '66.163.112.147'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇳🇱 Netherlands · QNM2'
+    type: trojan
+    server: '66.163.127.9'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇳🇱 Netherlands · SPRS'
+    type: trojan
+    server: '66.163.127.44'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 00VP'
     type: trojan
     server: '216.106.186.33'
     port: 443
-    password: 'f0eb8c92ce8946aaba856569cff1a16b'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 001B88'
+  - name: '🇺🇸 United States · C0H9'
+    type: trojan
+    server: '216.152.156.49'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇭 Switzerland · 2BBM'
+    type: trojan
+    server: '208.69.78.33'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · FRE6'
+    type: trojan
+    server: '216.106.186.82'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇭 Switzerland · Z9XN'
+    type: trojan
+    server: '208.69.78.19'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · FRJS'
     type: trojan
     server: 'resources.findlocaljobnetworkandbuildcommunityconnections.com'
     port: 443
@@ -1572,7 +976,288 @@ proxies:
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'JP 🇯🇵 | @Raydikalx | 7353B1'
+  - name: '🇺🇸 United States · BKZQ'
+    type: trojan
+    server: '167.88.61.193'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · VQPE'
+    type: trojan
+    server: '169.197.140.218'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 8XVG'
+    type: trojan
+    server: '216.106.186.66'
+    port: 443
+    password: '242a3d8eee5e4ed1a6bfa4141d549a25'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇳🇱 Netherlands · Y92T'
+    type: trojan
+    server: '66.163.127.215'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · T29N'
+    type: trojan
+    server: '169.197.140.171'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇭 Switzerland · 54EP'
+    type: trojan
+    server: '208.69.78.158'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 21EH'
+    type: trojan
+    server: '66.163.112.171'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · WS0W'
+    type: trojan
+    server: '169.197.140.245'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · ZQJP'
+    type: trojan
+    server: '216.106.186.46'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 94SM'
+    type: trojan
+    server: '216.106.186.155'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 91Q1'
+    type: trojan
+    server: '170.101.101.211'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇨🇭 Switzerland · 38DX'
+    type: trojan
+    server: '208.69.78.222'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇩🇪 Germany · EWC0'
+    type: trojan
+    server: '193.108.119.78'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 2AGN'
+    type: trojan
+    server: 'www.findlocaljobnetworkandbuildcommunityconnections.com'
+    port: 443
+    password: '242a3d8eee5e4ed1a6bfa4141d549a25'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇨🇦 Canada · GYD9'
+    type: trojan
+    server: '216.152.147.201'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 1V4J'
+    type: trojan
+    server: '66.163.112.147'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · QJBP'
+    type: trojan
+    server: '66.163.122.46'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇲🇾 Malaysia · CWXJ'
+    type: trojan
+    server: '47.250.84.25'
+    port: 443
+    password: '5931134d1cde66bf83a54acdfebe7ab2'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · RDRX'
+    type: trojan
+    server: '216.106.186.66'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 7BJQ'
+    type: trojan
+    server: '216.106.186.33'
+    port: 443
+    password: 'f0eb8c92ce8946aaba856569cff1a16b'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · YP1F'
+    type: trojan
+    server: '66.163.122.30'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇺🇸 United States · 4VVC'
+    type: trojan
+    server: '66.163.122.25'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇭🇰 Hong Kong SAR China · 581A'
+    type: trojan
+    server: '47.242.93.89'
+    port: 12012
+    password: '12012'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 2E0E'
+    type: trojan
+    server: '69.164.240.85'
+    port: 50875
+    password: 'nwilryafgkyvuxauc8pz'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇳🇱 Netherlands · A92P'
+    type: trojan
+    server: '66.163.127.107'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇧🇷 Brazil · D4VK'
+    type: trojan
+    server: '216.238.104.154'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · VSWZ'
+    type: trojan
+    server: '216.106.186.32'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇯🇵 Japan · 0WCG'
     type: trojan
     server: '193.123.160.109'
     port: 8443
@@ -1583,224 +1268,103 @@ proxies:
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'SE 🇸🇪 | @Raydikalx | 7F07F4'
+  - name: '🇺🇸 United States · 9DBT'
     type: trojan
-    server: '95.143.196.97'
+    server: '66.163.112.31'
     port: 443
-    password: 'FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | FC4C22'
+  - name: '🇺🇸 United States · 6NWX'
     type: trojan
-    server: '91.233.8.25'
+    server: '66.163.112.242'
     port: 443
-    password: 'I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'BY 🇧🇾 | @Raydikalx | 4B3BD3'
-    type: trojan
-    server: '179.254.191.2'
-    port: 39105
-    password: 'jyneij42qcfg3x9f'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'BY 🇧🇾 | @Raydikalx | 68366B'
+  - name: '🇿🇦 South Africa · JRGV'
     type: trojan
-    server: '179.254.191.2'
-    port: 39105
-    password: 'jyneij42qcfg3x9f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 0CD100'
-    type: trojan
-    server: '65.109.215.50'
-    port: 54673
-    password: 'Ldbgt4IUYv0S 5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4='
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 23E5B2'
-    type: trojan
-    server: '167.82.64.7'
+    server: '139.84.231.142'
     port: 443
-    password: 'mitivpn'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 56583D'
-    type: trojan
-    server: '167.82.64.7'
-    port: 443
-    password: 'mitivpn'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 9D1663'
-    type: trojan
-    server: '199.232.78.160'
-    port: 443
-    password: 'MiTiVPN'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 6E1A12'
-    type: trojan
-    server: '69.164.240.85'
-    port: 50875
-    password: 'nwilryafgkyvuxauc8pz'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'Global 🌐 | @Raydikalx | 83DA8F'
-    type: trojan
-    server: 'sonau.yaremonta.loc.cc'
-    port: 8444
-    password: 'og85o9QeVVvtMD2sxPjO'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 8783EE'
-    type: trojan
-    server: 'alireza.karamoz1.ir'
-    port: 443
-    password: 'poimnap'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 66D149'
-    type: trojan
-    server: '13.192.168.51'
-    port: 443
-    password: 'PQ05174892'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | F1727D'
+  - name: '🇺🇸 United States · 61VK'
     type: trojan
-    server: '172.238.120.124'
-    port: 443
-    password: 'r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ'
+    server: '66.23.203.21'
+    port: 59689
+    password: 'ae7eb4dwyaz25pxwgq59'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 3FA33A'
+  - name: '🇺🇸 United States · 6CEE'
     type: trojan
-    server: '172.236.220.10'
+    server: '216.106.186.32'
     port: 443
-    password: 's_WEN9lMmufG qDIsn-4C7JOVAnDdbS3Ui'
+    password: 'dba20dcb635e430fa4d3bfc303a149d2'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 2E7809'
+  - name: '🇺🇸 United States · 97SZG'
     type: trojan
-    server: '13.37.180.245'
-    port: 22222
-    password: 'telegram-id-privatevpns'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'http/1.1'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 622426'
-    type: trojan
-    server: 'fi.zhabulik.ru'
+    server: '170.101.101.67'
     port: 443
-    password: 'WFer-5gN21nfHbVB2N8s71Z74EPUfzVj'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | 77F4C7'
+  - name: '🇺🇸 United States · BAKD'
     type: trojan
-    server: '43.156.36.253'
+    server: '66.163.114.106'
     port: 443
-    password: 'WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 5A12B5'
-    type: trojan
-    server: '178.17.60.97'
-    port: 5443
-    password: 'X00HagvwL8gQXNDAnsxsN8dv1_VdneEo'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: 'HK 🇭🇰 | @Raydikalx | 73C465'
-    type: trojan
-    server: '2.27.109.179'
-    port: 45464
-    password: 'XuMweB2PWs'
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
     sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'KR 🇰🇷 | @Raydikalx | CC13F7'
+  - name: '🇺🇸 United States · C9K0'
     type: trojan
-    server: '121.78.213.3'
+    server: '186.241.106.5'
     port: 443
-    password: 'ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S'
+    password: 'qpbw_r_Ykr5EZTGKX3mNZSVTj9liEAL3'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · XKQF'
+    type: trojan
+    server: 'blog.findlocaljobnetworkandbuildcommunityconnections.com'
+    port: 443
+    password: 'dba20dcb635e430fa4d3bfc303a149d2'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · P822'
+    type: trojan
+    server: '216.106.186.82'
+    port: 443
+    password: '0ab6c98dae3b48e8b9c4a776b6c9c19a'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -1814,182 +1378,138 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - 'ZA 🇿🇦 | @Raydikalx | F7DB86'
-      - 'SG 🇸🇬 | @Raydikalx | E75317'
-      - 'SG 🇸🇬 | @Raydikalx | BB2FE8'
-      - 'KR 🇰🇷 | @Raydikalx | 75B776'
-      - 'JP 🇯🇵 | @Raydikalx | 93578B'
-      - 'US 🇺🇸 | @Raydikalx | D36BFB'
-      - 'US 🇺🇸 | @Raydikalx | 796A40'
-      - 'US 🇺🇸 | @Raydikalx | 00771D'
-      - 'US 🇺🇸 | @Raydikalx | 8DA169'
-      - 'US 🇺🇸 | @Raydikalx | F83763'
-      - 'US 🇺🇸 | @Raydikalx | D327E5'
-      - 'US 🇺🇸 | @Raydikalx | C55613'
-      - 'US 🇺🇸 | @Raydikalx | F2A0CA'
-      - 'US 🇺🇸 | @Raydikalx | 0CB14F'
-      - 'US 🇺🇸 | @Raydikalx | 8051E9'
-      - 'US 🇺🇸 | @Raydikalx | 0567AA'
-      - 'US 🇺🇸 | @Raydikalx | F77BD3'
-      - 'US 🇺🇸 | @Raydikalx | 736062'
-      - 'US 🇺🇸 | @Raydikalx | BB9EC6'
-      - 'US 🇺🇸 | @Raydikalx | FE1AD2'
-      - 'US 🇺🇸 | @Raydikalx | C23131'
-      - 'US 🇺🇸 | @Raydikalx | A08D26'
-      - 'US 🇺🇸 | @Raydikalx | E8963D'
-      - 'US 🇺🇸 | @Raydikalx | 949227'
-      - 'US 🇺🇸 | @Raydikalx | D9696F'
-      - 'DE 🇩🇪 | @Raydikalx | 03F702'
-      - 'DE 🇩🇪 | @Raydikalx | F81FC5'
-      - 'DE 🇩🇪 | @Raydikalx | 33F8BE'
-      - 'DE 🇩🇪 | @Raydikalx | 1921E5'
-      - 'DE 🇩🇪 | @Raydikalx | B194A8'
-      - 'CH 🇨🇭 | @Raydikalx | FB69CD'
-      - 'CH 🇨🇭 | @Raydikalx | 252CA9'
-      - 'CH 🇨🇭 | @Raydikalx | DA2ACE'
-      - 'CH 🇨🇭 | @Raydikalx | 894BDE'
-      - 'CH 🇨🇭 | @Raydikalx | C6F0FA'
-      - 'CH 🇨🇭 | @Raydikalx | 82B9CD'
-      - 'US 🇺🇸 | @Raydikalx | 412F3F'
-      - 'US 🇺🇸 | @Raydikalx | C8D4AD'
-      - 'US 🇺🇸 | @Raydikalx | A0C347'
-      - 'US 🇺🇸 | @Raydikalx | FB18EA'
-      - 'US 🇺🇸 | @Raydikalx | 7DB317'
-      - 'US 🇺🇸 | @Raydikalx | F195D8'
-      - 'CA 🇨🇦 | @Raydikalx | 48B559'
-      - 'CA 🇨🇦 | @Raydikalx | B897AE'
-      - 'CA 🇨🇦 | @Raydikalx | 09103E'
-      - 'CA 🇨🇦 | @Raydikalx | C7686D'
-      - 'CA 🇨🇦 | @Raydikalx | 168319'
-      - 'CA 🇨🇦 | @Raydikalx | 6CB1D6'
-      - 'CA 🇨🇦 | @Raydikalx | FB5613'
-      - 'CA 🇨🇦 | @Raydikalx | 540A40'
-      - 'US 🇺🇸 | @Raydikalx | 7B15EE'
-      - 'US 🇺🇸 | @Raydikalx | 5BA270'
-      - 'US 🇺🇸 | @Raydikalx | B143E4'
-      - 'US 🇺🇸 | @Raydikalx | 71EF67'
-      - 'US 🇺🇸 | @Raydikalx | 3DAA21'
-      - 'US 🇺🇸 | @Raydikalx | 16ACF4'
-      - 'US 🇺🇸 | @Raydikalx | 1D3803'
-      - 'US 🇺🇸 | @Raydikalx | 815D87'
-      - 'US 🇺🇸 | @Raydikalx | EAAF0E'
-      - 'US 🇺🇸 | @Raydikalx | E30022'
-      - 'US 🇺🇸 | @Raydikalx | 792421'
-      - 'US 🇺🇸 | @Raydikalx | B26947'
-      - 'US 🇺🇸 | @Raydikalx | 468254'
-      - 'US 🇺🇸 | @Raydikalx | 472D5E'
-      - 'BR 🇧🇷 | @Raydikalx | C8B193'
-      - 'MX 🇲🇽 | @Raydikalx | 055C21'
-      - 'AU 🇦🇺 | @Raydikalx | 4787DF'
-      - 'IL 🇮🇱 | @Raydikalx | 7C445A'
-      - 'CL 🇨🇱 | @Raydikalx | 3679D3'
-      - 'US 🇺🇸 | @Raydikalx | CFA29A'
-      - 'US 🇺🇸 | @Raydikalx | 67F66B'
-      - 'US 🇺🇸 | @Raydikalx | B1D7F7'
-      - 'US 🇺🇸 | @Raydikalx | C81AF3'
-      - 'US 🇺🇸 | @Raydikalx | 684C69'
-      - 'US 🇺🇸 | @Raydikalx | 6572E1'
-      - 'US 🇺🇸 | @Raydikalx | 1BAF48'
-      - 'US 🇺🇸 | @Raydikalx | 52E9AA'
-      - 'US 🇺🇸 | @Raydikalx | 3274C4'
-      - 'US 🇺🇸 | @Raydikalx | 16AFF6'
-      - 'US 🇺🇸 | @Raydikalx | 8BF190'
-      - 'US 🇺🇸 | @Raydikalx | 4EBD64'
-      - 'US 🇺🇸 | @Raydikalx | FFA00A'
-      - 'US 🇺🇸 | @Raydikalx | 23538E'
-      - 'US 🇺🇸 | @Raydikalx | 4538E8'
-      - 'ES 🇪🇸 | @Raydikalx | 19E8AE'
-      - 'ES 🇪🇸 | @Raydikalx | 4AC48F'
-      - 'ES 🇪🇸 | @Raydikalx | F12CA1'
-      - 'ES 🇪🇸 | @Raydikalx | 3B5924'
-      - 'ES 🇪🇸 | @Raydikalx | 2A8C03'
-      - 'ES 🇪🇸 | @Raydikalx | F48624'
-      - 'ES 🇪🇸 | @Raydikalx | 2712B5'
-      - 'US 🇺🇸 | @Raydikalx | 651D8C'
-      - 'US 🇺🇸 | @Raydikalx | 77C617'
-      - 'US 🇺🇸 | @Raydikalx | AD8601'
-      - 'US 🇺🇸 | @Raydikalx | 120146'
-      - 'US 🇺🇸 | @Raydikalx | 412587'
-      - 'US 🇺🇸 | @Raydikalx | E3A45B'
-      - 'NL 🇳🇱 | @Raydikalx | AE2C85'
-      - 'NL 🇳🇱 | @Raydikalx | B8902A'
-      - 'NL 🇳🇱 | @Raydikalx | 4C40A9'
-      - 'NL 🇳🇱 | @Raydikalx | A8D519'
-      - 'NL 🇳🇱 | @Raydikalx | 97C064'
-      - 'NL 🇳🇱 | @Raydikalx | A5AEF2'
-      - 'NL 🇳🇱 | @Raydikalx | 5ADB5B'
-      - 'PL 🇵🇱 | @Raydikalx | 2C8E24'
-      - 'CA 🇨🇦 | @Raydikalx | EA36F6'
-      - 'Global 🌐 | @Raydikalx | 590A4E'
-      - 'Global 🌐 | @Raydikalx | 8D041E'
-      - 'HK 🇭🇰 | @Raydikalx | 80487A'
-      - 'TW 🇹🇼 | @Raydikalx | 13A957'
-      - 'TR 🇹🇷 | @Raydikalx | B25FED'
-      - 'US 🇺🇸 | @Raydikalx | 280D3F'
-      - 'US 🇺🇸 | @Raydikalx | 2546A8'
-      - 'US 🇺🇸 | @Raydikalx | 8CE14C'
-      - 'SG 🇸🇬 | @Raydikalx | E63BC2'
-      - 'ID 🇮🇩 | @Raydikalx | B454CB'
-      - 'ID 🇮🇩 | @Raydikalx | 84ED0E'
-      - 'HK 🇭🇰 | @Raydikalx | 8099F3'
-      - 'JP 🇯🇵 | @Raydikalx | C3832D'
-      - 'JP 🇯🇵 | @Raydikalx | E2EB67'
-      - 'HK 🇭🇰 | @Raydikalx | 0C7272'
-      - 'MY 🇲🇾 | @Raydikalx | 7E8D78'
-      - 'TH 🇹🇭 | @Raydikalx | 324DD7'
-      - 'CA 🇨🇦 | @Raydikalx | AA675E'
-      - 'IN 🇮🇳 | @Raydikalx | 515F34'
-      - 'KR 🇰🇷 | @Raydikalx | 10B57A'
-      - 'CA 🇨🇦 | @Raydikalx | 4A012F'
-      - 'TH 🇹🇭 | @Raydikalx | 5B2CEE'
-      - 'CA 🇨🇦 | @Raydikalx | 1DF37F'
-      - 'US 🇺🇸 | @Raydikalx | AEAA37'
-      - 'HK 🇭🇰 | @Raydikalx | B18C64'
-      - 'HK 🇭🇰 | @Raydikalx | D3E5A8'
-      - 'AU 🇦🇺 | @Raydikalx | E4305B'
-      - 'AU 🇦🇺 | @Raydikalx | E491D2'
-      - 'TR 🇹🇷 | @Raydikalx | CE2761'
-      - 'GB 🇬🇧 | @Raydikalx | 0A2FBF'
-      - 'JP 🇯🇵 | @Raydikalx | A8789C'
-      - 'US 🇺🇸 | @Raydikalx | 0B770A'
-      - 'DE 🇩🇪 | @Raydikalx | 938B7F'
-      - 'US 🇺🇸 | @Raydikalx | BE23E5'
-      - 'DE 🇩🇪 | @Raydikalx | 354AF4'
-      - 'US 🇺🇸 | @Raydikalx | 4E9BF5'
-      - 'HK 🇭🇰 | @Raydikalx | F764EB'
-      - 'US 🇺🇸 | @Raydikalx | 67DBC5'
-      - 'US 🇺🇸 | @Raydikalx | 630DDF'
-      - 'US 🇺🇸 | @Raydikalx | 391105'
-      - 'HK 🇭🇰 | @Raydikalx | 2BC027'
-      - 'HK 🇭🇰 | @Raydikalx | 4AB5D5'
-      - 'US 🇺🇸 | @Raydikalx | 22AF20'
-      - 'US 🇺🇸 | @Raydikalx | 49B65F'
-      - 'DE 🇩🇪 | @Raydikalx | 179189'
-      - 'SG 🇸🇬 | @Raydikalx | 97BA3A'
-      - 'JP 🇯🇵 | @Raydikalx | C4AF0E'
-      - 'US 🇺🇸 | @Raydikalx | 6A2478'
-      - 'US 🇺🇸 | @Raydikalx | 001B88'
-      - 'JP 🇯🇵 | @Raydikalx | 7353B1'
-      - 'SE 🇸🇪 | @Raydikalx | 7F07F4'
-      - 'DE 🇩🇪 | @Raydikalx | FC4C22'
-      - 'BY 🇧🇾 | @Raydikalx | 4B3BD3'
-      - 'BY 🇧🇾 | @Raydikalx | 68366B'
-      - 'FI 🇫🇮 | @Raydikalx | 0CD100'
-      - 'US 🇺🇸 | @Raydikalx | 23E5B2'
-      - 'US 🇺🇸 | @Raydikalx | 56583D'
-      - 'US 🇺🇸 | @Raydikalx | 9D1663'
-      - 'US 🇺🇸 | @Raydikalx | 6E1A12'
-      - 'Global 🌐 | @Raydikalx | 83DA8F'
-      - 'DE 🇩🇪 | @Raydikalx | 8783EE'
-      - 'JP 🇯🇵 | @Raydikalx | 66D149'
-      - 'DE 🇩🇪 | @Raydikalx | F1727D'
-      - 'DE 🇩🇪 | @Raydikalx | 3FA33A'
-      - 'FR 🇫🇷 | @Raydikalx | 2E7809'
-      - 'FR 🇫🇷 | @Raydikalx | 622426'
-      - 'SG 🇸🇬 | @Raydikalx | 77F4C7'
-      - 'FI 🇫🇮 | @Raydikalx | 5A12B5'
-      - 'HK 🇭🇰 | @Raydikalx | 73C465'
-      - 'KR 🇰🇷 | @Raydikalx | CC13F7'
+      - '🇺🇸 United States · GHCM'
+      - '🇺🇸 United States · NZFB'
+      - '🇩🇪 Germany · CRED'
+      - '🇨🇭 Switzerland · H6PK'
+      - '🇨🇦 Canada · 9N88'
+      - '🇺🇸 United States · AMC7'
+      - '🇺🇸 United States · JJK5'
+      - '🇺🇸 United States · Z1EN'
+      - '🇺🇸 United States · XSR9'
+      - '🇺🇸 United States · VZN1'
+      - '🇺🇸 United States · 2GR5'
+      - '🇺🇸 United States · E9EE'
+      - '🇪🇸 Spain · R0G6'
+      - '🇺🇸 United States · 3E4Q'
+      - '🇳🇱 Netherlands · ETK5'
+      - '🇨🇦 Canada · BFRY'
+      - '🇳🇱 Netherlands · 2CT4'
+      - '🇺🇸 United States · R8KE'
+      - '🇺🇸 United States · 3BCT'
+      - '🇫🇷 France · DBP8'
+      - '🇺🇸 United States · 1AQZ'
+      - '🇫🇷 France · YJ8C'
+      - '🇯🇵 Japan · RFDX'
+      - '🇸🇬 Singapore · 41A4'
+      - '🇺🇸 United States · CCD0'
+      - '🇺🇸 United States · 8WTR'
+      - '🇺🇸 United States · 3KVY'
+      - '🇺🇸 United States · 4E63'
+      - '🇺🇸 United States · DHEK'
+      - '🇩🇪 Germany · XY3E'
+      - '🇨🇦 Canada · BSTD'
+      - '🇨🇦 Canada · RFTK'
+      - '🇨🇦 Canada · PGSW'
+      - '🇺🇸 United States · MXKJ'
+      - '🇺🇸 United States · EFFJ'
+      - '🇺🇸 United States · WTWZ'
+      - '🇺🇸 United States · 81N1'
+      - '🇺🇸 United States · HGWR'
+      - '🇺🇸 United States · DCET'
+      - '🇺🇸 United States · W214'
+      - '🇺🇸 United States · AAZ1'
+      - '🇳🇱 Netherlands · KE30'
+      - '🇳🇱 Netherlands · CV2G'
+      - '🇺🇸 United States · WA9R'
+      - '🇺🇸 United States · WG1T'
+      - '🇩🇪 Germany · 4Y68'
+      - '🇨🇦 Canada · FW1W'
+      - '🇨🇦 Canada · RMWA'
+      - '🇨🇦 Canada · EV5D'
+      - '🇺🇸 United States · KV4X'
+      - '🇺🇸 United States · 70SC'
+      - '🇺🇸 United States · SMAE'
+      - '🇺🇸 United States · NDN5'
+      - '🇺🇸 United States · P6QT'
+      - '🇺🇸 United States · HZ88'
+      - '🇺🇸 United States · XSTJ'
+      - '🇪🇸 Spain · YXD8'
+      - '🇪🇸 Spain · 421G'
+      - '🇺🇸 United States · P3HY'
+      - '🇪🇸 Spain · Z1KS'
+      - '🇪🇸 Spain · HCQK'
+      - '🇩🇪 Germany · SW42'
+      - '🇪🇸 Spain · RMS9'
+      - '🇪🇸 Spain · JBJY'
+      - '🇩🇪 Germany · SW32'
+      - '🇺🇸 United States · G7F1'
+      - '🇺🇸 United States · 0AP4'
+      - '🇺🇸 United States · TX09'
+      - '🇺🇸 United States · 7MG0'
+      - '🇩🇪 Germany · E61C'
+      - '🇩🇪 Germany · GQVT'
+      - '🇺🇸 United States · CYM6'
+      - '🇨🇭 Switzerland · RKHW'
+      - '🇺🇸 United States · CMCH'
+      - '🇺🇸 United States · FM7Q'
+      - '🇺🇸 United States · 90EF'
+      - '🇺🇸 United States · AYGT'
+      - '🇺🇸 United States · FS1M'
+      - '🇰🇷 South Korea · BJR7'
+      - '🇸🇬 Singapore · B130'
+      - '🇪🇸 Spain · FXE5'
+      - '🇨🇭 Switzerland · CM33'
+      - '🇺🇸 United States · 5MZ3'
+      - '🇺🇸 United States · SHGD'
+      - '🇺🇸 United States · 38S7'
+      - '🇺🇸 United States · YHBK'
+      - '🇳🇱 Netherlands · QNM2'
+      - '🇳🇱 Netherlands · SPRS'
+      - '🇺🇸 United States · 00VP'
+      - '🇺🇸 United States · C0H9'
+      - '🇨🇭 Switzerland · 2BBM'
+      - '🇺🇸 United States · FRE6'
+      - '🇨🇭 Switzerland · Z9XN'
+      - '🇺🇸 United States · FRJS'
+      - '🇺🇸 United States · BKZQ'
+      - '🇺🇸 United States · VQPE'
+      - '🇺🇸 United States · 8XVG'
+      - '🇳🇱 Netherlands · Y92T'
+      - '🇺🇸 United States · T29N'
+      - '🇨🇭 Switzerland · 54EP'
+      - '🇺🇸 United States · 21EH'
+      - '🇺🇸 United States · WS0W'
+      - '🇺🇸 United States · ZQJP'
+      - '🇺🇸 United States · 94SM'
+      - '🇺🇸 United States · 91Q1'
+      - '🇨🇭 Switzerland · 38DX'
+      - '🇩🇪 Germany · EWC0'
+      - '🇺🇸 United States · 2AGN'
+      - '🇨🇦 Canada · GYD9'
+      - '🇺🇸 United States · 1V4J'
+      - '🇺🇸 United States · QJBP'
+      - '🇲🇾 Malaysia · CWXJ'
+      - '🇺🇸 United States · RDRX'
+      - '🇺🇸 United States · 7BJQ'
+      - '🇺🇸 United States · YP1F'
+      - '🇺🇸 United States · 4VVC'
+      - '🇭🇰 Hong Kong SAR China · 581A'
+      - '🇺🇸 United States · 2E0E'
+      - '🇳🇱 Netherlands · A92P'
+      - '🇧🇷 Brazil · D4VK'
+      - '🇺🇸 United States · VSWZ'
+      - '🇯🇵 Japan · 0WCG'
+      - '🇺🇸 United States · 9DBT'
+      - '🇺🇸 United States · 6NWX'
+      - '🇿🇦 South Africa · JRGV'
+      - '🇺🇸 United States · 61VK'
+      - '🇺🇸 United States · 6CEE'
+      - '🇺🇸 United States · 97SZG'
+      - '🇺🇸 United States · BAKD'
+      - '🇺🇸 United States · C9K0'
+      - '🇺🇸 United States · XKQF'
+      - '🇺🇸 United States · P822'
 
 rules:
   - MATCH,Auto-Select
