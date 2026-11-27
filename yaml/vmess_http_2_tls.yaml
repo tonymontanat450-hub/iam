@@ -1,0 +1,66 @@
+proxies:
+  - name: '🇳🇱NL-51.15.119.36-0326'
+    type: vmess
+    server: '51.15.119.36'
+    port: 443
+    uuid: '05b6b25b-bb5d-4dcd-9710-31e374ffa584'
+    alterId: 0
+    cipher: 'auto'
+    network: h2
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    h2-opts:
+      host:
+        - 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      path: '/'
+
+  - name: '🇺🇸US-104.168.54.205-0382'
+    type: vmess
+    server: 'a.v2ray.world'
+    port: 443
+    uuid: '05b6b25b-bb5d-4dcd-9710-31e374ffa584'
+    alterId: 0
+    cipher: 'auto'
+    network: h2
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    h2-opts:
+      host:
+        - 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      path: '/'
+
+  - name: '🇫🇷 🇫🇷 FR | 🔒 VMESS | @mahsaproxy [4]'
+    type: vmess
+    server: '152.228.229.14'
+    port: 443
+    uuid: 'b28bd4c0-86e3-11ed-ae56-e341819d545b'
+    alterId: 0
+    cipher: 'auto'
+    network: h2
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    h2-opts:
+      host:
+        - 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      path: '/'
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - '🇳🇱NL-51.15.119.36-0326'
+      - '🇺🇸US-104.168.54.205-0382'
+      - '🇫🇷 🇫🇷 FR | 🔒 VMESS | @mahsaproxy [4]'
+
+rules:
+  - MATCH,Auto-Select
