@@ -1,4 +1,14 @@
 proxies:
+  - name: '🇹🇼 Taiwan · MYPM'
+    type: anytls
+    server: 'mfjh645drfj1dr6j5.df6h451rh.xin'
+    port: 443
+    password: '0324fbc29561'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
   - name: '🇹🇼 Taiwan · JHED'
     type: anytls
     server: 'a54ge.df6h451rh.xin'
@@ -7,18 +17,19 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     client-fingerprint: 'chrome'
 
-  - name: '🇭🇰 Hong Kong SAR China · APNP'
+  - name: '🇭🇰 Hong Kong SAR China · J9Y1'
     type: anytls
-    server: 'dddz-1-x.473221.xyz'
-    port: 43120
-    password: '5807f1c4-b50e-4ec0-8d01-274045da0da5'
+    server: 'ibsdsf.df6h451rh.xin'
+    port: 443
+    password: '2902c46c8493'
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+    client-fingerprint: 'chrome'
 
   - name: '🇺🇸 United States · NBN0'
     type: anytls
@@ -28,18 +39,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇹🇼 Taiwan · 2KPC'
-    type: anytls
-    server: 'mfjh645drfj1dr6j5.df6h451rh.xin'
-    port: 443
-    password: '0324fbc29561'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
+    sni: 'googleapis.com'
 
   - name: '🇹🇼 Taiwan · 0JC0'
     type: anytls
@@ -49,7 +49,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     client-fingerprint: 'chrome'
 
   - name: '🇭🇰 Hong Kong SAR China · EPXK'
@@ -60,17 +60,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇭🇰 Hong Kong SAR China · GWX2'
-    type: anytls
-    server: 'ibsdsf.df6h451rh.xin'
-    port: 443
-    password: '2902c46c8493'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
 
 proxy-groups:
@@ -80,13 +70,12 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
+      - '🇹🇼 Taiwan · MYPM'
       - '🇹🇼 Taiwan · JHED'
-      - '🇭🇰 Hong Kong SAR China · APNP'
+      - '🇭🇰 Hong Kong SAR China · J9Y1'
       - '🇺🇸 United States · NBN0'
-      - '🇹🇼 Taiwan · 2KPC'
       - '🇹🇼 Taiwan · 0JC0'
       - '🇭🇰 Hong Kong SAR China · EPXK'
-      - '🇭🇰 Hong Kong SAR China · GWX2'
 
 rules:
   - MATCH,Auto-Select
