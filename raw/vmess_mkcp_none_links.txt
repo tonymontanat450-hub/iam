@@ -1,0 +1,10 @@
+vmess://551087e5-9a03-4634-9e7f-714133eb3ccb@8.209.203.88:58490?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%F0%9F%87%AF%F0%9F%87%B5%2013%2C21%2C25%2C27%7C%E6%97%A5%E6%9C%ACA%7C%40ripaojiedian
+vmess://3949be3c-f862-4081-afca-9979bd189648@47.239.242.136:26706?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%F0%9F%87%AD%F0%9F%87%B0%2013%2C21%2C25%2C27%7C%E9%A6%99%E6%B8%AFA%7C%40ripaojiedian
+vmess://1d52f28c-b096-4895-b87c-4f735ad3644a@107.189.7.176:52670?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%40vpnclashfa%20-%2094
+vmess://161babb1-102e-4a3b-f0af-3e5ef596632b@95.179.180.233:16679?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%40VMESSIRAN%20%D8%B3%D8%B1%D9%88%D8%B1%20%DB%B4%20%D8%AF%DB%8C
+vmess://7636ed4f-47ca-481e-88c8-a6a3223f2ae5@95.216.211.189:10000?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%28S456%29%F0%9F%87%AB%F0%9F%87%AEt.me%2FPrivateVPNs
+vmess://7636ed4f-47ca-481e-88c8-a6a3223f2ae5@135.181.198.255:10000?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%28S459%29%F0%9F%87%AB%F0%9F%87%AEt.me%2FPrivateVPNs
+vmess://7636ed4f-47ca-481e-88c8-a6a3223f2ae5@65.109.160.253:10000?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%28S466%29%F0%9F%87%AB%F0%9F%87%AEt.me%2FPrivateVPNs
+vmess://06385b5f-416e-4f1b-a1a2-dfbee98cedb3@83.147.17.63:8056?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%E2%9C%8C%EF%B8%8F%F0%9F%94%B0%20%40v2rayNG_ribvar%20%F0%9F%94%B0
+vmess://54377549-adb3-4795-bddf-29d44862c796@80.92.204.210:14984?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#t.me%2Fshadowlinkserverr
+vmess://00af6fd7-799c-43ef-e852-fc0675fb3c9c@185.242.87.161:55254?security=none&allowInsecure=1&insecure=true&skip-cert-verify=true&type=mkcp#%F0%9F%95%8A%40ConfigV2RayNG%F0%9F%95%8A%D8%A7%DA%AF%D9%87%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%20%D8%A8%DB%8C%D8%A7%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
