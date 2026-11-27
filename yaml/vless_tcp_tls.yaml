@@ -7,7 +7,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇵🇱 Poland · NET7'
@@ -18,7 +18,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -33,7 +33,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇳🇱 Netherlands · AHME'
@@ -45,7 +45,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇳🇱 Netherlands · F4B5'
@@ -57,7 +57,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇳🇱 Netherlands · 8BZY'
@@ -69,7 +69,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -83,7 +83,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
     client-fingerprint: 'firefox'
@@ -96,7 +96,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -110,7 +110,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇩🇪 Germany · J5XG'
@@ -122,7 +122,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇸🇬 Singapore · 4266'
@@ -133,7 +133,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -148,7 +148,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇫🇮 Finland · 531Y'
@@ -160,7 +160,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -176,7 +176,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
     client-fingerprint: 'chrome'
@@ -190,7 +190,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇸🇬 Singapore · 8AKP'
@@ -201,7 +201,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -215,7 +215,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇵🇱 Poland · 0KKZ'
@@ -226,7 +226,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'qq'
 
   - name: '🇫🇮 Finland · C66F'
@@ -237,7 +237,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇩🇪 Germany · 13FD'
@@ -249,7 +249,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -263,7 +263,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'qq'
 
   - name: '🇺🇸 United States · EVKM'
@@ -274,7 +274,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: '🇺🇸 United States · EYWE'
     type: vless
@@ -284,7 +284,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: '🇯🇵 Japan · 8AHC'
     type: vless
@@ -295,7 +295,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇫🇮 Finland · JKK0'
@@ -306,7 +306,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'qq'
 
   - name: '🇩🇪 Germany · VDW9'
@@ -318,7 +318,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇯🇵 Japan · N1PV'
@@ -330,7 +330,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇯🇵 Japan · A8TY'
@@ -341,7 +341,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
     packet-encoding: 'xudp'
 
@@ -353,7 +353,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'qq'
 
   - name: '🇳🇱 Netherlands · A8FK'
@@ -365,7 +365,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇬🇧 United Kingdom · 32NY'
@@ -376,7 +376,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -390,7 +390,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇯🇵 Japan · 5T6K'
@@ -402,7 +402,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇩🇪 Germany · 463Z'
@@ -414,7 +414,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇨🇦 Canada · P0GG'
@@ -425,7 +425,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: '🇵🇱 Poland · 1FQD'
     type: vless
@@ -436,7 +436,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇫🇮 Finland · GYRA'
@@ -448,7 +448,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
     client-fingerprint: 'safari'
@@ -462,7 +462,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇸🇬 Singapore · 2W3Q'
@@ -473,7 +473,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     alpn:
       - 'h2'
       - 'http/1.1'
@@ -487,7 +487,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'chrome'
 
   - name: '🇯🇵 Japan · CPQM'
@@ -499,7 +499,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'firefox'
 
   - name: '🇪🇪 Estonia · NGY1'
@@ -511,7 +511,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
     client-fingerprint: 'safari'
 
 
