@@ -8,14 +8,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'JapPViaO5Vi7qH7ox4TPi0WOyCjYZCNDDQCyc7RLBQw'
       short-id: '238341'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 124CB7'
@@ -27,14 +27,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'VkjNuOP5jrX1d7bhWoYZK6k-7OQTXkdiOyCHzQuiJXA'
       short-id: 'b1d311d6'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | C5F4CA'
@@ -46,69 +46,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'u3EnhSlPtnsjoA4OQwRa8Pk5mQCnBXHYWSP1bfdjYm8'
       short-id: 'a17c76d6a2f35aaf'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
-
-  - name: 'US 🇺🇸 | @Raydikalx | 455FB6'
-    type: vless
-    server: '2a03:90c0:32:1::541'
-    port: 443
-    uuid: '0b24ca31-6649-473d-8a87-1b067ad54c80'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 94F69B'
-    type: vless
-    server: '87.120.106.95'
-    port: 443
-    uuid: '0b24ca31-6649-473d-8a87-1b067ad54c80'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'TR 🇹🇷 | @Raydikalx | BD50B3'
-    type: vless
-    server: 'homestead-walloping.sports-streams.org'
-    port: 443
-    uuid: '0b24ca31-6649-473d-8a87-1b067ad54c80'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
 
   - name: 'MD 🇲🇩 | @Raydikalx | E1C59E'
     type: vless
@@ -119,14 +65,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo'
       short-id: '5b524cdb28b6824a'
     xhttp-opts:
       path: '/assets/1117b6ce'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 5837BA'
@@ -138,35 +84,59 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '2760Jz3dYgybn1MDTT2dsr5WAKPPTPnTnmsjWjJbFzU'
       short-id: '21'
     xhttp-opts:
       path: '/@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'FR 🇫🇷 | @Raydikalx | BC32DB'
+  - name: 'US 🇺🇸 | @Raydikalx | 3C5840'
     type: vless
-    server: '143.246.211.240'
-    port: 443
-    uuid: '11512726-b692-406f-ab49-7b28f44a8294'
+    server: '62.144.51.236'
+    port: 4680
+    uuid: '0feb32f5-f217-4b15-9f91-471026645efc'
+    encryption: 'mlkem768x25519plus.native.0rtt.4a_Jxqlbd5fyAvoUrwVy3sYbIiKe38d5MXfecwBc1EE'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: '_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg'
+      public-key: 'MLHfoPXVTlNVdyNlWs_m7WwCMwEFGsJfiKYXKp4Ex1E'
+      short-id: '6124c31616e6e29f'
     xhttp-opts:
-      path: '/ae1b809ceb77'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 00E264'
+  - name: 'TR 🇹🇷 | @Raydikalx | D3D300'
+    type: vless
+    server: 'homestead-walloping.sports-streams.org'
+    port: 443
+    uuid: '104b1415-6c4f-4bc0-9500-f813770c19ed'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'FR 🇫🇷 | @Raydikalx | A87244'
     type: vless
     server: '143.246.211.240'
     port: 443
@@ -175,14 +145,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
       public-key: '_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg'
       short-id: '3242cfd7'
     xhttp-opts:
       path: '/ae1b809ceb77'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'RO 🇷🇴 | @Raydikalx | F05907'
     type: vless
@@ -193,14 +164,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg'
       short-id: '3242cfd7'
     xhttp-opts:
       path: '/ae1b809ceb77'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'RO 🇷🇴 | @Raydikalx | 22468B'
@@ -212,13 +183,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg'
     xhttp-opts:
       path: '/ae1b809ceb77'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | D40266'
@@ -230,14 +201,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY'
       short-id: '733857f978b623eb'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | C51DF7'
@@ -250,34 +221,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'YT6QgpI1i_Nbq6XqKlLAEUOd7VzDxhqqeFaMSg2WrCE'
       short-id: 'c680d5582cb52b70'
     xhttp-opts:
       path: '/Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'PA 🇵🇦 | @Raydikalx | 9D2898'
+  - name: 'IR 🇮🇷 | @Raydikalx | DF18A3'
     type: vless
-    server: '185.210.155.38'
-    port: 443
-    uuid: '17f3c566-b6c3-42f4-a098-b2f5374339a8'
+    server: 'b4.fllow.ir'
+    port: 8443
+    uuid: '1af55733-51d9-49bc-a267-200fe3404d1d'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
-      public-key: 'gF44pErBRsCwFGY398I654T5EBhcB6sryObLgcqxTSI'
-      short-id: '41b779'
+      public-key: 'WggtMc0tVSlY0zL2hoAfbUQlk7HiUE30zNYx-nlGLz0'
+      short-id: '8eba1d6f1f8e'
     xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: packet-up
+      path: '/assets'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 971E01'
     type: vless
@@ -288,14 +258,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'eRMo4lY1fy9WbBCnAi7DUSIexoMwuWHtHMJ46maYQB0'
       short-id: '284f933fef3a62b6'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FR 🇫🇷 | @Raydikalx | 9E60DD'
@@ -307,52 +277,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg'
       short-id: '21569dd6'
     xhttp-opts:
       path: '/6eg3r4an'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'AU 🇦🇺 | @Raydikalx | 839B1E'
-    type: vless
-    server: '1.1.1.1'
-    port: 443
-    uuid: '25c22f91-c391-49b7-ac8f-c948bfd0e3de'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'QZE2pxLFdPCfeowBZXM02Z6A8Rx3b4r9mkmuOMWBFC8'
-      short-id: 'b7e56c01a9d4f230'
-    xhttp-opts:
-      path: '/a7k9p2-aparat-xhttp?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'IR 🇮🇷 | @Raydikalx | DCAE1B'
-    type: vless
-    server: 'gbddd47e41.zephyrx.ir'
-    port: 2432
-    uuid: '25c22f91-c391-49b7-ac8f-c948bfd0e3de'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'QZE2pxLFdPCfeowBZXM02Z6A8Rx3b4r9mkmuOMWBFC8'
-      short-id: 'b7e56c01a9d4f230'
-    xhttp-opts:
-      path: '/a7k9p2-aparat-xhttp?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'Global 🌐 | @Raydikalx | 847B7D'
     type: vless
@@ -364,33 +296,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 's2vQU57_HBo5KZ2oQdjYTrYb4Y4Mm6sq_cV8psFX7UU'
       short-id: '070d902aa9c5b4ed'
     xhttp-opts:
       path: '/AX-Core'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 1FCD45'
-    type: vless
-    server: '62.210.24.143'
-    port: 32202
-    uuid: '28148be2-61a7-4f36-8adb-030cc9f82bd0'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc'
-      short-id: 'f57d8f26'
-    xhttp-opts:
-      path: '/G3EEoH63'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | ED45F0'
@@ -402,13 +315,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 33B863'
@@ -421,15 +334,34 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '3mA0RBw4RFVbXJN3RbtA4U0TsaD4EtVELLyQ9K8xww8'
       short-id: '135ce189ff681b18'
     xhttp-opts:
       path: '/ZIRO'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
+
+  - name: 'GE 🇬🇪 | @Raydikalx | AAFDB5'
+    type: vless
+    server: 'finland.claudpath.com'
+    port: 8443
+    uuid: '2fa93299-1c59-55ec-a351-906459c7e6c5'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'wKtWduFeuLfED3gUZo3KE4_EKlBTK7sNk3DXgRF7HSk'
+      short-id: '172066e9'
+    xhttp-opts:
+      path: '/xhttp'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: stream-one
 
   - name: 'US 🇺🇸 | @Raydikalx | 1BD477'
     type: vless
@@ -440,14 +372,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'lizk11r0PqfhxIgx86cgJd1EAkbyxg8qnIKyKCSFkmc'
       short-id: '01a55bdd118a63b9'
     xhttp-opts:
       path: '/dacc7d5d1e6b4ff4'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | 0564E7'
@@ -459,13 +391,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'vJgQ5ZSblvzGdJ1s693hIEIUGTgMJaci4_2UGR7BFVA'
       short-id: '789df6fbcf3518ea'
     xhttp-opts:
       path: '/api/v1/sync'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
 
   - name: 'IR 🇮🇷 | @Raydikalx | 99A795'
@@ -477,14 +409,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'LeoX--ZpuXko-hvIYwsWm-fKHAkxpw4qe_jKJjQbB18'
       short-id: 'dbdfe84828a608'
     xhttp-opts:
       path: '/NXRFqdfT74wvTrhjneowm8H2oeGhcq?ed=2560'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-up
 
   - name: 'RU 🇷🇺 | @Raydikalx | DF55CD'
@@ -496,14 +428,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'E7xvI-Hqg972UGi-qSdLQ3NF2pziV9QavShQrU7n-gk'
       short-id: '65cab6c618591aac'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
 
   - name: 'GB 🇬🇧 | @Raydikalx | CF97E5'
@@ -515,87 +447,145 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '0hI8gffvrad6AN41MZnEhEp5al31P_BZLnJe38P71R8'
       short-id: '3874010ae4612548'
     xhttp-opts:
       path: '/assets/js/app.15026f72.js'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 0B6CED'
+  - name: 'IR 🇮🇷 | @Raydikalx | 3FFC29'
     type: vless
-    server: '185.255.115.58'
-    port: 443
-    uuid: '41fb5fc3-f2b8-4c85-9b3a-775e3d5e5f71'
+    server: '109.95.66.119'
+    port: 5566
+    uuid: '41bcd5ea-f90c-4227-ab6f-23de50b0a226'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
     reality-opts:
-      public-key: 'VG9nlMxy3BOyIg0Ow1GH5gv5-rpsRN7P0J7F42OSyxQ'
-      short-id: 'fac50f498460d2df'
+      public-key: 'h0x6NgjJ74LUvMlu3Iz7QsFYNjTG9LzZ3sdNalmJrwY'
+      short-id: 'ef7377a43eb6a6d4'
     xhttp-opts:
-      path: '/3d2576c5bb04'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'EE 🇪🇪 | @Raydikalx | 223370'
+  - name: 'IR 🇮🇷 | @Raydikalx | 04AA0A'
     type: vless
-    server: '132.243.67.190'
+    server: '81.12.34.74'
+    port: 5565
+    uuid: '41bcd5ea-f90c-4227-ab6f-23de50b0a226'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    reality-opts:
+      public-key: 'MYqLevTK85yKyNkMGnghN3oFxOiRv8NGu8Jy6q9VICc'
+      short-id: '2436862e3af52511'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | AD9CEA'
+    type: vless
+    server: 'test.electrowizard.ir'
+    port: 5566
+    uuid: '41bcd5ea-f90c-4227-ab6f-23de50b0a226'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'h0x6NgjJ74LUvMlu3Iz7QsFYNjTG9LzZ3sdNalmJrwY'
+      short-id: 'ef7377a43eb6a6d4'
+    xhttp-opts:
+      path: '/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | B183C1'
+    type: vless
+    server: 'test02.electrowizard.ir'
+    port: 5565
+    uuid: '41bcd5ea-f90c-4227-ab6f-23de50b0a226'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'MYqLevTK85yKyNkMGnghN3oFxOiRv8NGu8Jy6q9VICc'
+      short-id: '2436862e3af52511'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 0F1858'
+    type: vless
+    server: 'test03.electrowizard.ir'
+    port: 5556
+    uuid: '41bcd5ea-f90c-4227-ab6f-23de50b0a226'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'JgGE6qaoYh6lQY-pZa7OD9HS3xHCTgfnnwJYpiiRHks'
+      short-id: 'a1788b9d2bef8630'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'NG 🇳🇬 | @Raydikalx | 2B412E'
+    type: vless
+    server: '196.196.149.81'
     port: 443
     uuid: '4201786b-d99b-4147-a5f0-20d47acddb81'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA'
       short-id: 'd5501b156391e01d'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'GB 🇬🇧 | @Raydikalx | FABC14'
+  - name: 'DE 🇩🇪 | @Raydikalx | 747E94'
     type: vless
-    server: '195.206.235.44'
-    port: 443
-    uuid: '4201786b-d99b-4147-a5f0-20d47acddb81'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA'
-      short-id: 'd5501b156391e01d'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 5A581E'
-    type: vless
-    server: 'media.fernstatic.com'
-    port: 2100
+    server: 'assets.fernstatic.com'
+    port: 8446
     uuid: '43add026-128a-47d3-a403-b3875b4638db'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
-      public-key: 'Tij8e75rOzDtbTSciMvmEqE26h78VEIt7B_NK4QumCk'
-      short-id: '10806885b6614f73'
+      public-key: '1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q'
+      short-id: 'bcefc042d39188e0'
     xhttp-opts:
       path: '/somonxh'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 77A309'
@@ -607,7 +597,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     alpn:
       - 'v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus'
     client-fingerprint: 'chrome'
@@ -615,7 +605,26 @@ proxies:
       public-key: 'p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 5BBA54'
+    type: vless
+    server: 'rubik.cakecat.cc'
+    port: 443
+    uuid: '4eb9a6e9-bf0e-4808-9df0-71d7b121ee64'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'RAHctmydk9WkPzebS9mCPMLmIYsgapp-JyZpvRSE4X8'
+      short-id: '3b197bfcd43c9535'
+    xhttp-opts:
+      path: '/xh-7f3a9c'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 49A0C6'
     type: vless
@@ -626,14 +635,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 't4k236yDGdnUbfJSBl3KR7JzyLReVVRWEiVHMaE72XI'
       short-id: '9b2e8eb7fea9860b'
     xhttp-opts:
       path: '/connect'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'TR 🇹🇷 | @Raydikalx | FC987D'
@@ -646,14 +655,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'ts76kMHodroAUFU4rwPnSAA4s-w7W8rNSmP2FMaI9xQ'
       short-id: '2f0611891b8613cc'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | 5F2DE6'
+    type: vless
+    server: 'slot5.ipoxxo.online'
+    port: 2083
+    uuid: '52a16edf-7a7b-402e-9a48-aa22c3014784'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'MtTn1O-PyWg96wyML5eATQsjSPIUle_jH-3mReeVCXg'
+      short-id: 'a096bdf644bc30e0'
+    xhttp-opts:
+      path: '/21c5aaa520154fc1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | E8A566'
@@ -665,13 +692,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | ACFA4D'
@@ -683,17 +710,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'b4IjSqjLCM2MZyRiqv-VBsRB1D7CrRaQCDXaUIfp6mA'
       short-id: '646903b46c069439'
     xhttp-opts:
       path: '/v2/notes/b237806342be'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'DE 🇩🇪 | @Raydikalx | A145FA'
+  - name: 'DE 🇩🇪 | @Raydikalx | 66086E'
     type: vless
     server: '87.120.92.186'
     port: 2087
@@ -702,14 +729,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 53C9F2'
@@ -721,14 +748,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '31_G-lTr8GVS33I-ySfmMOXJ7SzpS48Ela7xXeT9D1Y'
       short-id: '29f834cf893710f9'
     xhttp-opts:
       path: '/v2/notes/86cf7ba6ede1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | CB8414'
@@ -740,14 +767,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 9454C8'
@@ -759,14 +786,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'edge'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 2301A0'
@@ -778,14 +805,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 9FA7F7'
@@ -797,32 +824,52 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY'
       short-id: '3258252d44113e23'
     xhttp-opts:
       path: '/v2/sync/6e9367'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'TR 🇹🇷 | @Raydikalx | 27EE88'
+  - name: 'IR 🇮🇷 | @Raydikalx | 057D4E'
     type: vless
-    server: 'homestead-walloping.sports-streams.org'
-    port: 443
-    uuid: '565cbb3f-918b-4a03-a77f-7da18b94259a'
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: '574ebcd3-7c2d-4432-853f-344d658e630e'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
     xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 77FA51'
+    type: vless
+    server: 'tk.shopgardy.ir'
+    port: 12353
+    uuid: '574ebcd3-7c2d-4432-853f-344d658e630e'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
+      short-id: '129faa21c67fd282'
+    xhttp-opts:
+      path: '/07df73b6c1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | FBA544'
@@ -834,123 +881,129 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'MiyOBOmkjV9uSx-oM1Aoq9JgIXKjAgvXceTNgSeBvRk'
       short-id: 'd8c870848236fa69'
     xhttp-opts:
       path: '/api/v3/updates'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'EE 🇪🇪 | @Raydikalx | 4F19AC'
+  - name: 'RU 🇷🇺 | @Raydikalx | 9973BA'
     type: vless
-    server: '132.243.67.210'
-    port: 25035
-    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
+    server: '78.37.84.51'
+    port: 443
+    uuid: '58c9a6b4-985b-452f-82fd-8b32e2ff3086'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
-      public-key: 'm7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU'
-      short-id: 'eb63581de991f8c8'
+      public-key: 'iZdCvqv9nxrFtoP6UWUMp1ESPihtyDC9pUXlWiB-CFA'
+      short-id: 'ac685338abf23882'
     xhttp-opts:
-      path: '/astral-edge-h1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/api/v1/sync'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
-  - name: 'TR 🇹🇷 | @Raydikalx | CCD902'
+  - name: 'RO 🇷🇴 | @Raydikalx | A94339'
     type: vless
-    server: '153.56.230.77'
-    port: 25155
+    server: '13.141.36.32'
+    port: 25191
     uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
-    reality-opts:
-      public-key: 'I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM'
-      short-id: '0ebb438948cdf356'
-    xhttp-opts:
-      path: 'astral-edge-h1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'PL 🇵🇱 | @Raydikalx | 20F8DC'
-    type: vless
-    server: '201.10.91.216'
-    port: 25035
-    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'm7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU'
-      short-id: 'eb63581de991f8c8'
+      public-key: '_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA'
+      short-id: '55328e423218ee9b'
     xhttp-opts:
       path: '/astral-edge-h1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | F2A93F'
-    type: vless
-    server: '31.76.31.75'
-    port: 4443
-    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'NORtYfSTVbYq7r3qD1p8f7GWN8lCapPxqQTzGE7-3WQ'
-      short-id: '69e9f04fdfe55673'
-    xhttp-opts:
-      path: '/astral-edge-fi'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'CH 🇨🇭 | @Raydikalx | 258074'
-    type: vless
-    server: '94.26.35.240'
-    port: 25035
-    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'm7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU'
-      short-id: 'eb63581de991f8c8'
-    xhttp-opts:
-      path: '/astral-edge-h1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'RO 🇷🇴 | @Raydikalx | 21019E'
-    type: vless
-    server: 'us12.h1cloud.net'
-    port: 25155
-    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    reality-opts:
-      public-key: 'I4mzdgz1mvaVDtkDD9AzK1ZJkEaQu_GYEbGIfm_a5UM'
-      short-id: '0ebb438948cdf356'
-    xhttp-opts:
-      path: '/astral-edge-h1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
+
+  - name: 'FI 🇫🇮 | @Raydikalx | 3D56B8'
+    type: vless
+    server: '132.243.163.114'
+    port: 25191
+    uuid: '62995b2a-8f82-41f8-ac80-dfdfc1253e76'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: '_Cb2FzFDVi9blwCb_5V0NZue6wt-U6GL0N_-OX8NGGA'
+      short-id: '55328e423218ee9b'
+    xhttp-opts:
+      path: '/astral-edge-h1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | F57AB3'
+    type: vless
+    server: 'alb.aghanami.ir'
+    port: 3233
+    uuid: '62e7df3d-f8ed-45ee-a341-30d0987464f7'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'B22ZNdN8QSLUavpEkhXQSf_-ai341ItoE21NX3VnEWg'
+      short-id: 'e42903791dd92f09'
+    xhttp-opts:
+      path: '/0271f57126'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | E33EC3'
+    type: vless
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: '62e7df3d-f8ed-45ee-a341-30d0987464f7'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
+    xhttp-opts:
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | B80321'
+    type: vless
+    server: 'tk.shopgardy.ir'
+    port: 12353
+    uuid: '62e7df3d-f8ed-45ee-a341-30d0987464f7'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
+      short-id: '129faa21c67fd282'
+    xhttp-opts:
+      path: '/07df73b6c1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'AT 🇦🇹 | @Raydikalx | 015F2A'
     type: vless
@@ -961,52 +1014,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI'
       short-id: 'ee740b4fd675'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'EE 🇪🇪 | @Raydikalx | 06800F'
-    type: vless
-    server: 'estonia2.banovano.space'
-    port: 17417
-    uuid: '6430ede6-3f43-4beb-95c0-0fb29e9ea76d'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8'
-      short-id: '728f3f459ddf'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'EE 🇪🇪 | @Raydikalx | 86777C'
-    type: vless
-    server: 'estonia2.banovano.space'
-    port: 17417
-    uuid: '6430ede6-3f43-4beb-95c0-0fb29e9ea76d'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8'
-      short-id: '728f3f459ddf'
-    xhttp-opts:
-      path: '/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'SE 🇸🇪 | @Raydikalx | 4CA6B2'
@@ -1020,14 +1035,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'VCVumwlIhEVFWJ5mfqa0dzCe89iUdZei2v3a4GzwfzY'
       short-id: 'fcac23caeed68f'
     xhttp-opts:
       path: '/t.me-SubGift'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'TR 🇹🇷 | @Raydikalx | A15041'
+    type: vless
+    server: '87.120.106.95'
+    port: 443
+    uuid: '6ae5e517-c618-4ff6-9d71-8b717507221a'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
+    xhttp-opts:
+      path: '/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8B94EB'
@@ -1039,167 +1072,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'bPxKgZHO13GJGKjbHz0BVnsw8UIcOjz2yz8VCgGv5BI'
       short-id: '6fce2d08'
     xhttp-opts:
       path: '/js/libs'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
-
-  - name: 'DE 🇩🇪 | @Raydikalx | A0D413'
-    type: vless
-    server: 'Ge.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 061B56'
-    type: vless
-    server: 'Ge2.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'IE 🇮🇪 | @Raydikalx | 6FA27E'
-    type: vless
-    server: 'Ir.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'Global 🌐 | @Raydikalx | FB0BDC'
-    type: vless
-    server: 'Si.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'Y9tcREOE5sJM_ojN86DrtJyXHTVZNKUf11-ckAoMkR0'
-      short-id: '9c39937d5239d096'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'ES 🇪🇸 | @Raydikalx | 1BA999'
-    type: vless
-    server: 'Sp.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'SE 🇸🇪 | @Raydikalx | AED9B5'
-    type: vless
-    server: 'St.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'US 🇺🇸 | @Raydikalx | DEF7C2'
-    type: vless
-    server: 'Su.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
-
-  - name: 'JP 🇯🇵 | @Raydikalx | FAC9F5'
-    type: vless
-    server: 'To.mamad.web.tr'
-    port: 2096
-    uuid: '6e1606a7-6206-46ee-b787-7fbb73ae19c9'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '2W57pOqrVL0Wij5tOIHWndlvsbx8HsTXq-J7lNXnsWg'
-      short-id: '9044e4a3c84dab8c'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: stream-one
 
   - name: 'DE 🇩🇪 | @Raydikalx | 445B33'
     type: vless
@@ -1210,14 +1091,86 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs'
       short-id: '49bcf0de6392f0'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'ES 🇪🇸 | @Raydikalx | 876A0A'
+    type: vless
+    server: '185.200.244.37'
+    port: 443
+    uuid: '7ce93cef-119d-4cba-9d9d-da0056ba979c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls'
+      short-id: '0bf13fb706784403'
+    xhttp-opts:
+      path: '/api/v2/7d94497a'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'DE 🇩🇪 | @Raydikalx | DD54F7'
+    type: vless
+    server: '5.83.142.50'
+    port: 443
+    uuid: '7ce93cef-119d-4cba-9d9d-da0056ba979c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls'
+      short-id: '0bf13fb706784403'
+    xhttp-opts:
+      path: '/api/v2/7d94497a'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'FR 🇫🇷 | @Raydikalx | 4FDEAE'
+    type: vless
+    server: '82.22.2.137'
+    port: 443
+    uuid: '7ce93cef-119d-4cba-9d9d-da0056ba979c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls'
+      short-id: '0bf13fb706784403'
+    xhttp-opts:
+      path: '/api/v2/7d94497a'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'NL 🇳🇱 | @Raydikalx | F54D23'
+    type: vless
+    server: '94.183.206.227'
+    port: 443
+    uuid: '7ce93cef-119d-4cba-9d9d-da0056ba979c'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls'
+      short-id: '0bf13fb706784403'
+    xhttp-opts:
+      path: '/api/v2/7d94497a'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | A1A641'
@@ -1229,14 +1182,52 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'T1RP_ANRamv02FqFD4ZNjBeA4vbHkZr_-YIJziiUMkw'
       short-id: '038a426e122933e9'
     xhttp-opts:
       path: '/path'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | E57208'
+    type: vless
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: '81742d03-c74b-4f1e-b256-7599f4db4235'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
+    xhttp-opts:
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 74C688'
+    type: vless
+    server: 'tk.shopgardy.ir'
+    port: 12353
+    uuid: '81742d03-c74b-4f1e-b256-7599f4db4235'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
+      short-id: '129faa21c67fd282'
+    xhttp-opts:
+      path: '/07df73b6c1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'TR 🇹🇷 | @Raydikalx | D8E5EE'
@@ -1248,13 +1239,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 8B01E8'
+    type: vless
+    server: '195.226.93.224'
+    port: 443
+    uuid: '86420b69-84f9-4726-ab17-fb0a7bc05d8f'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA'
+      short-id: '00a9d4acc75cf31c'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | A93219'
@@ -1266,17 +1276,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'firefox'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA'
       short-id: '00a9d4acc75cf31c'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'HK 🇭🇰 | @Raydikalx | F6B63B'
+  - name: 'HK 🇭🇰 | @Raydikalx | 6F238B'
     type: vless
     server: '31.58.191.93'
     port: 443
@@ -1285,13 +1295,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: '0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo'
       short-id: '3b1a6acf74e481e7'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'CH 🇨🇭 | @Raydikalx | 9043BE'
@@ -1303,14 +1313,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'KcFNW-Yq9YucHEGiEe2ZEnIbxEuCmyO3S6yTglZR7ws'
       short-id: '7ea8737c31629437'
     xhttp-opts:
       path: '/vless-xhttp'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 4605D2'
@@ -1322,14 +1332,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk'
       short-id: '29b21343ab4d'
     xhttp-opts:
       path: '/?@leviconfigs?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 98C094'
@@ -1341,17 +1351,17 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA'
       short-id: '5ba803414e918143'
     xhttp-opts:
       path: '/b4920d9c064cfe38c0021723'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'TR 🇹🇷 | @Raydikalx | 14425E'
+  - name: 'DE 🇩🇪 | @Raydikalx | 14425E'
     type: vless
     server: 't1.valfena.ir'
     port: 8080
@@ -1360,14 +1370,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA'
       short-id: '5ba803414e918143'
     xhttp-opts:
       path: '/b4920d9c064cfe38c0021723'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 98457D'
@@ -1379,56 +1389,35 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'qq'
     reality-opts:
       public-key: 'sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'Global 🌐 | @Raydikalx | 5E4061'
+  - name: 'NL 🇳🇱 | @Raydikalx | B3408D'
     type: vless
-    server: 'fan1.fastlte.sbs'
+    server: 'ne2.zovpn.pro'
     port: 443
-    uuid: '927cf032-4a7b-4a6d-a88c-fdf20a987fb8'
-    flow: 'xtls-rprx-vision'
-    encryption: 'mlkem768x25519plus.native.0rtt.rUCR8kKcfYMXu4PouTEm0IfJ6ySDKdQzYeOJU2OhGyY'
+    uuid: '8fe5187b-f767-47ea-889e-946268b993f1'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'Vx6uWFzdYCazUbrJ0cUGTWOa2bo5j3eTUOi1WSPoxnQ'
-      short-id: 'ca86bfb91707c08f'
+      public-key: 'ucleuGPWvBGG_8cIjDdymbz6IBpFb052qfITM9EXA3k'
+      short-id: '4be3b5e3'
     xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/germany-xhttp'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'IR 🇮🇷 | @Raydikalx | E3E696'
-    type: vless
-    server: 'Afra2.moneyjnb.shop'
-    port: 31113
-    uuid: '94daa499-5f0f-43d4-84bc-a09303e2a384'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: '-b9bmYLYtJ92GDGigkTWFUtbOVXEyez7ASyaXrSQ_Ug'
-      short-id: 'bfdf0e8e127167a7'
-    xhttp-opts:
-      path: '/?Telegram---@VPsave---@VPsave---@VPsave---@VPsave'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'SE 🇸🇪 | @Raydikalx | 10C066'
+  - name: 'SE 🇸🇪 | @Raydikalx | 5192C9'
     type: vless
     server: '31.77.144.255'
     port: 8444
@@ -1437,13 +1426,49 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ'
       short-id: '635a76c25a4b1820'
     xhttp-opts:
       path: '/xh'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: stream-one
+
+  - name: 'Global 🌐 | @Raydikalx | 386F36'
+    type: vless
+    server: 'leviko-se5306.shopingggg.ir'
+    port: 8444
+    uuid: '95580a09-cce7-4b62-af74-a514083ba9e4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ'
+      short-id: '635a76c25a4b1820'
+    xhttp-opts:
+      path: '/xh'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: stream-one
+
+  - name: 'SE 🇸🇪 | @Raydikalx | BA2884'
+    type: vless
+    server: 'leviko-se8320.shopingggg.ir'
+    port: 8444
+    uuid: '95580a09-cce7-4b62-af74-a514083ba9e4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ'
+      short-id: '635a76c25a4b1820'
+    xhttp-opts:
+      path: '/xh'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
 
   - name: 'NL 🇳🇱 | @Raydikalx | E35E9B'
@@ -1455,14 +1480,52 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'EoEAz1uDO0SptP_zf4KBh7HyfgbTwBpOidZiNgyQF1M'
       short-id: '05f37a191ec7a2ad'
     xhttp-opts:
       path: '/app-backend-reg'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 71D108'
+    type: vless
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: '9a870d62-1f02-478f-95a7-d854c1d58d82'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
+    xhttp-opts:
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 73FC90'
+    type: vless
+    server: 'tk.shopgardy.ir'
+    port: 12353
+    uuid: '9a870d62-1f02-478f-95a7-d854c1d58d82'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
+      short-id: '129faa21c67fd282'
+    xhttp-opts:
+      path: '/07df73b6c1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | E7120F'
     type: vless
@@ -1473,13 +1536,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | DF0112'
@@ -1491,14 +1554,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '0z13Oz2r2Khq0jHUgbPWxseVLoQTlFMuMDwL9a-X7yY'
       short-id: '37962ada43f6'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FR 🇫🇷 | @Raydikalx | 63D8B5'
@@ -1511,14 +1574,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
       public-key: 'tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg'
       short-id: '21569dd6'
     xhttp-opts:
       path: '/OCrp5Ajs'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'PL 🇵🇱 | @Raydikalx | 4127FF'
     type: vless
@@ -1529,13 +1592,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 75F259'
+    type: vless
+    server: '2.26.252.27'
+    port: 443
+    uuid: 'a38e3651-a36c-445d-87e1-336a7855edb4'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'TwjCmZPEnOHZW5QYa2LhobAO8E2LveyrMdX1ZEha9Bo'
+      short-id: '78270c5caade48d7'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'TR 🇹🇷 | @Raydikalx | 92B545'
@@ -1547,13 +1629,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | A7A954'
@@ -1565,13 +1647,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'TR 🇹🇷 | @Raydikalx | 83810B'
@@ -1583,16 +1665,16 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'KZ 🇰🇿 | @Raydikalx | F7BBD5'
+  - name: 'KZ 🇰🇿 | @Raydikalx | 718BE5'
     type: vless
     server: '38.180.206.44'
     port: 48982
@@ -1601,13 +1683,12 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | FCE2A6'
     type: vless
@@ -1618,33 +1699,90 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'NYZeZKuCbWGJGifmzP4jBqAueCm4iQCifv9gOEBEgnI'
       short-id: 'b7ff5b90d8'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'CY 🇨🇾 | @Raydikalx | 05DC0E'
+  - name: 'IR 🇮🇷 | @Raydikalx | AEB35E'
     type: vless
-    server: '45.88.177.79'
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: 'aa24b2da-cb52-44f2-b91d-51933bbaa0de'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
+    xhttp-opts:
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'FR 🇫🇷 | @Raydikalx | E536F0'
+    type: vless
+    server: '136.148.83.132'
     port: 8443
     uuid: 'ab53f3b6-7962-4bc1-90f6-8420767b22a8'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k'
       short-id: '6bd33a75ebc0f26e'
     xhttp-opts:
       path: '/xhttp'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'FR 🇫🇷 | @Raydikalx | B0F65C'
+    type: vless
+    server: '136.148.85.91'
+    port: 8443
+    uuid: 'ab53f3b6-7962-4bc1-90f6-8420767b22a8'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k'
+      short-id: '6bd33a75ebc0f26e'
+    xhttp-opts:
+      path: '/xhttp'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'RU 🇷🇺 | @Raydikalx | 06D9E4'
+    type: vless
+    server: '193.233.223.231'
+    port: 8443
+    uuid: 'ab53f3b6-7962-4bc1-90f6-8420767b22a8'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'KZejN2d1cwCrITHNxFYQVZ4rpMTZzHgJd9p30MZm_3k'
+      short-id: '6bd33a75ebc0f26e'
+    xhttp-opts:
+      path: '/xhttp'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 003ABF'
     type: vless
@@ -1655,14 +1793,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'v0zCcVNBJdKw6JHV_96aelftRZiYu__rEvGLUR67Lwg'
       short-id: 'a92e'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | CD95C1'
@@ -1674,14 +1812,50 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'lfOSEE80tv3mvi9fSBcj-oLKDJm2lmdj1PIMLvKwxRc'
       short-id: '69'
     xhttp-opts:
       path: '/?@leviconfigs_leviconfigs?ed=2560'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 063CF6'
+    type: vless
+    server: '195.226.93.224'
+    port: 443
+    uuid: 'ad295072-0049-4981-a9aa-6314c43e87e5'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'xRIN4AZSp2c_yaCurN9DNoh0q8zSj-AlMCflpb1pwBA'
+      short-id: '00a9d4acc75cf31c'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'HK 🇭🇰 | @Raydikalx | 0BCA3A'
+    type: vless
+    server: '31.58.191.93'
+    port: 443
+    uuid: 'ad295072-0049-4981-a9aa-6314c43e87e5'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo'
+      short-id: '3b1a6acf74e481e7'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | F86979'
@@ -1693,13 +1867,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FR 🇫🇷 | @Raydikalx | D2DEE9'
@@ -1711,33 +1885,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'ytF84T7vLvNCMqVgtEeOCyVtrUiYevvrfHdD14rjpmE'
       short-id: '68551e'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'DE 🇩🇪 | @Raydikalx | EFD63A'
-    type: vless
-    server: '91.99.154.53'
-    port: 80
-    uuid: 'b199c99a-2f30-4efa-b448-04ddfcc6175b'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w'
-      short-id: 'fbe3b0'
-    xhttp-opts:
-      path: '/@custom_config'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FR 🇫🇷 | @Raydikalx | 9D4E61'
@@ -1749,13 +1904,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | E07CDD'
@@ -1767,13 +1922,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | E226A7'
+    type: vless
+    server: 'trtn.fusetea.ir'
+    port: 4545
+    uuid: 'b3bcbfe9-9f06-4cb6-b43c-80df159f8d68'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'NzBAI3nli7Fb9FwociYTkMlpSF9uWaB2IbtI5glHMDM'
+      short-id: '1d1307693a8f18f9'
+    xhttp-opts:
+      path: '/'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | BA275A'
@@ -1785,14 +1959,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8'
       short-id: '62b6d6e64d461d78'
     xhttp-opts:
       path: '/?@leviconfigs_leviconfigs?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'UA 🇺🇦 | @Raydikalx | FCB590'
@@ -1804,14 +1978,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
       public-key: 'BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8'
       short-id: '812609fa663c57fb'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'UA 🇺🇦 | @Raydikalx | 2840A7'
     type: vless
@@ -1822,14 +1996,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8'
       short-id: '812609fa663c57fb'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'IR 🇮🇷 | @Raydikalx | FACCF4'
+    type: vless
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: 'b63eec57-7d7f-4a18-9b34-e63125fd7438'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
+    xhttp-opts:
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'IT 🇮🇹 | @Raydikalx | F72E57'
     type: vless
@@ -1840,14 +2033,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8'
       short-id: '5f9a'
     xhttp-opts:
       path: '/api/v1/stream'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
 
   - name: 'IT 🇮🇹 | @Raydikalx | 30EEAD'
@@ -1859,34 +2052,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8'
       short-id: '5f9a'
     xhttp-opts:
       path: '/api/v1/stream/?@leviconfigs_leviconfigs?ed=2048'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 5A657C'
-    type: vless
-    server: 'panel.jorvexo.ir'
-    port: 1152
-    uuid: 'bb16f226-09a8-43ee-a412-0dbaa72dc999'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE'
-      short-id: 'ead6bdba606219a2'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
 
   - name: 'FR 🇫🇷 | @Raydikalx | DDC2DA'
     type: vless
@@ -1897,13 +2071,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 90CE3F'
@@ -1915,14 +2089,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'PKzmCLsjYi2KGjojE0QLaT0r_PWoDd2VVHEobRtf62Q'
       short-id: '1c9b760681e407d8'
     xhttp-opts:
       path: '/img/cache/v8/Fr4kNt/seg'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
 
   - name: 'DE 🇩🇪 | @Raydikalx | 1F6BE9'
@@ -1934,14 +2108,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'PKzmCLsjYi2KGjojE0QLaT0r_PWoDd2VVHEobRtf62Q'
       short-id: '1c9b760681e407d8'
     xhttp-opts:
       path: '/img/cache/v8/Fr4kNt/seg?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
 
   - name: 'DE 🇩🇪 | @Raydikalx | D4EACF'
@@ -1953,34 +2127,15 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'PKzmCLsjYi2KGjojE0QLaT0r_PWoDd2VVHEobRtf62Q'
       short-id: '1c9b760681e407d8'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: stream-one
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 57A29E'
-    type: vless
-    server: '95.182.122.83'
-    port: 12443
-    uuid: 'c81b3391-7992-4db2-a705-d8ee1a2ac727'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10'
-      short-id: 'f28145401b4f633a'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | B7E0F9'
     type: vless
@@ -1991,14 +2146,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'yeEgcP0ehhicUQZdFGJBhLuU3wsEMSRyg8l2voakZBs'
       short-id: '2f567c6d'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'RO 🇷🇴 | @Raydikalx | 8F7771'
+    type: vless
+    server: '13.141.36.141'
+    port: 443
+    uuid: 'cae99415-10a6-4317-81bd-19a4586b5d76'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'KEbWnNTqeFDxwCQqyvVvyEhnK7QUIrwhq9-9geUEOmY'
+      short-id: '90190d82f1581926'
+    xhttp-opts:
+      path: '/8c1d3cd048db'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | A47351'
@@ -2010,50 +2183,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs'
       short-id: '6b2f4e6ac9b1d2f0'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 30B2C0'
-    type: vless
-    server: '13.143.232.161'
-    port: 443
-    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    reality-opts:
-      public-key: 'jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0'
-      short-id: 'f72d4a2c7cbbacb1'
-    xhttp-opts:
-      path: '/d610f026b146'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'EE 🇪🇪 | @Raydikalx | 50AB67'
-    type: vless
-    server: '132.243.67.224'
-    port: 443
-    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    reality-opts:
-      public-key: 'dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw'
-      short-id: '7b2b1a14a6e0630d'
-    xhttp-opts:
-      path: '/0616f2d729aa'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'EE 🇪🇪 | @Raydikalx | 745B0F'
@@ -2065,51 +2202,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0'
       short-id: 'f72d4a2c7cbbacb1'
     xhttp-opts:
       path: '/d610f026b146'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 48BAFE'
-    type: vless
-    server: '164.37.224.246'
-    port: 443
-    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    reality-opts:
-      public-key: 'dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw'
-      short-id: '7b2b1a14a6e0630d'
-    xhttp-opts:
-      path: '/0616f2d729aa'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 1E9094'
-    type: vless
-    server: '164.37.224.51'
-    port: 443
-    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q'
-      short-id: '2d2598d60447a967'
-    xhttp-opts:
-      path: '/d20896a4ce30'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 3AF119'
     type: vless
@@ -2120,52 +2220,53 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q'
       short-id: '2d2598d60447a967'
     xhttp-opts:
       path: '/d20896a4ce30'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'GB 🇬🇧 | @Raydikalx | 9428E6'
+  - name: 'GB 🇬🇧 | @Raydikalx | C54F54'
     type: vless
-    server: '195.206.235.48'
+    server: '195.206.235.74'
     port: 443
     uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw'
-      short-id: '7b2b1a14a6e0630d'
-    xhttp-opts:
-      path: '/0616f2d729aa'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 39B4A0'
-    type: vless
-    server: '48.103.231.82'
-    port: 443
-    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0'
       short-id: 'f72d4a2c7cbbacb1'
     xhttp-opts:
       path: '/d610f026b146'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
-  - name: 'RO 🇷🇴 | @Raydikalx | D3B7E6'
+  - name: 'SK 🇸🇰 | @Raydikalx | FB656A'
+    type: vless
+    server: '196.245.153.156'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: 'jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0'
+      short-id: 'f72d4a2c7cbbacb1'
+    xhttp-opts:
+      path: '/d610f026b146'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IL 🇮🇱 | @Raydikalx | D3B7E6'
     type: vless
     server: '80cb66x.nl13.h1clayd.click'
     port: 443
@@ -2174,14 +2275,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'jhVdP7NFUaEXGfrmOqJlMCHTvqn3fymbzPfPT6NO4i0'
       short-id: 'f72d4a2c7cbbacb1'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | A128A2'
     type: vless
@@ -2192,13 +2293,33 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw'
       short-id: '7b2b1a14a6e0630d'
     xhttp-opts:
       path: '/0616f2d729aa'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'GB 🇬🇧 | @Raydikalx | FEE366'
+    type: vless
+    server: 'e60833x.nl7.h1clayd.click'
+    port: 443
+    uuid: 'cda0862a-0f87-4be9-8ed8-1d0c9e382839'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    packet-encoding: 'xudp'
+    reality-opts:
+      public-key: 'jIRVNEf9SpuWP2nJrAbHGGIUnfzOmwZZlrNGw-Y-O2Q'
+      short-id: '2d2598d60447a967'
+    xhttp-opts:
+      path: '/d20896a4ce30'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'CH 🇨🇭 | @Raydikalx | 716AD1'
@@ -2210,31 +2331,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: '1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo'
       short-id: '77'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
-
-  - name: 'CH 🇨🇭 | @Raydikalx | 032682'
-    type: vless
-    server: '85.208.69.43'
-    port: 33055
-    uuid: 'ce8faf30-b1d6-4a53-95a0-8520dc609db3'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    reality-opts:
-      public-key: '1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo'
-      short-id: '77'
-    xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 19FE1F'
     type: vless
@@ -2245,14 +2349,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
       public-key: 'J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs'
       short-id: '6b2f4e6ac9b1d2f0'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 117097'
     type: vless
@@ -2263,14 +2367,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'ios'
     reality-opts:
       public-key: 'J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs'
       short-id: '6b2f4e6ac9b1d2f0'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: 'CH 🇨🇭 | @Raydikalx | D5FE15'
     type: vless
@@ -2281,14 +2385,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg'
       short-id: '6f3192'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 01B74B'
@@ -2300,14 +2404,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '112X7iICOgZtFOHXdn59EY7m_gwKultc-zwYPzBv6wU'
       short-id: '4f69072c426d46a6'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'RU 🇷🇺 | @Raydikalx | F11BA4'
@@ -2319,70 +2423,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8'
       short-id: 'd45603'
     xhttp-opts:
       path: '/eCuiEa7kedJ1UIGB3Gbgdt3XeUd'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'PL 🇵🇱 | @Raydikalx | 3A63BF'
-    type: vless
-    server: 'hammer.676767676767.ru'
-    port: 443
-    uuid: 'd8c6c5bc-66ee-45c6-94fd-fa16f486e771'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'RX2VQ6FZarV3PhICXIggqLTJ6GcEOJcZJLfCu8hwuRo'
-    xhttp-opts:
-      path: '/assets/v3/hammer'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 1FEECF'
-    type: vless
-    server: 'alb.aghanami.ir'
-    port: 3233
-    uuid: 'd9c44186-4552-4651-91a9-add91b677237'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'B22ZNdN8QSLUavpEkhXQSf_-ai341ItoE21NX3VnEWg'
-      short-id: 'e42903791dd92f09'
-    xhttp-opts:
-      path: '/0271f57126'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-      mode: auto
-
-  - name: 'IR 🇮🇷 | @Raydikalx | FA51CD'
-    type: vless
-    server: 'nl.aghanami.ir'
-    port: 12347
-    uuid: 'd9c44186-4552-4651-91a9-add91b677237'
-    network: xhttp
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
-    reality-opts:
-      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
-      short-id: '129faa21c67fd282'
-    xhttp-opts:
-      path: '/07df73b6c1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 279627'
@@ -2394,14 +2442,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'r753xovnUQvFw0toamiB3UsmgR33o8SXswOK_HrKrmU'
       short-id: '886cff912766c2d1'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
 
   - name: 'TR 🇹🇷 | @Raydikalx | 077D68'
@@ -2413,13 +2461,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ'
       short-id: '44'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 588B86'
@@ -2431,14 +2479,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'qjKV_OK9_tXqPPN6DGGQP8cjY5XrncnvZ9wuhj6n3yw'
       short-id: '7e40cb5f922609e8'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 2F1470'
@@ -2450,15 +2498,34 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'r753xovnUQvFw0toamiB3UsmgR33o8SXswOK_HrKrmU'
       short-id: '886cff912766c2d1'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: packet-up
+
+  - name: 'NL 🇳🇱 | @Raydikalx | 72A533'
+    type: vless
+    server: 'ne2.zovpn.pro'
+    port: 443
+    uuid: 'e0d0a99b-0c54-4e82-8ed4-5761e6f21b72'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'ucleuGPWvBGG_8cIjDdymbz6IBpFb052qfITM9EXA3k'
+      short-id: '4be3b5e3'
+    xhttp-opts:
+      path: '/germany-xhttp'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | CA5FA1'
     type: vless
@@ -2469,13 +2536,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
     reality-opts:
       public-key: 'sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | 5B1F01'
@@ -2487,51 +2554,70 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE'
       short-id: 'ead6bdba606219a2'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 5740A8'
+  - name: 'DE 🇩🇪 | @Raydikalx | B22D7B'
     type: vless
-    server: '195.201.120.42'
+    server: 'tun.chvps.tr'
     port: 1152
     uuid: 'e18f77f3-e518-4c8c-b230-c79e3708c7f4'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
-    client-fingerprint: 'chrome'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     reality-opts:
       public-key: 'Fmhl6wGywDftzMcxYFyzGrlHvP-XCwujzo_ULibHfHE'
       short-id: 'ead6bdba606219a2'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'FI 🇫🇮 | @Raydikalx | A1297D'
+  - name: 'IR 🇮🇷 | @Raydikalx | 770DFA'
     type: vless
-    server: '178.17.53.154'
-    port: 48982
-    uuid: 'ea1bee20-9217-42c0-acee-d12bf0c42602'
+    server: 'tk.aghanami.ir'
+    port: 38324
+    uuid: 'e5263b1a-0747-4a96-b697-03ac2f194918'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE'
+      public-key: 's_HYqJRrx1Xvi2qT7w0cMgEc0Foi42b6KLyixMkENhw'
+      short-id: '49fdc4bfc8d26e2c'
     xhttp-opts:
-      path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/eef0903725'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'IR 🇮🇷 | @Raydikalx | 2C7CDE'
+    type: vless
+    server: 'tk.shopgardy.ir'
+    port: 12353
+    uuid: 'e5263b1a-0747-4a96-b697-03ac2f194918'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    reality-opts:
+      public-key: 'no5OXXraenpTo6GxibdtA4fOFTMOmt4d6Dn2HPfUiAQ'
+      short-id: '129faa21c67fd282'
+    xhttp-opts:
+      path: '/07df73b6c1'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | EA1D45'
@@ -2543,13 +2629,13 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 44B53C'
@@ -2562,14 +2648,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '3NIri8KMT7DE0dh_I2cXdZMKAVo6MIdvktMHmUHl1nk'
       short-id: '0a'
     xhttp-opts:
       path: '/api-ai-token'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'LV 🇱🇻 | @Raydikalx | 943219'
@@ -2581,14 +2667,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'EmrdveO2Gy-rvuyzUEDtbRO7Kp0Zc5tIwoCHsMIr5Xs'
       short-id: 'c179ed'
     xhttp-opts:
       path: '/'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'FI 🇫🇮 | @Raydikalx | 8E6A60'
@@ -2600,14 +2686,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'bfKXY6FgCgqNsBZ5xSwwuv4lQYzyC-QY5WEnVRag1S4'
       short-id: '0b70a84ff6f9c78a'
     xhttp-opts:
       path: '/1654ac5ec17a'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'NL 🇳🇱 | @Raydikalx | 98502D'
@@ -2619,14 +2705,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'vnRKSjHjzDsAuA1wkOnWOnmi3Kd4-1xx11czg8fySzk'
       short-id: '84675468d317879a'
     xhttp-opts:
       path: '/e78db311aca1'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'DE 🇩🇪 | @Raydikalx | AF059A'
@@ -2638,70 +2724,72 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'T1DzX4CYLd98VHpbbGrVHGnWsXlWVud1AcGM6mqhulc'
       short-id: 'd6afc6488f1d1758'
     xhttp-opts:
       path: '/3c0ffc0e4b37'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'US 🇺🇸 | @Raydikalx | 0D5E55'
+  - name: 'RU 🇷🇺 | @Raydikalx | E4FB71'
     type: vless
-    server: '162.216.231.214'
-    port: 443
-    uuid: 'f579e279-cdff-4175-a92d-350374fc14dc'
+    server: '130.193.35.149'
+    port: 8444
+    uuid: 'ef1da56e-8117-42b4-bcd8-9094ebbdf985'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM'
+      public-key: 'TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ'
+      short-id: 'b8b1d46f23be2a8c'
     xhttp-opts:
-      path: '/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/9e3ee801bb41b934'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'IR 🇮🇷 | @Raydikalx | 8A2066'
+  - name: 'RU 🇷🇺 | @Raydikalx | 2ADEE6'
     type: vless
-    server: 'Afra2.moneyjnb.shop'
-    port: 31110
-    uuid: 'f6a0f6d7-ce86-444d-92c3-c63e1b79d473'
+    server: '5.35.8.37'
+    port: 8444
+    uuid: 'ef1da56e-8117-42b4-bcd8-9094ebbdf985'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: '4UfEOBupY4zpdOo07GTmCN86t1jGADkx5UoSeX0WumQ'
-      short-id: 'fbd1f34263ceea24'
+      public-key: 'TJjBxMqU12PD9TQ9ZVr-m-LdIxYVokVp5SImQ6Z2iEQ'
+      short-id: 'b8b1d46f23be2a8c'
     xhttp-opts:
-      path: '/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/9e3ee801bb41b934'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
-  - name: 'IR 🇮🇷 | @Raydikalx | 110BC5'
+  - name: 'IR 🇮🇷 | @Raydikalx | 9CA014'
     type: vless
-    server: 'Afra2.moneyjnb.shop'
-    port: 31114
-    uuid: 'f6a0f6d7-ce86-444d-92c3-c63e1b79d473'
+    server: 'irann.qarlumo.ir'
+    port: 8442
+    uuid: 'f1139f2b-31e4-4e3b-ae90-ab29c75e219d'
+    encryption: 'mlkem768x25519plus.native.0rtt.T2YjZLsVb1L85cBtib4RAp2Asys8dteBYEoWwgfjsy4'
     network: xhttp
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
-      public-key: 'eLWpaunGYaDMoTWCZ1jPyu_XN8ZCM9LSEiVBBMG5qTw'
-      short-id: '2d86a938ccb3092f'
+      public-key: '-CLL7vZbT6s89XUDa9ssN2AEGCTau3cZDuarhYuC8AA'
+      short-id: 'e0060dfcccde5e32'
     xhttp-opts:
-      path: '/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      path: '/content'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'US 🇺🇸 | @Raydikalx | C84C54'
@@ -2715,14 +2803,14 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: 'VU8wv-7mhCzYJEPgEnDwZJM8ilnWtXR0nYOpdk7qn3g'
       short-id: 'a81454'
     xhttp-opts:
       path: '/t.me-SubGift'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
   - name: 'IR 🇮🇷 | @Raydikalx | 82BE04'
@@ -2734,14 +2822,32 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
     reality-opts:
       public-key: '7Udu8M44zSpjPJ-t0Fan1kAaykeB3PkKBCCoJCoxOjk'
       short-id: 'f9fe9522b62bac68'
     xhttp-opts:
       path: '/DeliveryMarket'
-      host: 'appsflyer.com,cloudflare.com,google.com,gstatic.com,googleapis.com,cloudflareinsights.com,cloudflareclient.com,instagram.com'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      mode: auto
+
+  - name: 'US 🇺🇸 | @Raydikalx | 21E6E9'
+    type: vless
+    server: 'finlandnovemberone.best'
+    port: 443
+    uuid: 'fdbd8fb8-7d27-4bd8-9da1-1e42c4876835'
+    network: xhttp
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    reality-opts:
+      public-key: '5INjcaKWv9Yfn62Igz2_xfw1PNgEtroCkKqd0c-wMA4'
+      short-id: 'a8329724e1e60d85'
+    xhttp-opts:
+      path: '/1269af64dcc9/726643dd'
+      host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
       mode: auto
 
 
@@ -2755,150 +2861,155 @@ proxy-groups:
       - 'LV 🇱🇻 | @Raydikalx | 4C06F3'
       - 'FI 🇫🇮 | @Raydikalx | 124CB7'
       - 'IR 🇮🇷 | @Raydikalx | C5F4CA'
-      - 'US 🇺🇸 | @Raydikalx | 455FB6'
-      - 'TR 🇹🇷 | @Raydikalx | 94F69B'
-      - 'TR 🇹🇷 | @Raydikalx | BD50B3'
       - 'MD 🇲🇩 | @Raydikalx | E1C59E'
       - 'FI 🇫🇮 | @Raydikalx | 5837BA'
-      - 'FR 🇫🇷 | @Raydikalx | BC32DB'
-      - 'FR 🇫🇷 | @Raydikalx | 00E264'
+      - 'US 🇺🇸 | @Raydikalx | 3C5840'
+      - 'TR 🇹🇷 | @Raydikalx | D3D300'
+      - 'FR 🇫🇷 | @Raydikalx | A87244'
       - 'RO 🇷🇴 | @Raydikalx | F05907'
       - 'RO 🇷🇴 | @Raydikalx | 22468B'
       - 'US 🇺🇸 | @Raydikalx | D40266'
       - 'DE 🇩🇪 | @Raydikalx | C51DF7'
-      - 'PA 🇵🇦 | @Raydikalx | 9D2898'
+      - 'IR 🇮🇷 | @Raydikalx | DF18A3'
       - 'IR 🇮🇷 | @Raydikalx | 971E01'
       - 'FR 🇫🇷 | @Raydikalx | 9E60DD'
-      - 'AU 🇦🇺 | @Raydikalx | 839B1E'
-      - 'IR 🇮🇷 | @Raydikalx | DCAE1B'
       - 'Global 🌐 | @Raydikalx | 847B7D'
-      - 'FR 🇫🇷 | @Raydikalx | 1FCD45'
       - 'FI 🇫🇮 | @Raydikalx | ED45F0'
       - 'IR 🇮🇷 | @Raydikalx | 33B863'
+      - 'GE 🇬🇪 | @Raydikalx | AAFDB5'
       - 'US 🇺🇸 | @Raydikalx | 1BD477'
       - 'US 🇺🇸 | @Raydikalx | 0564E7'
       - 'IR 🇮🇷 | @Raydikalx | 99A795'
       - 'RU 🇷🇺 | @Raydikalx | DF55CD'
       - 'GB 🇬🇧 | @Raydikalx | CF97E5'
-      - 'DE 🇩🇪 | @Raydikalx | 0B6CED'
-      - 'EE 🇪🇪 | @Raydikalx | 223370'
-      - 'GB 🇬🇧 | @Raydikalx | FABC14'
-      - 'FR 🇫🇷 | @Raydikalx | 5A581E'
+      - 'IR 🇮🇷 | @Raydikalx | 3FFC29'
+      - 'IR 🇮🇷 | @Raydikalx | 04AA0A'
+      - 'IR 🇮🇷 | @Raydikalx | AD9CEA'
+      - 'IR 🇮🇷 | @Raydikalx | B183C1'
+      - 'IR 🇮🇷 | @Raydikalx | 0F1858'
+      - 'NG 🇳🇬 | @Raydikalx | 2B412E'
+      - 'DE 🇩🇪 | @Raydikalx | 747E94'
       - 'FI 🇫🇮 | @Raydikalx | 77A309'
+      - 'DE 🇩🇪 | @Raydikalx | 5BBA54'
       - 'DE 🇩🇪 | @Raydikalx | 49A0C6'
       - 'TR 🇹🇷 | @Raydikalx | FC987D'
+      - 'US 🇺🇸 | @Raydikalx | 5F2DE6'
       - 'DE 🇩🇪 | @Raydikalx | E8A566'
       - 'DE 🇩🇪 | @Raydikalx | ACFA4D'
-      - 'DE 🇩🇪 | @Raydikalx | A145FA'
+      - 'DE 🇩🇪 | @Raydikalx | 66086E'
       - 'NL 🇳🇱 | @Raydikalx | 53C9F2'
       - 'NL 🇳🇱 | @Raydikalx | CB8414'
       - 'DE 🇩🇪 | @Raydikalx | 9454C8'
       - 'DE 🇩🇪 | @Raydikalx | 2301A0'
       - 'DE 🇩🇪 | @Raydikalx | 9FA7F7'
-      - 'TR 🇹🇷 | @Raydikalx | 27EE88'
+      - 'IR 🇮🇷 | @Raydikalx | 057D4E'
+      - 'IR 🇮🇷 | @Raydikalx | 77FA51'
       - 'RU 🇷🇺 | @Raydikalx | FBA544'
-      - 'EE 🇪🇪 | @Raydikalx | 4F19AC'
-      - 'TR 🇹🇷 | @Raydikalx | CCD902'
-      - 'PL 🇵🇱 | @Raydikalx | 20F8DC'
-      - 'FI 🇫🇮 | @Raydikalx | F2A93F'
-      - 'CH 🇨🇭 | @Raydikalx | 258074'
-      - 'RO 🇷🇴 | @Raydikalx | 21019E'
+      - 'RU 🇷🇺 | @Raydikalx | 9973BA'
+      - 'RO 🇷🇴 | @Raydikalx | A94339'
+      - 'FI 🇫🇮 | @Raydikalx | 3D56B8'
+      - 'IR 🇮🇷 | @Raydikalx | F57AB3'
+      - 'IR 🇮🇷 | @Raydikalx | E33EC3'
+      - 'IR 🇮🇷 | @Raydikalx | B80321'
       - 'AT 🇦🇹 | @Raydikalx | 015F2A'
-      - 'EE 🇪🇪 | @Raydikalx | 06800F'
-      - 'EE 🇪🇪 | @Raydikalx | 86777C'
       - 'SE 🇸🇪 | @Raydikalx | 4CA6B2'
+      - 'TR 🇹🇷 | @Raydikalx | A15041'
       - 'NL 🇳🇱 | @Raydikalx | 8B94EB'
-      - 'DE 🇩🇪 | @Raydikalx | A0D413'
-      - 'DE 🇩🇪 | @Raydikalx | 061B56'
-      - 'IE 🇮🇪 | @Raydikalx | 6FA27E'
-      - 'Global 🌐 | @Raydikalx | FB0BDC'
-      - 'ES 🇪🇸 | @Raydikalx | 1BA999'
-      - 'SE 🇸🇪 | @Raydikalx | AED9B5'
-      - 'US 🇺🇸 | @Raydikalx | DEF7C2'
-      - 'JP 🇯🇵 | @Raydikalx | FAC9F5'
       - 'DE 🇩🇪 | @Raydikalx | 445B33'
+      - 'ES 🇪🇸 | @Raydikalx | 876A0A'
+      - 'DE 🇩🇪 | @Raydikalx | DD54F7'
+      - 'FR 🇫🇷 | @Raydikalx | 4FDEAE'
+      - 'NL 🇳🇱 | @Raydikalx | F54D23'
       - 'DE 🇩🇪 | @Raydikalx | A1A641'
+      - 'IR 🇮🇷 | @Raydikalx | E57208'
+      - 'IR 🇮🇷 | @Raydikalx | 74C688'
       - 'TR 🇹🇷 | @Raydikalx | D8E5EE'
+      - 'DE 🇩🇪 | @Raydikalx | 8B01E8'
       - 'DE 🇩🇪 | @Raydikalx | A93219'
-      - 'HK 🇭🇰 | @Raydikalx | F6B63B'
+      - 'HK 🇭🇰 | @Raydikalx | 6F238B'
       - 'CH 🇨🇭 | @Raydikalx | 9043BE'
       - 'FI 🇫🇮 | @Raydikalx | 4605D2'
       - 'DE 🇩🇪 | @Raydikalx | 98C094'
-      - 'TR 🇹🇷 | @Raydikalx | 14425E'
+      - 'DE 🇩🇪 | @Raydikalx | 14425E'
       - 'DE 🇩🇪 | @Raydikalx | 98457D'
-      - 'Global 🌐 | @Raydikalx | 5E4061'
-      - 'IR 🇮🇷 | @Raydikalx | E3E696'
-      - 'SE 🇸🇪 | @Raydikalx | 10C066'
+      - 'NL 🇳🇱 | @Raydikalx | B3408D'
+      - 'SE 🇸🇪 | @Raydikalx | 5192C9'
+      - 'Global 🌐 | @Raydikalx | 386F36'
+      - 'SE 🇸🇪 | @Raydikalx | BA2884'
       - 'NL 🇳🇱 | @Raydikalx | E35E9B'
+      - 'IR 🇮🇷 | @Raydikalx | 71D108'
+      - 'IR 🇮🇷 | @Raydikalx | 73FC90'
       - 'US 🇺🇸 | @Raydikalx | E7120F'
       - 'IR 🇮🇷 | @Raydikalx | DF0112'
       - 'FR 🇫🇷 | @Raydikalx | 63D8B5'
       - 'PL 🇵🇱 | @Raydikalx | 4127FF'
+      - 'DE 🇩🇪 | @Raydikalx | 75F259'
       - 'TR 🇹🇷 | @Raydikalx | 92B545'
       - 'US 🇺🇸 | @Raydikalx | A7A954'
       - 'TR 🇹🇷 | @Raydikalx | 83810B'
-      - 'KZ 🇰🇿 | @Raydikalx | F7BBD5'
+      - 'KZ 🇰🇿 | @Raydikalx | 718BE5'
       - 'DE 🇩🇪 | @Raydikalx | FCE2A6'
-      - 'CY 🇨🇾 | @Raydikalx | 05DC0E'
+      - 'IR 🇮🇷 | @Raydikalx | AEB35E'
+      - 'FR 🇫🇷 | @Raydikalx | E536F0'
+      - 'FR 🇫🇷 | @Raydikalx | B0F65C'
+      - 'RU 🇷🇺 | @Raydikalx | 06D9E4'
       - 'IR 🇮🇷 | @Raydikalx | 003ABF'
       - 'US 🇺🇸 | @Raydikalx | CD95C1'
+      - 'DE 🇩🇪 | @Raydikalx | 063CF6'
+      - 'HK 🇭🇰 | @Raydikalx | 0BCA3A'
       - 'DE 🇩🇪 | @Raydikalx | F86979'
       - 'FR 🇫🇷 | @Raydikalx | D2DEE9'
-      - 'DE 🇩🇪 | @Raydikalx | EFD63A'
       - 'FR 🇫🇷 | @Raydikalx | 9D4E61'
       - 'RU 🇷🇺 | @Raydikalx | E07CDD'
+      - 'IR 🇮🇷 | @Raydikalx | E226A7'
       - 'DE 🇩🇪 | @Raydikalx | BA275A'
       - 'UA 🇺🇦 | @Raydikalx | FCB590'
       - 'UA 🇺🇦 | @Raydikalx | 2840A7'
+      - 'IR 🇮🇷 | @Raydikalx | FACCF4'
       - 'IT 🇮🇹 | @Raydikalx | F72E57'
       - 'IT 🇮🇹 | @Raydikalx | 30EEAD'
-      - 'DE 🇩🇪 | @Raydikalx | 5A657C'
       - 'FR 🇫🇷 | @Raydikalx | DDC2DA'
       - 'DE 🇩🇪 | @Raydikalx | 90CE3F'
       - 'DE 🇩🇪 | @Raydikalx | 1F6BE9'
       - 'DE 🇩🇪 | @Raydikalx | D4EACF'
-      - 'RU 🇷🇺 | @Raydikalx | 57A29E'
       - 'IR 🇮🇷 | @Raydikalx | B7E0F9'
+      - 'RO 🇷🇴 | @Raydikalx | 8F7771'
       - 'RU 🇷🇺 | @Raydikalx | A47351'
-      - 'NL 🇳🇱 | @Raydikalx | 30B2C0'
-      - 'EE 🇪🇪 | @Raydikalx | 50AB67'
       - 'EE 🇪🇪 | @Raydikalx | 745B0F'
-      - 'NL 🇳🇱 | @Raydikalx | 48BAFE'
-      - 'NL 🇳🇱 | @Raydikalx | 1E9094'
       - 'GB 🇬🇧 | @Raydikalx | 3AF119'
-      - 'GB 🇬🇧 | @Raydikalx | 9428E6'
-      - 'US 🇺🇸 | @Raydikalx | 39B4A0'
-      - 'RO 🇷🇴 | @Raydikalx | D3B7E6'
+      - 'GB 🇬🇧 | @Raydikalx | C54F54'
+      - 'SK 🇸🇰 | @Raydikalx | FB656A'
+      - 'IL 🇮🇱 | @Raydikalx | D3B7E6'
       - 'NL 🇳🇱 | @Raydikalx | A128A2'
+      - 'GB 🇬🇧 | @Raydikalx | FEE366'
       - 'CH 🇨🇭 | @Raydikalx | 716AD1'
-      - 'CH 🇨🇭 | @Raydikalx | 032682'
       - 'RU 🇷🇺 | @Raydikalx | 19FE1F'
       - 'RU 🇷🇺 | @Raydikalx | 117097'
       - 'CH 🇨🇭 | @Raydikalx | D5FE15'
       - 'NL 🇳🇱 | @Raydikalx | 01B74B'
       - 'RU 🇷🇺 | @Raydikalx | F11BA4'
-      - 'PL 🇵🇱 | @Raydikalx | 3A63BF'
-      - 'IR 🇮🇷 | @Raydikalx | 1FEECF'
-      - 'IR 🇮🇷 | @Raydikalx | FA51CD'
       - 'IR 🇮🇷 | @Raydikalx | 279627'
       - 'TR 🇹🇷 | @Raydikalx | 077D68'
       - 'IR 🇮🇷 | @Raydikalx | 588B86'
       - 'IR 🇮🇷 | @Raydikalx | 2F1470'
+      - 'NL 🇳🇱 | @Raydikalx | 72A533'
       - 'DE 🇩🇪 | @Raydikalx | CA5FA1'
       - 'DE 🇩🇪 | @Raydikalx | 5B1F01'
-      - 'DE 🇩🇪 | @Raydikalx | 5740A8'
-      - 'FI 🇫🇮 | @Raydikalx | A1297D'
+      - 'DE 🇩🇪 | @Raydikalx | B22D7B'
+      - 'IR 🇮🇷 | @Raydikalx | 770DFA'
+      - 'IR 🇮🇷 | @Raydikalx | 2C7CDE'
       - 'FI 🇫🇮 | @Raydikalx | EA1D45'
       - 'IR 🇮🇷 | @Raydikalx | 44B53C'
       - 'LV 🇱🇻 | @Raydikalx | 943219'
       - 'FI 🇫🇮 | @Raydikalx | 8E6A60'
       - 'NL 🇳🇱 | @Raydikalx | 98502D'
       - 'DE 🇩🇪 | @Raydikalx | AF059A'
-      - 'US 🇺🇸 | @Raydikalx | 0D5E55'
-      - 'IR 🇮🇷 | @Raydikalx | 8A2066'
-      - 'IR 🇮🇷 | @Raydikalx | 110BC5'
+      - 'RU 🇷🇺 | @Raydikalx | E4FB71'
+      - 'RU 🇷🇺 | @Raydikalx | 2ADEE6'
+      - 'IR 🇮🇷 | @Raydikalx | 9CA014'
       - 'US 🇺🇸 | @Raydikalx | C84C54'
       - 'IR 🇮🇷 | @Raydikalx | 82BE04'
+      - 'US 🇺🇸 | @Raydikalx | 21E6E9'
 
 rules:
   - MATCH,Auto-Select
