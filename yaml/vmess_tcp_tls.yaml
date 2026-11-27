@@ -9,7 +9,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | DE1715'
     type: vmess
@@ -21,7 +21,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | B2E9CA'
     type: vmess
@@ -33,7 +33,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'Global 🌐 | @Raydikalx | 2D9F19'
     type: vmess
@@ -45,7 +45,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | FAD30E'
     type: vmess
@@ -57,7 +57,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | C6343E'
     type: vmess
@@ -69,7 +69,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 73E7AD'
     type: vmess
@@ -81,7 +81,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | EB3982'
     type: vmess
@@ -93,7 +93,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | EA10F4'
     type: vmess
@@ -105,7 +105,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 3D59A0'
     type: vmess
@@ -117,7 +117,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 07E236'
     type: vmess
@@ -129,7 +129,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FI 🇫🇮 | @Raydikalx | 71C46C'
     type: vmess
@@ -141,7 +141,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 7B3BCB'
     type: vmess
@@ -153,7 +153,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | F2383C'
     type: vmess
@@ -165,7 +165,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | AC7919'
     type: vmess
@@ -177,7 +177,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 976AFC'
     type: vmess
@@ -189,7 +189,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 5B2842'
     type: vmess
@@ -201,7 +201,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | CF8DE1'
     type: vmess
@@ -213,7 +213,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IT 🇮🇹 | @Raydikalx | FB6C85'
     type: vmess
@@ -225,7 +225,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IT 🇮🇹 | @Raydikalx | 69687A'
     type: vmess
@@ -237,7 +237,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IT 🇮🇹 | @Raydikalx | 493370'
     type: vmess
@@ -249,7 +249,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 3E5525'
     type: vmess
@@ -261,7 +261,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 102918'
     type: vmess
@@ -273,7 +273,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SG 🇸🇬 | @Raydikalx | 0335AF'
     type: vmess
@@ -285,7 +285,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 4C87F9'
     type: vmess
@@ -297,7 +297,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | A7B16C'
     type: vmess
@@ -309,7 +309,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | F74F10'
     type: vmess
@@ -321,7 +321,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'RU 🇷🇺 | @Raydikalx | 9B9CD3'
     type: vmess
@@ -333,7 +333,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 27326A'
     type: vmess
@@ -345,7 +345,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | B9C17B'
     type: vmess
@@ -357,7 +357,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | BD9466'
     type: vmess
@@ -369,7 +369,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 9E8BBF'
     type: vmess
@@ -381,7 +381,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 4E2F45'
     type: vmess
@@ -393,7 +393,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 5B5B73'
     type: vmess
@@ -405,7 +405,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A18BA0'
     type: vmess
@@ -417,7 +417,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8AB05A'
     type: vmess
@@ -429,7 +429,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 5FB5BA'
     type: vmess
@@ -441,7 +441,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A1A1BE'
     type: vmess
@@ -453,7 +453,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 302E66'
     type: vmess
@@ -465,7 +465,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 67B835'
     type: vmess
@@ -477,7 +477,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 910430'
     type: vmess
@@ -489,7 +489,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4318A4'
     type: vmess
@@ -501,7 +501,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4362EF'
     type: vmess
@@ -513,7 +513,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 71C30A'
     type: vmess
@@ -525,7 +525,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 9BA42B'
     type: vmess
@@ -537,7 +537,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | BE0F3D'
     type: vmess
@@ -549,7 +549,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 9CAC3B'
     type: vmess
@@ -561,7 +561,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4313EA'
     type: vmess
@@ -573,7 +573,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 9F6087'
     type: vmess
@@ -585,7 +585,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D87097'
     type: vmess
@@ -597,7 +597,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F20B38'
     type: vmess
@@ -609,7 +609,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 8186DD'
     type: vmess
@@ -621,7 +621,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D00A4C'
     type: vmess
@@ -633,7 +633,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F92BF6'
     type: vmess
@@ -645,7 +645,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 779CB4'
     type: vmess
@@ -657,7 +657,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 50DCFF'
     type: vmess
@@ -669,7 +669,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 7D7B15'
     type: vmess
@@ -681,7 +681,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 5F0CF8'
     type: vmess
@@ -693,7 +693,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | D3F2DA'
     type: vmess
@@ -705,7 +705,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 187708'
     type: vmess
@@ -717,7 +717,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 4B1A4C'
     type: vmess
@@ -729,7 +729,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 9AA5D3'
     type: vmess
@@ -741,7 +741,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 1ECA70'
     type: vmess
@@ -753,7 +753,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 993046'
     type: vmess
@@ -765,7 +765,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F6099A'
     type: vmess
@@ -777,7 +777,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 44A187'
     type: vmess
@@ -789,7 +789,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 659EB1'
     type: vmess
@@ -801,7 +801,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | A875EE'
     type: vmess
@@ -813,7 +813,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | B4C0E0'
     type: vmess
@@ -825,7 +825,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | EF603F'
     type: vmess
@@ -837,7 +837,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4D4536'
     type: vmess
@@ -849,7 +849,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7DE6C1'
     type: vmess
@@ -861,7 +861,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 60BAE9'
     type: vmess
@@ -873,7 +873,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 78DCAA'
     type: vmess
@@ -885,7 +885,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 715642'
     type: vmess
@@ -897,7 +897,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 787533'
     type: vmess
@@ -909,7 +909,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 5DF408'
     type: vmess
@@ -921,7 +921,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7223EB'
     type: vmess
@@ -933,7 +933,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 554BAA'
     type: vmess
@@ -945,7 +945,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 58C2D1'
     type: vmess
@@ -957,7 +957,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 182864'
     type: vmess
@@ -969,7 +969,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | D2997A'
     type: vmess
@@ -981,7 +981,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C5EEAC'
     type: vmess
@@ -993,7 +993,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 7A5C88'
     type: vmess
@@ -1005,7 +1005,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 608EF5'
     type: vmess
@@ -1017,7 +1017,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | E109AA'
     type: vmess
@@ -1029,7 +1029,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | EDD4C1'
     type: vmess
@@ -1041,7 +1041,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 7EBDB3'
     type: vmess
@@ -1053,7 +1053,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | A4DDB9'
     type: vmess
@@ -1065,7 +1065,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | 74E716'
     type: vmess
@@ -1077,7 +1077,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | D039CE'
     type: vmess
@@ -1089,7 +1089,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 6168D9'
     type: vmess
@@ -1101,7 +1101,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 49274E'
     type: vmess
@@ -1113,7 +1113,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 8C3EF0'
     type: vmess
@@ -1125,7 +1125,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 943FAE'
     type: vmess
@@ -1137,7 +1137,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 882A7F'
     type: vmess
@@ -1149,7 +1149,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 7DD8C0'
     type: vmess
@@ -1161,7 +1161,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 674BDB'
     type: vmess
@@ -1173,7 +1173,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | C0F243'
     type: vmess
@@ -1185,7 +1185,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | E7611E'
     type: vmess
@@ -1197,7 +1197,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 00658F'
     type: vmess
@@ -1209,7 +1209,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 35CF84'
     type: vmess
@@ -1221,7 +1221,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 377EA9'
     type: vmess
@@ -1233,7 +1233,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 64D2F8'
     type: vmess
@@ -1245,7 +1245,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | FF6E69'
     type: vmess
@@ -1257,7 +1257,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F4E423'
     type: vmess
@@ -1269,7 +1269,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 565AA4'
     type: vmess
@@ -1281,7 +1281,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 053C5B'
     type: vmess
@@ -1293,7 +1293,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 3DE3C6'
     type: vmess
@@ -1305,7 +1305,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | D35007'
     type: vmess
@@ -1317,7 +1317,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 38BA77'
     type: vmess
@@ -1329,7 +1329,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | FEF726'
     type: vmess
@@ -1341,7 +1341,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 4E2A76'
     type: vmess
@@ -1353,7 +1353,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | 414A2E'
     type: vmess
@@ -1365,7 +1365,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | D31478'
     type: vmess
@@ -1377,7 +1377,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 8477A2'
     type: vmess
@@ -1389,7 +1389,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 9DF5A5'
     type: vmess
@@ -1401,7 +1401,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AE 🇦🇪 | @Raydikalx | B0ABA0'
     type: vmess
@@ -1413,7 +1413,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'LV 🇱🇻 | @Raydikalx | 9B74DB'
     type: vmess
@@ -1425,7 +1425,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 179450'
     type: vmess
@@ -1437,7 +1437,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 437316'
     type: vmess
@@ -1449,7 +1449,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 4DE8B6'
     type: vmess
@@ -1461,7 +1461,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 5C9940'
     type: vmess
@@ -1473,7 +1473,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | 98E112'
     type: vmess
@@ -1485,7 +1485,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 4568F0'
     type: vmess
@@ -1497,7 +1497,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | F01C09'
     type: vmess
@@ -1509,7 +1509,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | BA6C21'
     type: vmess
@@ -1521,7 +1521,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 3CE65E'
     type: vmess
@@ -1533,7 +1533,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 6E08D1'
     type: vmess
@@ -1545,7 +1545,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | CD2072'
     type: vmess
@@ -1557,7 +1557,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 5FAA5F'
     type: vmess
@@ -1569,7 +1569,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | EA3DE5'
     type: vmess
@@ -1581,7 +1581,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | FED4F2'
     type: vmess
@@ -1593,7 +1593,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | B24858'
     type: vmess
@@ -1605,7 +1605,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | AB089A'
     type: vmess
@@ -1617,7 +1617,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | FE5DBB'
     type: vmess
@@ -1629,7 +1629,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 97CA8C'
     type: vmess
@@ -1641,7 +1641,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | AA4CC5'
     type: vmess
@@ -1653,7 +1653,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | FE08D8'
     type: vmess
@@ -1665,7 +1665,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | D86DCF'
     type: vmess
@@ -1677,7 +1677,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 13224B'
     type: vmess
@@ -1689,7 +1689,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | B06001'
     type: vmess
@@ -1701,7 +1701,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | D44C25'
     type: vmess
@@ -1713,7 +1713,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 21490D'
     type: vmess
@@ -1725,7 +1725,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 0283D1'
     type: vmess
@@ -1737,7 +1737,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 1D4560'
     type: vmess
@@ -1749,7 +1749,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 292968'
     type: vmess
@@ -1761,7 +1761,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 4BF341'
     type: vmess
@@ -1773,7 +1773,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 246A8D'
     type: vmess
@@ -1785,7 +1785,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | B9BF01'
     type: vmess
@@ -1797,7 +1797,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 21A83E'
     type: vmess
@@ -1809,7 +1809,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 850E96'
     type: vmess
@@ -1821,7 +1821,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 8C5AA3'
     type: vmess
@@ -1833,7 +1833,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | CC4D0A'
     type: vmess
@@ -1845,7 +1845,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 627DF3'
     type: vmess
@@ -1857,7 +1857,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | C45F84'
     type: vmess
@@ -1869,7 +1869,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 8F87C0'
     type: vmess
@@ -1881,7 +1881,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 733208'
     type: vmess
@@ -1893,7 +1893,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 735FED'
     type: vmess
@@ -1905,7 +1905,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 1F5480'
     type: vmess
@@ -1917,7 +1917,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | A3C311'
     type: vmess
@@ -1929,7 +1929,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | 33CD3B'
     type: vmess
@@ -1941,7 +1941,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | AC0B82'
     type: vmess
@@ -1953,7 +1953,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 3528E8'
     type: vmess
@@ -1965,7 +1965,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 05F8F5'
     type: vmess
@@ -1977,7 +1977,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | C631E9'
     type: vmess
@@ -1989,7 +1989,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | C631A4'
     type: vmess
@@ -2001,7 +2001,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | D92921'
     type: vmess
@@ -2013,7 +2013,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | CE7DF4'
     type: vmess
@@ -2025,7 +2025,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | E6F5E7'
     type: vmess
@@ -2037,7 +2037,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'Global 🌐 | @Raydikalx | 133EF2'
     type: vmess
@@ -2049,7 +2049,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F91CEF'
     type: vmess
@@ -2061,7 +2061,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 933FA3'
     type: vmess
@@ -2073,7 +2073,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | F0A797'
     type: vmess
@@ -2085,7 +2085,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 07528F'
     type: vmess
@@ -2097,7 +2097,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'FR 🇫🇷 | @Raydikalx | FC3EC2'
     type: vmess
@@ -2109,7 +2109,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | 3314AF'
     type: vmess
@@ -2121,7 +2121,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 8886C7'
     type: vmess
@@ -2133,7 +2133,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'CA 🇨🇦 | @Raydikalx | 582641'
     type: vmess
@@ -2145,7 +2145,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | 0F820A'
     type: vmess
@@ -2157,7 +2157,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 821B75'
     type: vmess
@@ -2169,7 +2169,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 40018C'
     type: vmess
@@ -2181,7 +2181,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | 2A81EA'
     type: vmess
@@ -2193,7 +2193,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | C110DF'
     type: vmess
@@ -2205,7 +2205,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 3812CF'
     type: vmess
@@ -2217,7 +2217,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | 9D9778'
     type: vmess
@@ -2229,7 +2229,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | 2698AA'
     type: vmess
@@ -2241,7 +2241,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | B71FA6'
     type: vmess
@@ -2253,7 +2253,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | A00C01'
     type: vmess
@@ -2265,7 +2265,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | C1C1F9'
     type: vmess
@@ -2277,7 +2277,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | 2D9BCD'
     type: vmess
@@ -2289,7 +2289,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | 2FA8C6'
     type: vmess
@@ -2301,7 +2301,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'AT 🇦🇹 | @Raydikalx | 54107D'
     type: vmess
@@ -2313,7 +2313,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | 876A30'
     type: vmess
@@ -2325,7 +2325,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | 512D7B'
     type: vmess
@@ -2337,7 +2337,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'BR 🇧🇷 | @Raydikalx | B2B6D3'
     type: vmess
@@ -2349,7 +2349,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'SE 🇸🇪 | @Raydikalx | 03C877'
     type: vmess
@@ -2361,7 +2361,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'TR 🇹🇷 | @Raydikalx | E34155'
     type: vmess
@@ -2373,7 +2373,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | B10A60'
     type: vmess
@@ -2385,7 +2385,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'NL 🇳🇱 | @Raydikalx | 9ADBA7'
     type: vmess
@@ -2397,7 +2397,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 0FCB5E'
     type: vmess
@@ -2409,7 +2409,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 7652DE'
     type: vmess
@@ -2421,7 +2421,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | 825375'
     type: vmess
@@ -2433,7 +2433,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'US 🇺🇸 | @Raydikalx | A96BDD'
     type: vmess
@@ -2445,7 +2445,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | EF09A6'
     type: vmess
@@ -2457,7 +2457,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'DE 🇩🇪 | @Raydikalx | 5FD42D'
     type: vmess
@@ -2469,7 +2469,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'IR 🇮🇷 | @Raydikalx | E49CFB'
     type: vmess
@@ -2481,7 +2481,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'Global 🌐 | @Raydikalx | CA665C'
     type: vmess
@@ -2493,7 +2493,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | D632BF'
     type: vmess
@@ -2505,7 +2505,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 0177E7'
     type: vmess
@@ -2517,7 +2517,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'GB 🇬🇧 | @Raydikalx | 25FC95'
     type: vmess
@@ -2529,7 +2529,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
   - name: 'JP 🇯🇵 | @Raydikalx | 845BD3'
     type: vmess
@@ -2541,7 +2541,7 @@ proxies:
     udp: true
     tls: true
     skip-cert-verify: true
-    servername: 'googleapis.com'
+    servername: 'cloudflare.com,appsflyer.com,google.com,instagram.com,gstatic.com,cloudflareinsights.com,cloudflareclient.com,apple.com,whatsapp.com,snapchat.com,facebook.com'
 
 
 proxy-groups:
