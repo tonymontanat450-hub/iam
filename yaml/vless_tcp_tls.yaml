@@ -1,242 +1,260 @@
 proxies:
-  - name: '🇭🇰 Hong Kong 179'
+  - name: '🇫🇮 Finland · K28A'
     type: vless
-    server: '152.175.6.229'
-    port: 31884
-    uuid: 'e9a8144e-5237-488a-afb1-9ca3d8d54c80'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇭🇰 Hong Kong 266'
-    type: vless
-    server: '209.9.200.147'
+    server: '213.171.25.82'
     port: 443
-    uuid: 'ed94398f-893f-40c6-b14c-bf02b5f6be16'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇹🇼 Taiwan 059'
-    type: vless
-    server: 'free.fugui.lol'
-    port: 47396
-    uuid: 'ead3595f-4020-4e76-a3ec-c248e1a2f2f7'
-    flow: 'xtls-rprx-vision-udp443'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇹🇼 Taiwan 111'
-    type: vless
-    server: '166.0.198.53'
-    port: 443
-    uuid: 'ed94398f-893f-40c6-b14c-bf02b5f6be16'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇯🇵 Japan 287'
-    type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: '7318caa1-93d1-4a9d-c481-504599902700'
-    flow: 'xtls-rprx-vision'
+    uuid: '00000000-0000-0001-0000-000000000000'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
 
-  - name: '🇯🇵 Japan 297'
+  - name: '🇫🇮 Finland · 8Q8X'
     type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: '9da605d3-f5f7-4135-f806-450f036f9351'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 299'
-    type: vless
-    server: 'djj.zjlo.top'
-    port: 23169
-    uuid: 'f67b1159-a61f-4ae4-9844-0701b716a290'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 300'
-    type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: '3eb053cb-d6f8-4b31-8180-222e1cc6f8ff'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 304'
-    type: vless
-    server: 'djj.zjlo.top'
-    port: 23169
-    uuid: '7318caa1-93d1-4a9d-c481-504599902700'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 309'
-    type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: 'f67b1159-a61f-4ae4-9844-0701b716a290'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 310'
-    type: vless
-    server: 'djj.zjlo.top'
-    port: 23169
-    uuid: '3eb053cb-d6f8-4b31-8180-222e1cc6f8ff'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇯🇵 Japan 349'
-    type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: '7318caa1-93d1-4a9d-c481-504599902700'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇯🇵 Japan 442'
-    type: vless
-    server: '155.248.175.201'
-    port: 23169
-    uuid: '7318caa1-93d1-4a9d-c481-504599902700'
-    flow: 'xtls-rprx-vision-udp443'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇯🇵 Japan 481'
-    type: vless
-    server: 'djj.zjlo.top'
-    port: 23169
-    uuid: '9da605d3-f5f7-4135-f806-450f036f9351'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'none'
-
-  - name: '🇯🇵 Japan 519'
-    type: vless
-    server: '94.177.131.113'
-    port: 443
-    uuid: '03fcc618-b93d-6796-6aed-8a38c975d581'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇸🇬 Singapore 228'
-    type: vless
-    server: 'free.server.darknetlk.com'
-    port: 443
-    uuid: '076799f8-d922-4bf1-805d-e758e6eb925f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇸🇬 Singapore 229'
-    type: vless
-    server: '207.148.124.12'
+    server: '165.231.157.150'
     port: 8443
-    uuid: 'bcdb425f-80bc-4ec8-92a5-8edf53639c01'
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
+    flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+
+  - name: '🇳🇱 Netherlands · AHME'
+    type: vless
+    server: '196.240.125.11'
+    port: 8443
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+
+  - name: '🇳🇱 Netherlands · F4B5'
+    type: vless
+    server: '196.240.125.244'
+    port: 8443
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+
+  - name: '🇳🇱 Netherlands · 8BZY'
+    type: vless
+    server: '196.240.125.250'
+    port: 8443
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 230'
+  - name: '🇳🇱 Netherlands · QKKM'
     type: vless
-    server: '147.93.173.45'
-    port: 10444
-    uuid: '75c5f51b-d548-4eab-a26e-aa10fc3dbc7b'
+    server: 'nl.alpheratzz.org'
+    port: 8443
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'safari'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'firefox'
 
-  - name: '🇸🇬 Singapore 231'
+  - name: '🇩🇪 Germany · FJGR'
     type: vless
-    server: 'dddz-1-x.473221.xyz'
-    port: 43113
-    uuid: '5807f1c4-b50e-4ec0-8d01-274045da0da5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'edge'
-
-  - name: '🇸🇬 Singapore 303'
-    type: vless
-    server: '172.104.55.246'
+    server: '130.78.30.147'
     port: 443
-    uuid: '076799f8-d922-4bf1-805d-e758e6eb925f'
+    uuid: '352a250d-080b-47b5-b7db-f9f8fa31c551'
+    flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 350'
+  - name: '🇵🇱 Poland · 2TY6'
+    type: vless
+    server: '45.194.66.177'
+    port: 443
+    uuid: '352a250d-080b-47b5-b7db-f9f8fa31c551'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇯🇵 Japan · WZP8'
+    type: vless
+    server: '155.248.175.201'
+    port: 23169
+    uuid: '3eb053cb-d6f8-4b31-8180-222e1cc6f8ff'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇸🇬 Singapore · SAPX'
+    type: vless
+    server: 'highspeed.sahanwickramasinghe.com'
+    port: 443
+    uuid: '633abdfb-ccea-4e59-a062-fc8698512467'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇩🇪 Germany · J5XG'
+    type: vless
+    server: '85.8.201.186'
+    port: 443
+    uuid: '7aa77858-f235-0001-9434-7ab060848b17'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+
+  - name: '🇸🇬 Singapore · 4266'
+    type: vless
+    server: 'onhit.shalanax.com'
+    port: 119
+    uuid: 'e084837e-c738-4ce5-b691-cf4637356cd6'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: '🇯🇵 Japan · A9RJ'
+    type: vless
+    server: '155.248.175.201'
+    port: 23169
+    uuid: 'f67b1159-a61f-4ae4-9844-0701b716a290'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇩🇪 Germany · YXSA'
+    type: vless
+    server: '94.159.98.82'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇹🇷 Turkey · B84Z'
+    type: vless
+    server: 'leviko-tr3795.shopingggg.ir'
+    port: 50738
+    uuid: '56665684-5ac0-4ba9-9d49-8b258fb57974'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: '🇹🇷 Turkey · 6G1V'
+    type: vless
+    server: 'turkey-ip1.mmdaqaorg.xyz'
+    port: 50738
+    uuid: '56665684-5ac0-4ba9-9d49-8b258fb57974'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: '🇫🇮 Finland · 531Y'
+    type: vless
+    server: 'mail1.besttotaldns.com'
+    port: 443
+    uuid: 'da14e323-6af7-406f-a5c2-1eb7975ada8b'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+
+  - name: '🇩🇪 Germany · B2V9'
+    type: vless
+    server: '188.225.34.128'
+    port: 443
+    uuid: 'b9ae9395-c3e4-4212-86b8-d27a92f214dd'
+    flow: 'xtls-rprx-vision'
+    encryption: 'mlkem768x25519plus.xorpub.0rtt.1_coi21c-2IwqPUeoV6r9BwjGcI7iRys5-nDVXelQkY'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'chrome'
+
+  - name: '🇯🇵 Japan · KQ8A'
+    type: vless
+    server: '50.7.159.242'
+    port: 443
+    uuid: '8840fac2-5361-4cb6-b887-cd1b95092394'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'firefox'
+    packet-encoding: 'xudp'
+
+  - name: '🇩🇪 Germany · N3TX'
+    type: vless
+    server: '176.98.176.60'
+    port: 443
+    uuid: '7ad63b26-bf70-4872-8fab-ebaf73a1e19d'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'firefox'
+
+  - name: '🇸🇬 Singapore · 8AKP'
     type: vless
     server: 'onhit.shalanax.com'
     port: 17490
@@ -245,10 +263,45 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
-    packet-encoding: 'none'
 
-  - name: '🇸🇬 Singapore 353'
+  - name: '🇫🇮 Finland · 0KKZ'
+    type: vless
+    server: '136.148.83.70'
+    port: 443
+    uuid: '00000000-0000-0001-0000-000000000000'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'qq'
+
+  - name: '🇵🇱 Poland · C66F'
+    type: vless
+    server: '136.148.83.69'
+    port: 443
+    uuid: '7dff1be7-b930-0001-a8ad-dc7850168215'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇵🇱 Poland · P0A5'
+    type: vless
+    server: '136.148.83.71'
+    port: 443
+    uuid: '00000000-0000-0001-0000-000000000000'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'qq'
+
+  - name: '🇸🇬 Singapore · TVNC'
     type: vless
     server: 'onhit.shalanax.com'
     port: 443
@@ -262,29 +315,41 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 363'
+  - name: '🇫🇮 Finland · JKK0'
     type: vless
-    server: 'highspeed.sahanwickramasinghe.com'
+    server: '136.148.83.70'
     port: 443
-    uuid: '633abdfb-ccea-4e59-a062-fc8698512467'
+    uuid: '00000000-0000-0001-0000-000000000000'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
+    client-fingerprint: 'qq'
 
-  - name: '🇸🇬 Singapore 402'
+  - name: '🇵🇱 Poland · RPM8'
     type: vless
-    server: '207.148.124.12'
-    port: 8443
-    uuid: 'bcdb425f-80bc-4ec8-92a5-8edf53639c01'
+    server: '136.148.83.71'
+    port: 443
+    uuid: '00000000-0000-0001-0000-000000000000'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'qq'
+
+  - name: '🇩🇪 Germany · 8YP4'
+    type: vless
+    server: '185.125.50.21'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
+    flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 425'
+  - name: '🇸🇬 Singapore · 6KVJ'
     type: vless
     server: '172.236.145.200'
     port: 119
@@ -298,11 +363,45 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 426'
+  - name: '🇵🇱 Poland · ABBC'
     type: vless
-    server: 'onhit.shalanax.com'
-    port: 119
-    uuid: 'e084837e-c738-4ce5-b691-cf4637356cd6'
+    server: '136.148.83.69'
+    port: 443
+    uuid: '666821a2-5c3d-0001-a56f-5a3a562d7324'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'qq'
+
+  - name: '🇳🇱 Netherlands · QEXF'
+    type: vless
+    server: '171.22.183.167'
+    port: 443
+    uuid: '04920673-035c-410d-94e4-5b1469d3fb6f'
+    flow: 'xtls-rprx-vision'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇫🇮 Finland · 4J0W'
+    type: vless
+    server: '136.148.83.69'
+    port: 443
+    uuid: '666821a2-5c3d-0001-a56f-5a3a562d7324'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'qq'
+
+  - name: '🇬🇧 United Kingdom · 32NY'
+    type: vless
+    server: 'node-uk.connectsuite.org'
+    port: 8443
+    uuid: 'c08f0056-7a6d-4931-813b-aaa3cdd00aed'
     udp: true
     tls: true
     skip-cert-verify: true
@@ -312,80 +411,25 @@ proxies:
       - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: '🇸🇬 Singapore 436'
+  - name: '🇹🇷 Turkey · 9VQM'
     type: vless
-    server: '139.162.27.96'
-    port: 443
-    uuid: 'f1178fbe-1420-4eef-b087-4f33b32b4a19'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇰🇷 South Korea 124'
-    type: vless
-    server: 'ifdmbpb.kdns.fr'
-    port: 443
-    uuid: '9a600801-e889-4705-9adb-bf9aeb366fc7'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇰🇷 South Korea 147'
-    type: vless
-    server: '43.155.175.232'
-    port: 443
-    uuid: '9a600801-e889-4705-9adb-bf9aeb366fc7'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-
-  - name: '🇰🇷 South Korea 158'
-    type: vless
-    server: 'ako.pagate.top'
-    port: 443
-    uuid: 'e6d8d743-a9bc-48c9-be99-8f3cc94d16e1'
-    flow: 'xtls-rprx-vision-udp443'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 1889'
-    type: vless
-    server: '195.123.240.65'
-    port: 443
-    uuid: 'ce18d0eb-5c71-41f9-96e5-1632e22456e4'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'ios'
-
-  - name: '🇺🇸 United States 1894'
-    type: vless
-    server: '3.219.184.102'
-    port: 443
-    uuid: 'a5b1d16b-719b-4bd6-9d7b-fe6d84607da9'
+    server: '143.246.136.128'
+    port: 50738
+    uuid: '56665684-5ac0-4ba9-9d49-8b258fb57974'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     alpn:
       - 'h2'
+      - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: '🇺🇸 United States 1898'
+  - name: '🇩🇪 Germany · 463Z'
     type: vless
-    server: '2.24.124.64'
-    port: 443
-    uuid: '719b9354-45e2-4718-8709-d965b64554db'
+    server: '191.217.215.186'
+    port: 2053
+    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
@@ -393,31 +437,21 @@ proxies:
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
 
-  - name: '🇺🇸 United States 1899'
+  - name: '🇫🇮 Finland · GYRA'
     type: vless
-    server: '15.204.97.209'
-    port: 23576
-    uuid: '48ff2b70-e180-582f-8866-d9a2edeed5f5'
+    server: 'one.alpheratzz.org'
+    port: 8443
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
+    alpn:
+      - 'h2'
+    client-fingerprint: 'safari'
 
-  - name: '🇺🇸 United States 1927'
-    type: vless
-    server: 'kuruish.org'
-    port: 443
-    uuid: '03fcc618-b93d-6796-6aed-8a38c975d581'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇺🇸 United States 1934'
+  - name: '🇺🇸 United States · 3ZCK'
     type: vless
     server: '216.106.185.158'
     port: 443
@@ -426,445 +460,8 @@ proxies:
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
 
-  - name: '🇺🇸 United States 2018'
-    type: vless
-    server: '31.76.93.112'
-    port: 443
-    uuid: 'd7121b33-e335-4921-bb00-4c0b157e7fc1'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States 2075'
-    type: vless
-    server: 'turkey.daltoon-cloud.ir'
-    port: 2083
-    uuid: '122b8a33-d923-48a6-8f1b-e721cf842864'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2147'
-    type: vless
-    server: 'xui-oh.sahebkarami.ir'
-    port: 9443
-    uuid: '46f8712b-5289-45d1-858d-1f01f97b8ffe'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 2191'
-    type: vless
-    server: '135.148.74.150'
-    port: 443
-    uuid: '54694a33-a8dc-47dd-bc38-acd3971e0055'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States 2206'
-    type: vless
-    server: '162.217.248.241'
-    port: 443
-    uuid: '5999a497-a2da-41d0-92cb-5b758082f83c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 2218'
-    type: vless
-    server: '216.24.57.1'
-    port: 2083
-    uuid: '6595cf69-9d5d-4ce9-a279-dea7ac04da05'
-    encryption: 'mlkem768x25519plus.native.0rtt.dic5YSUX96-L8RLWUPe2f7l-vmMVZ55-FPzUytKOOlA'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2267'
-    type: vless
-    server: 'render.com'
-    port: 2053
-    uuid: '97be5ac0-dae3-43c1-aae8-3fcb7b130c59'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2308'
-    type: vless
-    server: '3.219.184.102'
-    port: 443
-    uuid: 'a5b1d16b-719b-4bd6-9d7b-fe6d84607da9'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇺🇸 United States 2343'
-    type: vless
-    server: '31.77.227.10'
-    port: 52006
-    uuid: 'bc659d88-a1e0-4c65-a49a-7b51b26a7a7f'
-    flow: 'xtls-rprx-vision-udp443'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 2344'
-    type: vless
-    server: '31.77.227.10'
-    port: 52006
-    uuid: 'bc659d88-a1e0-4c65-a49a-7b51b26a7a7f'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2345'
-    type: vless
-    server: '31.77.227.10'
-    port: 52006
-    uuid: 'bc659d88-a1e0-4c65-a49a-7b51b26a7a7f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States 2358'
-    type: vless
-    server: '15.204.192.150'
-    port: 443
-    uuid: 'c4fa89d4-fcb9-48ba-adbc-665181cc817f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States 2359'
-    type: vless
-    server: 'all.v-2rayngvpn.cfd'
-    port: 2083
-    uuid: 'c5baa583-b86e-4cff-9ae7-2e69bd99811e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States 2402'
-    type: vless
-    server: '15.204.191.46'
-    port: 443
-    uuid: 'e20ebe01-1815-4c09-8e77-fb2f168263ce'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 2422'
-    type: vless
-    server: '167.104.217.250'
-    port: 443
-    uuid: 'efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2693'
-    type: vless
-    server: '216.24.57.1'
-    port: 2083
-    uuid: '6595cf69-9d5d-4ce9-a279-dea7ac04da05'
-    encryption: 'mlkem768x25519plus.native.0rtt.dic5YSUX96-L8RLWUPe2f7l-vmMVZ55-FPzUytKOOlA'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2699'
-    type: vless
-    server: '13.143.185.22'
-    port: 6443
-    uuid: '68a67906-5b37-4779-a6cc-58a1655f18b4'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-
-  - name: '🇺🇸 United States 2700'
-    type: vless
-    server: 'de-apix.locallynet.org'
-    port: 4443
-    uuid: '68a67906-5b37-4779-a6cc-58a1655f18b4'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇺🇸 United States 2804'
-    type: vless
-    server: 'swo2.nexfile.net'
-    port: 4443
-    uuid: 'a35c508f-4d5d-4531-842e-6e9d43c762c0'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 2806'
-    type: vless
-    server: '144.31.214.249'
-    port: 443
-    uuid: 'a38e3651-a36c-445d-87e1-336a7855edb4'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'firefox'
-
-  - name: '🇺🇸 United States 2910'
-    type: vless
-    server: '13.143.179.17'
-    port: 52006
-    uuid: 'cde5d3ef-7d14-4fed-a74d-ac98e39bf9ec'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'firefox'
-
-  - name: '🇺🇸 United States 2934'
-    type: vless
-    server: '31.76.93.111'
-    port: 443
-    uuid: 'd7121b33-e335-4921-bb00-4c0b157e7fc1'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-
-  - name: '🇺🇸 United States 2936'
-    type: vless
-    server: 'm47.scan-cdn.com'
-    port: 443
-    uuid: 'd7121b33-e335-4921-bb00-4c0b157e7fc1'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'safari'
-
-  - name: '🇺🇸 United States 2973'
-    type: vless
-    server: '156.229.167.109'
-    port: 8443
-    uuid: 'eb8c97f7-a154-4442-91b0-54c0d055ad0b'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇺🇸 United States 3031'
-    type: vless
-    server: '85.155.179.206'
-    port: 443
-    uuid: '86a83d11-d751-4b60-aa4e-1dca5cff7028'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0449'
-    type: vless
-    server: '185.125.50.21'
-    port: 2053
-    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-
-  - name: '🇩🇪 Germany 0450'
-    type: vless
-    server: '45.129.242.56'
-    port: 443
-    uuid: 'ebdfaf99-41d8-4e48-8196-d54510ffb556'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0451'
-    type: vless
-    server: '82.118.19.153'
-    port: 443
-    uuid: 'adcaa148-7c66-4282-a81a-99ec8afa029d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0452'
-    type: vless
-    server: '185.134.203.106'
-    port: 443
-    uuid: '3af3f8f0-569f-4dd3-be99-2ef4bfe7867c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0455'
-    type: vless
-    server: '78ec29x.fi16.h1clayd.click'
-    port: 443
-    uuid: '2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-
-  - name: '🇩🇪 Germany 0510'
-    type: vless
-    server: 'uuyjnfbv.localip.ir'
-    port: 2087
-    uuid: '92a188aa-2e86-4557-bd30-b2079a70f824'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇩🇪 Germany 0523'
-    type: vless
-    server: '94.159.98.82'
-    port: 2053
-    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'firefox'
-    packet-encoding: 'xudp'
-
-  - name: '🇩🇪 Germany 0524'
-    type: vless
-    server: 'ytsdnol.localip.ir'
-    port: 2087
-    uuid: '92a188aa-2e86-4557-bd30-b2079a70f824'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-      - 'h3'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇩🇪 Germany 0557'
-    type: vless
-    server: '94.103.168.62'
-    port: 2087
-    uuid: '92a188aa-2e86-4557-bd30-b2079a70f824'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-      - 'h3'
-    client-fingerprint: 'chrome'
-    packet-encoding: 'xudp'
-
-  - name: '🇩🇪 Germany 0564'
+  - name: '🇩🇪 Germany · D809'
     type: vless
     server: '191.217.215.228'
     port: 2053
@@ -875,1654 +472,61 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
     client-fingerprint: 'firefox'
-    packet-encoding: 'xudp'
 
-  - name: '🇩🇪 Germany 0603'
+  - name: '🇺🇸 United States · FDT3'
     type: vless
-    server: 'static.124.36.245.188.clients.your-server.de'
+    server: 'kuruish.org'
     port: 443
-    uuid: '0187e498-f2fc-4c68-b294-b040d0183029'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0614'
-    type: vless
-    server: '92.223.124.62'
-    port: 443
-    uuid: '06252225-3f07-4c5b-a38e-5a68717bb07d'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 0631'
-    type: vless
-    server: 'static.162.97.119.168.clients.your-server.de'
-    port: 8443
-    uuid: '0eea6d8d-3c8d-4a38-bfc1-bfc8274f559e'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 0724'
-    type: vless
-    server: '187.7.206.179'
-    port: 443
-    uuid: '352a250d-080b-47b5-b7db-f9f8fa31c551'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0727'
-    type: vless
-    server: '31.184.244.18'
-    port: 443
-    uuid: '368f828f-0f13-4d94-afed-41ced957b565'
-    flow: 'xtls-rprx-vision'
+    uuid: '03fcc618-b93d-6796-6aed-8a38c975d581'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: '🇩🇪 Germany 0736'
+  - name: '🇩🇪 Germany · AB2X'
     type: vless
-    server: '152.233.35.228'
-    port: 8443
-    uuid: '394f6981-a782-4779-9a85-e6cf22935d93'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0745'
-    type: vless
-    server: 'static.24.255.225.46.clients.your-server.de'
-    port: 443
-    uuid: '3cd32e40-fadc-4250-ab5b-99200ed838be'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0746'
-    type: vless
-    server: 'static.66.253.225.46.clients.your-server.de'
-    port: 443
-    uuid: '3cd32e40-fadc-4250-ab5b-99200ed838be'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0747'
-    type: vless
-    server: 'static.84.177.202.116.clients.your-server.de'
-    port: 443
-    uuid: '3cd32e40-fadc-4250-ab5b-99200ed838be'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0850'
-    type: vless
-    server: '195.201.225.248'
-    port: 443
-    uuid: '566a19dc-591e-4ddf-a727-2b95d68ae4a5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 0852'
-    type: vless
-    server: 'kala.bestsellers1.site'
-    port: 443
-    uuid: '56b7fb67-aae8-435d-9fb1-545dcfb2fb7e'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 0865'
-    type: vless
-    server: 'static.66.192.105.178.clients.your-server.de.SavFasF.Ir'
-    port: 443
-    uuid: '60054261-299d-40ac-8b82-b76c29cb2d56'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0866'
-    type: vless
-    server: 'static.159.132.31.2.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0867'
-    type: vless
-    server: 'static.208.92.98.91.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0881'
-    type: vless
-    server: 'static.86.39.13.49.clients.your-server.de'
-    port: 443
-    uuid: '6c688f63-fad4-45d8-a6a1-1e978ed26b8b'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 0886'
-    type: vless
-    server: 'pnj.paxaro.ir'
-    port: 443
-    uuid: '6db83ec3-fad5-4514-b752-4e42276eb03b'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0899'
-    type: vless
-    server: '87.120.126.49'
-    port: 443
-    uuid: '76ef5ab3-7075-4e23-b445-f3b1bd05d431'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0900'
-    type: vless
-    server: '116.202.179.200'
-    port: 2096
-    uuid: '7751d5cc-923e-4262-abc5-bbc015e85d28'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0902'
-    type: vless
-    server: '80.244.13.155'
-    port: 443
-    uuid: '7a657573-124c-3e03-4890-10f4660c3706'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 0928'
-    type: vless
-    server: 'static.66.192.105.178.clients.your-server.de.SavFasF.Ir'
-    port: 443
-    uuid: '8733d1e5-6f6e-49bc-8c04-079ec4a8da64'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0943'
-    type: vless
-    server: 'static.99.177.233.167.clients.your-server.de'
-    port: 443
-    uuid: '89d096e6-6d55-4dff-bed7-0d8064665ee6'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 0962'
-    type: vless
-    server: '91.107.149.64'
-    port: 443
-    uuid: '90a8b839-feea-43a9-9554-9b4ad5ead3e2'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 1032'
-    type: vless
-    server: '87.120.84.32'
-    port: 33843
-    uuid: '93dac4b8-3879-4179-abdb-9666a9e2ca8d'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1036'
-    type: vless
-    server: 'velaroorts.ir'
-    port: 443
-    uuid: '9736c8d5-baac-4655-9886-f4d3661b43b4'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-      - 'h2'
-
-  - name: '🇩🇪 Germany 1044'
-    type: vless
-    server: 'free-server.techsonic.dev'
-    port: 443
-    uuid: '9afdc92d-4e88-4787-8d75-c95f7685d294'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1110'
-    type: vless
-    server: 'kala.fortresshost.ir'
-    port: 443
-    uuid: 'b55e1ca7-6954-4223-b269-96ece46e9005'
-    encryption: 'mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 1134'
-    type: vless
-    server: '109.120.177.84'
-    port: 443
-    uuid: 'ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 1136'
-    type: vless
-    server: '91.107.255.63'
-    port: 39653
-    uuid: 'baded307-189c-4ffc-a271-9acdab51a324'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇩🇪 Germany 1138'
-    type: vless
-    server: 'online.shop.ir.eeso.cc'
-    port: 39653
-    uuid: 'baded307-189c-4ffc-a271-9acdab51a324'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1140'
-    type: vless
-    server: 'static.104.7.18.78.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1142'
-    type: vless
-    server: 'static.122.183.105.178.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1144'
-    type: vless
-    server: 'static.152.3.18.78.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1146'
-    type: vless
-    server: 'static.162.97.119.168.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1147'
-    type: vless
-    server: 'static.216.7.245.188.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1149'
-    type: vless
-    server: 'static.69.71.203.116.clients.your-server.de'
-    port: 8443
-    uuid: 'bb7c15fa-c36a-439b-aba1-daaacc9900de'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1194'
-    type: vless
-    server: 'kala.fortresshost.ir'
-    port: 443
-    uuid: 'c60cd62f-8dc5-415f-826b-abb7856027d1'
-    encryption: 'mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 1196'
-    type: vless
-    server: '178.215.236.95'
-    port: 5432
-    uuid: 'cc01f435-d561-4525-bf1f-7a9876d33207'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1279'
-    type: vless
-    server: 'static.229.163.46.78.clients.your-server.de'
-    port: 8443
-    uuid: 'd8c268de-22c6-4690-8c98-a9ccab89b4ca'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1320'
-    type: vless
-    server: '178.104.118.69'
-    port: 443
-    uuid: 'f1b9efe3-1d57-41ba-9b72-2a0e72aeda8d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇩🇪 Germany 1333'
-    type: vless
-    server: 'host.taghvimtime.ir'
-    port: 8443
-    uuid: 'faf19d58-79f2-4857-f790-3ebd8cb2459d'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-
-  - name: '🇩🇪 Germany 1337'
-    type: vless
-    server: '191.217.215.186'
-    port: 2053
-    uuid: 'fbe22815-0718-4eae-816f-e91c67d15b54'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1352'
-    type: vless
-    server: '84.32.98.168'
-    port: 443
-    uuid: 'fd90e601-a56c-42b8-aab7-aa02d26fcb04'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1354'
-    type: vless
-    server: 'app.streamru14.net'
-    port: 443
-    uuid: 'fd90e601-a56c-42b8-aab7-aa02d26fcb04'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1404'
-    type: vless
-    server: 'static.105.158.199.138.clients.your-server.de'
-    port: 443
-    uuid: '0c882c50-88c7-4201-9320-ffdca027a66a'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1405'
-    type: vless
-    server: 'static.105.158.199.138.clients.your-server.de'
-    port: 443
-    uuid: '0c9ffc50-27ca-4346-8c7f-2cf5df458d9b'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1412'
-    type: vless
-    server: 'static.69.71.203.116.clients.your-server.de'
-    port: 8443
-    uuid: '11342716-3bff-4d01-859b-947352f58c5c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1413'
-    type: vless
-    server: 'kb0wzcjv.fekr-nakonam.ir'
-    port: 8443
-    uuid: '13bda8f2-02af-0001-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1414'
-    type: vless
-    server: 'ofjz337a.coreping.ir'
-    port: 8443
-    uuid: '13bda8f2-02af-0001-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1415'
-    type: vless
-    server: 'uqrxjbu.arvono.ir'
-    port: 2096
-    uuid: '13bda8f2-02af-0001-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1416'
-    type: vless
-    server: 'vis1h.filimino.ir'
-    port: 2053
-    uuid: '13bda8f2-02af-0003-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1417'
-    type: vless
-    server: 'qqx8x08.novarix.ir'
+    server: '94.103.168.62'
     port: 2087
-    uuid: '13bda8f2-02af-0004-a9b6-2dbc7f023ab5'
+    uuid: '92a188aa-2e86-4557-bd30-b2079a70f824'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+
+  - name: '🇯🇵 Japan · Y5HZ'
+    type: vless
+    server: 'djj.zjlo.top'
+    port: 23169
+    uuid: '7318caa1-93d1-4a9d-c481-504599902700'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
     client-fingerprint: 'chrome'
 
-  - name: '🇩🇪 Germany 1418'
+  - name: '🇨🇦 Canada · PVD7'
     type: vless
-    server: 'qqx8x08.novarix.ir'
-    port: 2087
-    uuid: '13bda8f2-02af-0005-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1419'
-    type: vless
-    server: 'kthnz7.novarix.ir'
-    port: 2087
-    uuid: '13bda8f2-02af-0006-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1420'
-    type: vless
-    server: 'lkog2j.rahat-bash.ir'
-    port: 2083
-    uuid: '13bda8f2-02af-0007-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1421'
-    type: vless
-    server: 'yr01i82b.starmizban.ir'
-    port: 2087
-    uuid: '13bda8f2-02af-0008-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1422'
-    type: vless
-    server: 'qopg3.blog-cloud.ir'
-    port: 2096
-    uuid: '13bda8f2-02af-0009-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1423'
-    type: vless
-    server: 'axa029.blog-cloud.ir'
-    port: 8443
-    uuid: '13bda8f2-02af-000a-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1424'
-    type: vless
-    server: 'axa029.blog-cloud.ir'
-    port: 8443
-    uuid: '13bda8f2-02af-000b-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1425'
-    type: vless
-    server: 'ybzjl.coreping.ir'
-    port: 2053
-    uuid: '13bda8f2-02af-000c-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1426'
-    type: vless
-    server: 'vis1h.filimino.ir'
-    port: 2083
-    uuid: '13bda8f2-02af-000d-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1427'
-    type: vless
-    server: 'itgq0l.moeinconsert.ir'
-    port: 2053
-    uuid: '13bda8f2-02af-000e-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1428'
-    type: vless
-    server: 'u0il4r.novarix.ir'
-    port: 8443
-    uuid: '13bda8f2-02af-000f-a9b6-2dbc7f023ab5'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1460'
-    type: vless
-    server: 'kthnz7.novarix.ir'
-    port: 2087
-    uuid: '18c6cf3b-5008-4ebd-b457-308912a9b43b'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1475'
-    type: vless
-    server: 'yaaz18p1.freeino.ir'
-    port: 2096
-    uuid: '27b53581-e75d-0004-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1476'
-    type: vless
-    server: 'itgq0l.moeinconsert.ir'
-    port: 2087
-    uuid: '27b53581-e75d-0005-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1477'
-    type: vless
-    server: 'qqx8x08.novarix.ir'
-    port: 2096
-    uuid: '27b53581-e75d-0006-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1478'
-    type: vless
-    server: 'ql1fwt.starmizban.ir'
-    port: 8443
-    uuid: '27b53581-e75d-0007-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1479'
-    type: vless
-    server: 'idhcecsc.rahat-bash.ir'
-    port: 2083
-    uuid: '27b53581-e75d-0008-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1480'
-    type: vless
-    server: 'r844f1vp.blog-cloud.ir'
-    port: 2087
-    uuid: '27b53581-e75d-0009-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1481'
-    type: vless
-    server: 'ybzjl.coreping.ir'
-    port: 8443
-    uuid: '27b53581-e75d-000a-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1482'
-    type: vless
-    server: 'qopg3.blog-cloud.ir'
-    port: 2087
-    uuid: '27b53581-e75d-000b-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1483'
-    type: vless
-    server: 'kbvum.filimino.ir'
-    port: 2096
-    uuid: '27b53581-e75d-000c-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1484'
-    type: vless
-    server: 'gez3xa.freeino.ir'
-    port: 2083
-    uuid: '27b53581-e75d-000d-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1485'
-    type: vless
-    server: 'itgq0l.moeinconsert.ir'
-    port: 2096
-    uuid: '27b53581-e75d-000f-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1486'
-    type: vless
-    server: 'axmmy.fekr-nakonam.ir'
-    port: 2083
-    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1487'
-    type: vless
-    server: 'qopg3.blog-cloud.ir'
-    port: 2087
-    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1488'
-    type: vless
-    server: 'xia1ali.starmizban.ir'
-    port: 2087
-    uuid: '27b53581-e75d-4026-ae31-785e30d7ee7c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1534'
-    type: vless
-    server: 'static.142.255.201.195.clients.your-server.de'
+    server: '66.163.113.9'
     port: 443
-    uuid: '3cd32e40-fadc-4250-ab5b-99200ed838be'
-    flow: 'xtls-rprx-vision'
+    uuid: '03fcc618-b93d-6796-6aed-8a38c975d581'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
 
-  - name: '🇩🇪 Germany 1535'
+  - name: '🇪🇪 Estonia · NGY1'
     type: vless
-    server: 'static.211.186.233.167.clients.your-server.de'
-    port: 443
-    uuid: '3cd32e40-fadc-4250-ab5b-99200ed838be'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1556'
-    type: vless
-    server: 'qopg3.blog-cloud.ir'
-    port: 2087
-    uuid: '427b4540-7d9f-0001-9854-a2914138f564'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1557'
-    type: vless
-    server: 'g13hlxh.freeino.ir'
+    server: '165.231.157.126'
     port: 8443
-    uuid: '427b4540-7d9f-0003-9854-a2914138f564'
+    uuid: '0173d52e-8e1b-4681-831e-11529677b72f'
     flow: 'xtls-rprx-vision'
     udp: true
     tls: true
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1558'
-    type: vless
-    server: 'jn0flist.moeinconsert.ir'
-    port: 2053
-    uuid: '427b4540-7d9f-40a0-9854-a2914138f564'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1559'
-    type: vless
-    server: 'n08nre2.arvono.ir'
-    port: 2053
-    uuid: '427b4540-7d9f-40a0-9854-a2914138f564'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1573'
-    type: vless
-    server: 'static.105.158.199.138.clients.your-server.de'
-    port: 443
-    uuid: '454df6b5-6bae-4a2b-b161-8c824614035c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1579'
-    type: vless
-    server: 'static.241.103.99.91.clients.your-server.de'
-    port: 8443
-    uuid: '4c4fb45f-03d3-4346-92b3-7b01e3d4de1b'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1649'
-    type: vless
-    server: 'static.152.3.18.78.clients.your-server.de'
-    port: 8443
-    uuid: '5c74ed1a-ea18-4c7b-930f-492f387d6f63'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1650'
-    type: vless
-    server: 'static.54.132.13.49.clients.your-server.de'
-    port: 8443
-    uuid: '5c74ed1a-ea18-4c7b-930f-492f387d6f63'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1651'
-    type: vless
-    server: 'static.69.71.203.116.clients.your-server.de'
-    port: 8443
-    uuid: '5c74ed1a-ea18-4c7b-930f-492f387d6f63'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1656'
-    type: vless
-    server: 'static.134.207.31.2.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1659'
-    type: vless
-    server: 'static.224.138.28.2.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1660'
-    type: vless
-    server: 'static.54.132.13.49.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1661'
-    type: vless
-    server: 'static.69.71.203.116.clients.your-server.de'
-    port: 8443
-    uuid: '601efa71-df4e-49d8-894a-a99038e94297'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1672'
-    type: vless
-    server: '185bd37129.salzivo.ir'
-    port: 443
-    uuid: '62bcf711-1ea8-4012-b889-54c3e0d26e9e'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1682'
-    type: vless
-    server: 'kbvum.filimino.ir'
-    port: 2087
-    uuid: '6863bed5-1550-0001-a391-f073f02e49b8'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1683'
-    type: vless
-    server: 'yaaz18p1.freeino.ir'
-    port: 2096
-    uuid: '6863bed5-1550-000e-a391-f073f02e49b8'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1684'
-    type: vless
-    server: 'hntk1dl9.fekr-nakonam.ir'
-    port: 8443
-    uuid: '69530f2b-9241-0001-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1685'
-    type: vless
-    server: 'r844f1vp.blog-cloud.ir'
-    port: 2053
-    uuid: '69530f2b-9241-0001-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1686'
-    type: vless
-    server: 'tfd8k0q0.filimino.ir'
-    port: 8443
-    uuid: '69530f2b-9241-0001-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1687'
-    type: vless
-    server: 'gez3xa.freeino.ir'
-    port: 8443
-    uuid: '69530f2b-9241-0003-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1688'
-    type: vless
-    server: 'svh6mg1p.moeinconsert.ir'
-    port: 8443
-    uuid: '69530f2b-9241-0004-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1689'
-    type: vless
-    server: 'v39r98u5.puoya.ir'
-    port: 2053
-    uuid: '69530f2b-9241-0005-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1690'
-    type: vless
-    server: 'vbvg79qy.puoya.ir'
-    port: 2083
-    uuid: '69530f2b-9241-0006-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1691'
-    type: vless
-    server: 'yr01i82b.starmizban.ir'
-    port: 2096
-    uuid: '69530f2b-9241-0007-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1692'
-    type: vless
-    server: 'idhcecsc.rahat-bash.ir'
-    port: 2096
-    uuid: '69530f2b-9241-0008-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1693'
-    type: vless
-    server: 'qopg3.blog-cloud.ir'
-    port: 2083
-    uuid: '69530f2b-9241-0009-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1694'
-    type: vless
-    server: 'ybzjl.coreping.ir'
-    port: 2053
-    uuid: '69530f2b-9241-000b-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1695'
-    type: vless
-    server: 'gez3xa.freeino.ir'
-    port: 8443
-    uuid: '69530f2b-9241-000d-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1696'
-    type: vless
-    server: 'phbj1ba0.filimino.ir'
-    port: 2096
-    uuid: '69530f2b-9241-000e-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1697'
-    type: vless
-    server: 'kthnz7.novarix.ir'
-    port: 2087
-    uuid: '69530f2b-9241-000f-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1698'
-    type: vless
-    server: 'itgq0l.moeinconsert.ir'
-    port: 8443
-    uuid: '69530f2b-9241-4475-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1699'
-    type: vless
-    server: 'r844f1vp.blog-cloud.ir'
-    port: 2096
-    uuid: '69530f2b-9241-4475-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1700'
-    type: vless
-    server: 'yaaz18p1.freeino.ir'
-    port: 2087
-    uuid: '69530f2b-9241-4475-98b1-9b6a6e99836d'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1709'
-    type: vless
-    server: '5.83.129.124'
-    port: 443
-    uuid: '6e98b5d4-0c33-4704-8c14-7c0dbeadde1c'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'http/1.1'
-    client-fingerprint: 'firefox'
-
-  - name: '🇩🇪 Germany 1710'
-    type: vless
-    server: 'static.104.7.18.78.clients.your-server.de'
-    port: 8443
-    uuid: '70233fed-70ef-42a4-ac9f-3a240e1298bb'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1711'
-    type: vless
-    server: 'static.152.3.18.78.clients.your-server.de'
-    port: 8443
-    uuid: '70233fed-70ef-42a4-ac9f-3a240e1298bb'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
-
-  - name: '🇩🇪 Germany 1775'
-    type: vless
-    server: 'n08nre2.arvono.ir'
-    port: 2083
-    uuid: '86519356-1488-4e91-85da-219744da7d9b'
-    flow: 'xtls-rprx-vision'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h2'
-      - 'http/1.1'
-    client-fingerprint: 'chrome'
+    client-fingerprint: 'safari'
 
 
 proxy-groups:
@@ -2532,193 +536,49 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇭🇰 Hong Kong 179'
-      - '🇭🇰 Hong Kong 266'
-      - '🇹🇼 Taiwan 059'
-      - '🇹🇼 Taiwan 111'
-      - '🇯🇵 Japan 287'
-      - '🇯🇵 Japan 297'
-      - '🇯🇵 Japan 299'
-      - '🇯🇵 Japan 300'
-      - '🇯🇵 Japan 304'
-      - '🇯🇵 Japan 309'
-      - '🇯🇵 Japan 310'
-      - '🇯🇵 Japan 349'
-      - '🇯🇵 Japan 442'
-      - '🇯🇵 Japan 481'
-      - '🇯🇵 Japan 519'
-      - '🇸🇬 Singapore 228'
-      - '🇸🇬 Singapore 229'
-      - '🇸🇬 Singapore 230'
-      - '🇸🇬 Singapore 231'
-      - '🇸🇬 Singapore 303'
-      - '🇸🇬 Singapore 350'
-      - '🇸🇬 Singapore 353'
-      - '🇸🇬 Singapore 363'
-      - '🇸🇬 Singapore 402'
-      - '🇸🇬 Singapore 425'
-      - '🇸🇬 Singapore 426'
-      - '🇸🇬 Singapore 436'
-      - '🇰🇷 South Korea 124'
-      - '🇰🇷 South Korea 147'
-      - '🇰🇷 South Korea 158'
-      - '🇺🇸 United States 1889'
-      - '🇺🇸 United States 1894'
-      - '🇺🇸 United States 1898'
-      - '🇺🇸 United States 1899'
-      - '🇺🇸 United States 1927'
-      - '🇺🇸 United States 1934'
-      - '🇺🇸 United States 2018'
-      - '🇺🇸 United States 2075'
-      - '🇺🇸 United States 2147'
-      - '🇺🇸 United States 2191'
-      - '🇺🇸 United States 2206'
-      - '🇺🇸 United States 2218'
-      - '🇺🇸 United States 2267'
-      - '🇺🇸 United States 2308'
-      - '🇺🇸 United States 2343'
-      - '🇺🇸 United States 2344'
-      - '🇺🇸 United States 2345'
-      - '🇺🇸 United States 2358'
-      - '🇺🇸 United States 2359'
-      - '🇺🇸 United States 2402'
-      - '🇺🇸 United States 2422'
-      - '🇺🇸 United States 2693'
-      - '🇺🇸 United States 2699'
-      - '🇺🇸 United States 2700'
-      - '🇺🇸 United States 2804'
-      - '🇺🇸 United States 2806'
-      - '🇺🇸 United States 2910'
-      - '🇺🇸 United States 2934'
-      - '🇺🇸 United States 2936'
-      - '🇺🇸 United States 2973'
-      - '🇺🇸 United States 3031'
-      - '🇩🇪 Germany 0449'
-      - '🇩🇪 Germany 0450'
-      - '🇩🇪 Germany 0451'
-      - '🇩🇪 Germany 0452'
-      - '🇩🇪 Germany 0455'
-      - '🇩🇪 Germany 0510'
-      - '🇩🇪 Germany 0523'
-      - '🇩🇪 Germany 0524'
-      - '🇩🇪 Germany 0557'
-      - '🇩🇪 Germany 0564'
-      - '🇩🇪 Germany 0603'
-      - '🇩🇪 Germany 0614'
-      - '🇩🇪 Germany 0631'
-      - '🇩🇪 Germany 0724'
-      - '🇩🇪 Germany 0727'
-      - '🇩🇪 Germany 0736'
-      - '🇩🇪 Germany 0745'
-      - '🇩🇪 Germany 0746'
-      - '🇩🇪 Germany 0747'
-      - '🇩🇪 Germany 0850'
-      - '🇩🇪 Germany 0852'
-      - '🇩🇪 Germany 0865'
-      - '🇩🇪 Germany 0866'
-      - '🇩🇪 Germany 0867'
-      - '🇩🇪 Germany 0881'
-      - '🇩🇪 Germany 0886'
-      - '🇩🇪 Germany 0899'
-      - '🇩🇪 Germany 0900'
-      - '🇩🇪 Germany 0902'
-      - '🇩🇪 Germany 0928'
-      - '🇩🇪 Germany 0943'
-      - '🇩🇪 Germany 0962'
-      - '🇩🇪 Germany 1032'
-      - '🇩🇪 Germany 1036'
-      - '🇩🇪 Germany 1044'
-      - '🇩🇪 Germany 1110'
-      - '🇩🇪 Germany 1134'
-      - '🇩🇪 Germany 1136'
-      - '🇩🇪 Germany 1138'
-      - '🇩🇪 Germany 1140'
-      - '🇩🇪 Germany 1142'
-      - '🇩🇪 Germany 1144'
-      - '🇩🇪 Germany 1146'
-      - '🇩🇪 Germany 1147'
-      - '🇩🇪 Germany 1149'
-      - '🇩🇪 Germany 1194'
-      - '🇩🇪 Germany 1196'
-      - '🇩🇪 Germany 1279'
-      - '🇩🇪 Germany 1320'
-      - '🇩🇪 Germany 1333'
-      - '🇩🇪 Germany 1337'
-      - '🇩🇪 Germany 1352'
-      - '🇩🇪 Germany 1354'
-      - '🇩🇪 Germany 1404'
-      - '🇩🇪 Germany 1405'
-      - '🇩🇪 Germany 1412'
-      - '🇩🇪 Germany 1413'
-      - '🇩🇪 Germany 1414'
-      - '🇩🇪 Germany 1415'
-      - '🇩🇪 Germany 1416'
-      - '🇩🇪 Germany 1417'
-      - '🇩🇪 Germany 1418'
-      - '🇩🇪 Germany 1419'
-      - '🇩🇪 Germany 1420'
-      - '🇩🇪 Germany 1421'
-      - '🇩🇪 Germany 1422'
-      - '🇩🇪 Germany 1423'
-      - '🇩🇪 Germany 1424'
-      - '🇩🇪 Germany 1425'
-      - '🇩🇪 Germany 1426'
-      - '🇩🇪 Germany 1427'
-      - '🇩🇪 Germany 1428'
-      - '🇩🇪 Germany 1460'
-      - '🇩🇪 Germany 1475'
-      - '🇩🇪 Germany 1476'
-      - '🇩🇪 Germany 1477'
-      - '🇩🇪 Germany 1478'
-      - '🇩🇪 Germany 1479'
-      - '🇩🇪 Germany 1480'
-      - '🇩🇪 Germany 1481'
-      - '🇩🇪 Germany 1482'
-      - '🇩🇪 Germany 1483'
-      - '🇩🇪 Germany 1484'
-      - '🇩🇪 Germany 1485'
-      - '🇩🇪 Germany 1486'
-      - '🇩🇪 Germany 1487'
-      - '🇩🇪 Germany 1488'
-      - '🇩🇪 Germany 1534'
-      - '🇩🇪 Germany 1535'
-      - '🇩🇪 Germany 1556'
-      - '🇩🇪 Germany 1557'
-      - '🇩🇪 Germany 1558'
-      - '🇩🇪 Germany 1559'
-      - '🇩🇪 Germany 1573'
-      - '🇩🇪 Germany 1579'
-      - '🇩🇪 Germany 1649'
-      - '🇩🇪 Germany 1650'
-      - '🇩🇪 Germany 1651'
-      - '🇩🇪 Germany 1656'
-      - '🇩🇪 Germany 1659'
-      - '🇩🇪 Germany 1660'
-      - '🇩🇪 Germany 1661'
-      - '🇩🇪 Germany 1672'
-      - '🇩🇪 Germany 1682'
-      - '🇩🇪 Germany 1683'
-      - '🇩🇪 Germany 1684'
-      - '🇩🇪 Germany 1685'
-      - '🇩🇪 Germany 1686'
-      - '🇩🇪 Germany 1687'
-      - '🇩🇪 Germany 1688'
-      - '🇩🇪 Germany 1689'
-      - '🇩🇪 Germany 1690'
-      - '🇩🇪 Germany 1691'
-      - '🇩🇪 Germany 1692'
-      - '🇩🇪 Germany 1693'
-      - '🇩🇪 Germany 1694'
-      - '🇩🇪 Germany 1695'
-      - '🇩🇪 Germany 1696'
-      - '🇩🇪 Germany 1697'
-      - '🇩🇪 Germany 1698'
-      - '🇩🇪 Germany 1699'
-      - '🇩🇪 Germany 1700'
-      - '🇩🇪 Germany 1709'
-      - '🇩🇪 Germany 1710'
-      - '🇩🇪 Germany 1711'
-      - '🇩🇪 Germany 1775'
+      - '🇫🇮 Finland · K28A'
+      - '🇫🇮 Finland · 8Q8X'
+      - '🇳🇱 Netherlands · AHME'
+      - '🇳🇱 Netherlands · F4B5'
+      - '🇳🇱 Netherlands · 8BZY'
+      - '🇳🇱 Netherlands · QKKM'
+      - '🇩🇪 Germany · FJGR'
+      - '🇵🇱 Poland · 2TY6'
+      - '🇯🇵 Japan · WZP8'
+      - '🇸🇬 Singapore · SAPX'
+      - '🇩🇪 Germany · J5XG'
+      - '🇸🇬 Singapore · 4266'
+      - '🇯🇵 Japan · A9RJ'
+      - '🇩🇪 Germany · YXSA'
+      - '🇹🇷 Turkey · B84Z'
+      - '🇹🇷 Turkey · 6G1V'
+      - '🇫🇮 Finland · 531Y'
+      - '🇩🇪 Germany · B2V9'
+      - '🇯🇵 Japan · KQ8A'
+      - '🇩🇪 Germany · N3TX'
+      - '🇸🇬 Singapore · 8AKP'
+      - '🇫🇮 Finland · 0KKZ'
+      - '🇵🇱 Poland · C66F'
+      - '🇵🇱 Poland · P0A5'
+      - '🇸🇬 Singapore · TVNC'
+      - '🇫🇮 Finland · JKK0'
+      - '🇵🇱 Poland · RPM8'
+      - '🇩🇪 Germany · 8YP4'
+      - '🇸🇬 Singapore · 6KVJ'
+      - '🇵🇱 Poland · ABBC'
+      - '🇳🇱 Netherlands · QEXF'
+      - '🇫🇮 Finland · 4J0W'
+      - '🇬🇧 United Kingdom · 32NY'
+      - '🇹🇷 Turkey · 9VQM'
+      - '🇩🇪 Germany · 463Z'
+      - '🇫🇮 Finland · GYRA'
+      - '🇺🇸 United States · 3ZCK'
+      - '🇩🇪 Germany · D809'
+      - '🇺🇸 United States · FDT3'
+      - '🇩🇪 Germany · AB2X'
+      - '🇯🇵 Japan · Y5HZ'
+      - '🇨🇦 Canada · PVD7'
+      - '🇪🇪 Estonia · NGY1'
 
 rules:
   - MATCH,Auto-Select
