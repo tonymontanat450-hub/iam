@@ -1,0 +1,171 @@
+proxies:
+  - name: 'US 🇺🇸 | @Raydikalx | 429BD9'
+    type: vless
+    server: 'adm.moshtaaf.ir'
+    port: 8008
+    uuid: '21fdc3f7-15fd-479b-b567-e19503508693'
+    encryption: 'mlkem768x25519plus.native.0rtt.ov5Niwwnd21E7pGZAG4hxDzSGAsGVV_k0pzvFjBH6VM'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    client-fingerprint: 'chrome'
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'CA 🇨🇦 | @Raydikalx | 50372C'
+    type: vless
+    server: 'cl.ultrrasound.com'
+    port: 2053
+    uuid: '247396b2-12d9-4744-8203-9cd761a1117a'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    ws-opts:
+      path: '/'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'SG 🇸🇬 | @Raydikalx | DB13B7'
+    type: vless
+    server: 'configfori.up.railway.app'
+    port: 443
+    uuid: '47d25a89-1535-40d4-b2ac-cb443d95b227'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    ws-opts:
+      path: '/Telegram2:@Configfori'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'SG 🇸🇬 | @Raydikalx | 8F0811'
+    type: vless
+    server: 'configfori.up.railway.app'
+    port: 443
+    uuid: 'a70646b9-a42b-48a9-80f6-a74e4eeb0d54'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    ws-opts:
+      path: '/Telegram2:@Configfori'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'SG 🇸🇬 | @Raydikalx | EA06D7'
+    type: vless
+    server: 'configfori3.up.railway.app'
+    port: 443
+    uuid: 'a78a95bd-7d15-4b09-ad7f-f1b77387e8e6'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    ws-opts:
+      path: '/Telegram2:@Configfori'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'SG 🇸🇬 | @Raydikalx | C7A650'
+    type: vless
+    server: 'adambarfi.up.railway.app'
+    port: 443
+    uuid: 'b3be45af-c907-4320-9532-614c8cef5953'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    ws-opts:
+      path: '/adambarfi2'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'SE 🇸🇪 | @Raydikalx | 487FAA'
+    type: vless
+    server: '13.51.184.77'
+    port: 8084
+    uuid: 'ba27cf53-6904-4f7e-924c-fb820aaf631a'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    ws-opts:
+      path: '/xk6ro'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+  - name: 'DE 🇩🇪 | @Raydikalx | 00B112'
+    type: vless
+    server: 'h.amirghmehdiat.ir'
+    port: 2087
+    uuid: 'df99649d-9ba7-436a-a04d-aa5ce992dcc7'
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    alpn:
+      - 'h2'
+      - 'http/1.1'
+    client-fingerprint: 'chrome'
+    ws-opts:
+      path: '/6113'
+      headers:
+        Host: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+      v2ray-http-upgrade: true
+      v2ray-http-upgrade-fast-open: true
+
+
+proxy-groups:
+  - name: Auto-Select
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 60
+    tolerance: 50
+    proxies:
+      - 'US 🇺🇸 | @Raydikalx | 429BD9'
+      - 'CA 🇨🇦 | @Raydikalx | 50372C'
+      - 'SG 🇸🇬 | @Raydikalx | DB13B7'
+      - 'SG 🇸🇬 | @Raydikalx | 8F0811'
+      - 'SG 🇸🇬 | @Raydikalx | EA06D7'
+      - 'SG 🇸🇬 | @Raydikalx | C7A650'
+      - 'SE 🇸🇪 | @Raydikalx | 487FAA'
+      - 'DE 🇩🇪 | @Raydikalx | 00B112'
+
+rules:
+  - MATCH,Auto-Select
