@@ -5,15 +5,15 @@ proxies:
     port: 42848
     password: '04920673-035c-410d-94e4-5b1469d3fb6f'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇰🇷 South Korea · FVJH'
+  - name: '🇰🇷 South Korea · BCKC'
     type: hysteria2
     server: '132.226.226.189'
     port: 50160
     password: '1671a252e2a97dc2bda4e515475931da'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇰🇷 South Korea · DZQ5'
     type: hysteria2
@@ -21,23 +21,15 @@ proxies:
     port: 50160
     password: '1beb216e3f60aea9555dae60d219a5ca'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇫🇮 Finland · S04A'
+  - name: '🇰🇷 South Korea · YSKH'
     type: hysteria2
-    server: '94.183.164.119'
-    port: 24433
-    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇨🇭 Switzerland · 4BZ6'
-    type: hysteria2
-    server: '140.238.213.114'
+    server: '152.69.231.175'
     port: 50160
-    password: '84a506ca5aca505696a454d828420b3f'
+    password: '1beb216e3f60aea9555dae60d219a5ca'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇳🇱 Netherlands · VGH3'
     type: hysteria2
@@ -45,47 +37,47 @@ proxies:
     port: 54706
     password: 'Cqx5aT9Zux'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇫🇷 France · 8XKK'
+  - name: '🇹🇼 Taiwan · BVVS'
     type: hysteria2
-    server: '13.36.234.11'
+    server: '103.115.109.49'
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇹🇼 Taiwan · 0X9G'
+  - name: '🇹🇼 Taiwan · VX3Q'
     type: hysteria2
     server: '160.187.100.109'
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇭🇰 Hong Kong SAR China · RKC2'
+  - name: '🇭🇰 Hong Kong SAR China · 8FKB'
     type: hysteria2
     server: '202.146.222.174'
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇭🇰 Hong Kong SAR China · 0YNC'
+  - name: '🇭🇰 Hong Kong SAR China · HGXF'
     type: hysteria2
     server: '202.146.222.89'
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇹🇼 Taiwan · BY5J'
+  - name: '🇹🇼 Taiwan · Z91R'
     type: hysteria2
     server: 'vpn-tw-002.fastervpn.world'
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇳🇱 Netherlands · E4CJ'
     type: hysteria2
@@ -93,7 +85,7 @@ proxies:
     port: 8443
     password: 'HowdyHysteria2023w0W'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'HysteriaHowdy'
 
@@ -103,7 +95,7 @@ proxies:
     port: 50160
     password: 'b0917015b656b3dd2286b5633af0c5c1'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇦🇺 Australia · 9WKQ'
     type: hysteria2
@@ -111,25 +103,9 @@ proxies:
     port: 20000
     password: 'b42d90fa667942aebc734d60'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'b42d90fa667942aebc734d60'
-
-  - name: '🇱🇹 Lithuania · S76F'
-    type: hysteria2
-    server: '88.119.176.49'
-    port: 443
-    password: 'c0742f77-5495-43bf-b007-88d368774d7c'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇳🇱 Netherlands · CC4M'
-    type: hysteria2
-    server: '50.7.38.243'
-    port: 443
-    password: 'd4ca9415f0eac7897472e1e5b86d2e96'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: '🇫🇷 France · QAXD'
     type: hysteria2
@@ -137,31 +113,23 @@ proxies:
     port: 22000
     password: 'dongtaiwang.com'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇷🇴 Romania · ZPG0'
+  - name: '🇸🇬 Singapore · VYA3'
     type: hysteria2
-    server: '185.156.44.99'
+    server: '138.2.73.238'
+    port: 50160
+    password: 'f87376e17da040ed04c9665ce8972930'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · WG73'
+    type: hysteria2
+    server: '5.129.235.85'
     port: 443
     password: 'gf1:gfhysteria2024'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States · A4DP'
-    type: hysteria2
-    server: '66.94.121.46'
-    port: 443
-    password: 'gf1:gfhysteria2024'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇰🇷 South Korea · 0QBN'
-    type: hysteria2
-    server: '152.70.237.123'
-    port: 2053
-    password: 'maintell'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇯🇵 Japan · VPT8'
     type: hysteria2
@@ -169,7 +137,7 @@ proxies:
     port: 443
     password: 'usqmqUKJFIlCmvkCNSY64L3k'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇳🇱 Netherlands · NN26'
     type: hysteria2
@@ -177,15 +145,7 @@ proxies:
     port: 443
     password: '162be7b9-eb38-4f74-b836-96afc49ae452'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇰🇷 South Korea · 1TC8'
-    type: hysteria2
-    server: '152.69.231.175'
-    port: 50160
-    password: '1beb216e3f60aea9555dae60d219a5ca'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · AY23'
     type: hysteria2
@@ -193,15 +153,7 @@ proxies:
     port: 8443
     password: '4afd4e1b1b0edd429b10d800a1cf64a7'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇳🇱 Netherlands · G2R8'
-    type: hysteria2
-    server: '94.183.164.119'
-    port: 24414
-    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · GNV0'
     type: hysteria2
@@ -209,7 +161,7 @@ proxies:
     port: 443
     password: '7ltdv0p-ThUzWHLNKwejOnmWRVfgq7gswzL34GP_7n8'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · BSRV'
     type: hysteria2
@@ -217,7 +169,7 @@ proxies:
     port: 443
     password: '7ltdv0p-ThUzWHLNKwejOnmWRVfgq7gswzL34GP_7n8'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · SJ6W'
     type: hysteria2
@@ -225,7 +177,7 @@ proxies:
     port: 443
     password: '8dOHZ13sx33R1/PQbhTK/w=='
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇬🇧 United Kingdom · FBK5'
     type: hysteria2
@@ -233,7 +185,7 @@ proxies:
     port: 13337
     password: '900c8c92-1979-4c7c-8f2f-63e87d53d8fe'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇫🇷 France · SA2F'
     type: hysteria2
@@ -241,7 +193,17 @@ proxies:
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · 7WWGCA'
+    type: hysteria2
+    server: 'hysteria.udpgw.com'
+    port: 8443
+    password: 'HowdyHysteria2023w0W'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+    obfs: salamander
+    obfs-password: 'HysteriaHowdy'
 
   - name: '🇺🇸 United States · N22G'
     type: hysteria2
@@ -249,7 +211,7 @@ proxies:
     port: 443
     password: 'PEisy6m-98HcX1TWZt0yXiCS7jRZG4IzKQTXo6k1qb4'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇸🇬 Singapore · Z4T8'
     type: hysteria2
@@ -257,7 +219,7 @@ proxies:
     port: 8443
     password: 'WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · J56V'
     type: hysteria2
@@ -265,19 +227,9 @@ proxies:
     port: 443
     password: 'YV1sd3tfCZngTtnvRmy7'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'ZuPf4OcXKvotJdDxlTus'
-
-  - name: '🇳🇱 Netherlands · V8VP'
-    type: hysteria2
-    server: '51.15.16.68'
-    port: 8444
-    password: 'capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: 'HVD1C0uyo38mMz8B'
 
   - name: '🇺🇸 United States · JBZW'
     type: hysteria2
@@ -285,7 +237,17 @@ proxies:
     port: 23456
     password: 'dongtaiwang.com'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇭🇰 Hong Kong SAR China · 9TWR'
+    type: hysteria2
+    server: '152.32.254.68'
+    port: 5010
+    password: 'eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+    obfs: salamander
+    obfs-password: '7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9'
 
   - name: '🇺🇸 United States · 15WB'
     type: hysteria2
@@ -293,15 +255,7 @@ proxies:
     port: 8443
     password: 'fce629d692a7b1ad71a17dae29d8b3c6'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇳🇱 Netherlands · Y6C5'
-    type: hysteria2
-    server: '5.129.235.85'
-    port: 443
-    password: 'gf1:gfhysteria2024'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇦🇺 Australia · 1T8C'
     type: hysteria2
@@ -309,7 +263,15 @@ proxies:
     port: 36712
     password: 'linlin-2026'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇦🇺 Australia · FRAR'
+    type: hysteria2
+    server: '13.55.52.44'
+    port: 36712
+    password: 'linlin-2026'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
 
   - name: '🇦🇺 Australia · P50V'
     type: hysteria2
@@ -317,7 +279,7 @@ proxies:
     port: 36712
     password: 'linlin-2026'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇰🇿 Kazakhstan · 3V9D'
     type: hysteria2
@@ -325,7 +287,7 @@ proxies:
     port: 15443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · 2938'
     type: hysteria2
@@ -333,7 +295,7 @@ proxies:
     port: 14443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
 
@@ -343,7 +305,7 @@ proxies:
     port: 15443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
 
@@ -353,7 +315,7 @@ proxies:
     port: 9443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
 
@@ -363,7 +325,7 @@ proxies:
     port: 443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
 
@@ -373,7 +335,7 @@ proxies:
     port: 9443
     password: 'np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇬🇧 United Kingdom · 901A'
     type: hysteria2
@@ -381,7 +343,7 @@ proxies:
     port: 443
     password: 'np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇰🇷 South Korea · YFNS'
     type: hysteria2
@@ -389,23 +351,15 @@ proxies:
     port: 50160
     password: '9cfc9458e48c028ec03ff86ebc71c744'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇺🇸 United States · FK5H'
+  - name: '🇨🇭 Switzerland · JNJT'
     type: hysteria2
-    server: 'starlink-ft.251313.xyz'
-    port: 443
-    password: 'https://xship.2fa.cat'
+    server: '140.238.213.114'
+    port: 50160
+    password: '84a506ca5aca505696a454d828420b3f'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇭🇰 Hong Kong SAR China · E7YD'
-    type: hysteria2
-    server: 'hk2.5yunapi.buzz'
-    port: 13212
-    password: 'ec374b01-8dba-48dc-aa9d-b23cb6b2e694'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇬🇧 United Kingdom · AQ46'
     type: hysteria2
@@ -413,37 +367,17 @@ proxies:
     port: 13337
     password: '900c8c92-1979-4c7c-8f2f-63e87d53d8fe'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇩🇪 Germany · Q7C5'
+  - name: '🇩🇪 Germany · QW5C'
     type: hysteria2
     server: '179.61.138.145'
     port: 36264
     password: 'vpNJEy'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'Telegram@vpnjey'
-
-  - name: '🇺🇸 United States · AT1R'
-    type: hysteria2
-    server: 'link-v1.via-x.ru'
-    port: 8445
-    password: '688d05790b544bf2bd6be3e7b1dc31b6'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-    obfs: salamander
-    obfs-password: 'mmnn3ws0yrmsouwn'
-
-  - name: '🇵🇱 Poland · FP8S'
-    type: hysteria2
-    server: '136.148.83.69'
-    port: 443
-    password: '87bb2ac4-b7a1-0001-b11d-2107709ea6cb'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: '🇯🇵 Japan · ZDNR'
     type: hysteria2
@@ -451,7 +385,31 @@ proxies:
     port: 443
     password: '36187bef1c708c82fd4099b9d70116ffd8c0f1f5bfd19cbb319eeb67899714f6'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇫🇮 Finland · 7C0N'
+    type: hysteria2
+    server: '136.148.83.69'
+    port: 443
+    password: '87bb2ac4-b7a1-0001-b11d-2107709ea6cb'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇰🇷 South Korea · CVGG'
+    type: hysteria2
+    server: '152.67.200.82'
+    port: 50160
+    password: '3d7634af8cb2c6cb4bac1c0efad8b43d'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇫🇮 Finland · ZEBZ'
+    type: hysteria2
+    server: '94.183.164.119'
+    port: 24433
+    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
 
   - name: '🇬🇧 United Kingdom · MBKR'
     type: hysteria2
@@ -459,15 +417,15 @@ proxies:
     port: 13337
     password: '900c8c92-1979-4c7c-8f2f-63e87d53d8fe'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇰🇷 South Korea · M0MJ'
+  - name: '🇫🇷 France · WB8F'
     type: hysteria2
-    server: '152.67.200.82'
-    port: 50160
-    password: '3d7634af8cb2c6cb4bac1c0efad8b43d'
+    server: '13.36.234.11'
+    port: 443
+    password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇬🇧 United Kingdom · N388'
     type: hysteria2
@@ -475,17 +433,9 @@ proxies:
     port: 13337
     password: '900c8c92-1979-4c7c-8f2f-63e87d53d8fe'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
-
-  - name: '🇦🇺 Australia · B018'
-    type: hysteria2
-    server: '13.55.52.44'
-    port: 36712
-    password: 'linlin-2026'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: '🇫🇷 France · 6C18'
     type: hysteria2
@@ -493,17 +443,15 @@ proxies:
     port: 60111
     password: 'github.com/Alvin9999-newpac/fanqiang'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇦🇺 Australia · 0FHX'
+  - name: '🇷🇴 Romania · PVH9'
     type: hysteria2
-    server: '159.13.55.48'
-    port: 20000
-    password: 'b42d90fa667942aebc734d60'
+    server: '185.156.44.99'
+    port: 443
+    password: 'gfhysteria2024'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: 'b42d90fa667942aebc734d60'
+    sni: 'googleapis.com'
 
   - name: '🇳🇱 Netherlands · X7TT'
     type: hysteria2
@@ -511,17 +459,9 @@ proxies:
     port: 8445
     password: 'moJK4Js1rEdUv1eWIqyjX1QB'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'HVD1C0uyo38mMz8B'
-
-  - name: '🇺🇸 United States · 90X9'
-    type: hysteria2
-    server: '38.76.150.108'
-    port: 36712
-    password: 'AIcYjw5Oc9Rrrr9SGDUBbBIC'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
   - name: '🇺🇸 United States · DQ4F'
     type: hysteria2
@@ -529,23 +469,7 @@ proxies:
     port: 443
     password: 'PEisy6m-98HcX1TWZt0yXiCS7jRZG4IzKQTXo6k1qb4'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇳🇱 Netherlands · 411P'
-    type: hysteria2
-    server: '212.34.137.105'
-    port: 443
-    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇳🇱 Netherlands · SW69'
-    type: hysteria2
-    server: 'promo.betust.net'
-    port: 443
-    password: 'd4ca9415f0eac7897472e1e5b86d2e96'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇰🇷 South Korea · APXZ'
     type: hysteria2
@@ -553,23 +477,49 @@ proxies:
     port: 7788
     password: 'c8aa4ba6a243ddfdeb67515aa849624b'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇯🇵 Japan · YVMY'
+  - name: '🇳🇱 Netherlands · Y81K'
     type: hysteria2
-    server: '129.225.181.46'
-    port: 8443
-    password: 'oracle_hy2_pass_2026'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇹🇼 Taiwan · Q0NK'
-    type: hysteria2
-    server: '103.115.109.49'
+    server: '50.7.38.243'
     port: 443
-    password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
+    password: 'd4ca9415f0eac7897472e1e5b86d2e96'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · 93BG'
+    type: hysteria2
+    server: '212.34.137.105'
+    port: 443
+    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+    alpn:
+      - 'h3'
+
+  - name: '🇫🇷 France · ERZY'
+    type: hysteria2
+    server: '62.210.147.2'
+    port: 43115
+    password: 'github.com/Alvin9999-newpac/fanqiang'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · 3XEZ'
+    type: hysteria2
+    server: '94.183.164.119'
+    port: 24414
+    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇰🇷 South Korea · RQCY'
+    type: hysteria2
+    server: '152.70.237.123'
+    port: 2053
+    password: 'maintell'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
 
   - name: '🇨🇭 Switzerland · 9E42'
     type: hysteria2
@@ -577,7 +527,7 @@ proxies:
     port: 443
     password: '3a702d4d1de4949005d8431220e040fb'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: 'c13f29db6a638ad2b211b9ce2669ef27'
 
@@ -587,75 +537,17 @@ proxies:
     port: 443
     password: 'd042d150716709bb778cc73889cddb02'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: '309502c4a8df10b46fb976d4a8c43f42'
 
-  - name: '🇭🇰 Hong Kong SAR China · N9C4'
+  - name: '🇺🇸 United States · S00V'
     type: hysteria2
-    server: '24.233.8.109'
-    port: 443
-    password: '8294f130408299df8cab08c80bf6f819'
+    server: '38.76.150.108'
+    port: 36712
+    password: 'AIcYjw5Oc9Rrrr9SGDUBbBIC'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: 'c8827ab99e316c5bd414e21afa915ddf'
-
-  - name: '🇭🇰 Hong Kong SAR China · KM4N'
-    type: hysteria2
-    server: '152.32.254.68'
-    port: 5010
-    password: 'eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: '7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9'
-
-  - name: '🇧🇷 Brazil · 5QJ0'
-    type: hysteria2
-    server: '150.230.229.100'
-    port: 20000
-    password: 'CyG0RFxMjzs41uQD4OLuHQ=='
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: 'CyG0RFxMjzs41uQD4OLuHQ=='
-
-  - name: '🇭🇰 Hong Kong SAR China · 0ZP8'
-    type: hysteria2
-    server: 'vpn-hk-004.fastervpn.world'
-    port: 443
-    password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇺🇸 United States · 905Y'
-    type: hysteria2
-    server: '48.102.214.171'
-    port: 4444
-    password: 'a35c508f-4d5d-4531-842e-6e9d43c762c0'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: '🇭🇰 Hong Kong SAR China · N12V'
-    type: hysteria2
-    server: '23.141.172.229'
-    port: 50541
-    password: 'ePPsH1bMFD'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    alpn:
-      - 'h3'
-      - 'h2'
-      - 'http/1.1'
-
-  - name: '🇫🇷 France · 1JSA'
-    type: hysteria2
-    server: '62.210.147.2'
-    port: 43115
-    password: 'github.com/Alvin9999-newpac/fanqiang'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · FD99'
     type: hysteria2
@@ -663,33 +555,33 @@ proxies:
     port: 14443
     password: 'lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf:np2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇳🇱 Netherlands · 05KS'
+  - name: '🇭🇰 Hong Kong SAR China · 2TPM'
     type: hysteria2
-    server: 'hysteria.udpgw.com'
-    port: 8443
-    password: 'HowdyHysteria2023w0W'
-    skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-    obfs: salamander
-    obfs-password: 'HysteriaHowdy'
-
-  - name: '🇱🇻 Latvia · PMHB'
-    type: hysteria2
-    server: '4f070970.con.metricdraft.tech'
+    server: 'vpn-hk-004.fastervpn.world'
     port: 443
-    password: '030e421e-9317-4cb8-8fbe-a07a565ad3db'
+    password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇳🇱 Netherlands · Q6YW'
+  - name: '🇳🇱 Netherlands · KRV6'
     type: hysteria2
-    server: '94.183.164.119'
-    port: 24403
-    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
+    server: '51.15.16.68'
+    port: 8444
+    password: 'moJK4Js1rEdUv1eWIqyjX1QB'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+    obfs: salamander
+    obfs-password: 'HVD1C0uyo38mMz8B'
+
+  - name: '🇺🇸 United States · A78Y'
+    type: hysteria2
+    server: 'starlink-ft.251313.xyz'
+    port: 443
+    password: 'https://xship.2fa.cat'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
 
   - name: '🇺🇸 United States · 47XH'
     type: hysteria2
@@ -697,15 +589,17 @@ proxies:
     port: 8443
     password: '0b396097d052915ef304b40d2bda6a2d'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
-  - name: '🇸🇬 Singapore · 692A'
+  - name: '🇧🇷 Brazil · Q2VT'
     type: hysteria2
-    server: '138.2.73.238'
-    port: 50160
-    password: 'f87376e17da040ed04c9665ce8972930'
+    server: '150.230.229.100'
+    port: 20000
+    password: 'CyG0RFxMjzs41uQD4OLuHQ=='
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+    obfs: salamander
+    obfs-password: 'CyG0RFxMjzs41uQD4OLuHQ=='
 
   - name: '🇸🇬 Singapore · 90KN'
     type: hysteria2
@@ -713,7 +607,43 @@ proxies:
     port: 443
     password: 'qQe1z5kU8kN6SlKnDt9Ru3Qp'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇯🇵 Japan · NM7A'
+    type: hysteria2
+    server: '129.225.181.46'
+    port: 8443
+    password: 'oracle_hy2_pass_2026'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · 8DMP'
+    type: hysteria2
+    server: 'promo.betust.net'
+    port: 443
+    password: 'd4ca9415f0eac7897472e1e5b86d2e96'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇭🇰 Hong Kong SAR China · DC45'
+    type: hysteria2
+    server: '23.141.172.229'
+    port: 50541
+    password: 'ePPsH1bMFD'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+    alpn:
+      - 'h3'
+      - 'h2'
+      - 'http/1.1'
+
+  - name: '🇺🇸 United States · 9GCF'
+    type: hysteria2
+    server: '66.94.121.46'
+    port: 443
+    password: 'gf1:gfhysteria2024'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
 
   - name: '🇦🇺 Australia · CDW2'
     type: hysteria2
@@ -721,7 +651,7 @@ proxies:
     port: 443
     password: '633bc3be486b646190661ac2387c150a'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     obfs: salamander
     obfs-password: '850a3fb1cd33a28f12d837578ae1a2e7'
 
@@ -731,7 +661,25 @@ proxies:
     port: 50160
     password: 'f25f19f29ce3fb53a35bf1b35b452a43'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
+
+  - name: '🇳🇱 Netherlands · SW9Y'
+    type: hysteria2
+    server: '94.183.164.119'
+    port: 24403
+    password: '549766c3-fa5f-471e-8031-ffc1f8d5064f'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+
+  - name: '🇭🇰 Hong Kong SAR China · 8YEK'
+    type: hysteria2
+    server: '24.233.8.109'
+    port: 443
+    password: '8294f130408299df8cab08c80bf6f819'
+    skip-cert-verify: true
+    sni: 'googleapis.com'
+    obfs: salamander
+    obfs-password: 'c8827ab99e316c5bd414e21afa915ddf'
 
   - name: '🇳🇱 Netherlands · YEGJ'
     type: hysteria2
@@ -739,7 +687,7 @@ proxies:
     port: 42848
     password: '04920673-035c-410d-94e4-5b1469d3fb6f'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
     alpn:
       - 'h3'
 
@@ -749,7 +697,7 @@ proxies:
     port: 8443
     password: 'u63SxILNwtrQZ7Y1ZrFaZfsA'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
   - name: '🇭🇰 Hong Kong SAR China · N8BV'
     type: hysteria2
@@ -757,7 +705,7 @@ proxies:
     port: 443
     password: 'H7mP2xY9kJ4nQ8wR5tF6vB3z'
     skip-cert-verify: true
-    sni: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+    sni: 'googleapis.com'
 
 
 proxy-groups:
@@ -768,43 +716,38 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇳🇱 Netherlands · YW7T'
-      - '🇰🇷 South Korea · FVJH'
+      - '🇰🇷 South Korea · BCKC'
       - '🇰🇷 South Korea · DZQ5'
-      - '🇫🇮 Finland · S04A'
-      - '🇨🇭 Switzerland · 4BZ6'
+      - '🇰🇷 South Korea · YSKH'
       - '🇳🇱 Netherlands · VGH3'
-      - '🇫🇷 France · 8XKK'
-      - '🇹🇼 Taiwan · 0X9G'
-      - '🇭🇰 Hong Kong SAR China · RKC2'
-      - '🇭🇰 Hong Kong SAR China · 0YNC'
-      - '🇹🇼 Taiwan · BY5J'
+      - '🇹🇼 Taiwan · BVVS'
+      - '🇹🇼 Taiwan · VX3Q'
+      - '🇭🇰 Hong Kong SAR China · 8FKB'
+      - '🇭🇰 Hong Kong SAR China · HGXF'
+      - '🇹🇼 Taiwan · Z91R'
       - '🇳🇱 Netherlands · E4CJ'
       - '🇭🇰 Hong Kong SAR China · HJ1M'
       - '🇦🇺 Australia · 9WKQ'
-      - '🇱🇹 Lithuania · S76F'
-      - '🇳🇱 Netherlands · CC4M'
       - '🇫🇷 France · QAXD'
-      - '🇷🇴 Romania · ZPG0'
-      - '🇺🇸 United States · A4DP'
-      - '🇰🇷 South Korea · 0QBN'
+      - '🇸🇬 Singapore · VYA3'
+      - '🇳🇱 Netherlands · WG73'
       - '🇯🇵 Japan · VPT8'
       - '🇳🇱 Netherlands · NN26'
-      - '🇰🇷 South Korea · 1TC8'
       - '🇺🇸 United States · AY23'
-      - '🇳🇱 Netherlands · G2R8'
       - '🇺🇸 United States · GNV0'
       - '🇺🇸 United States · BSRV'
       - '🇺🇸 United States · SJ6W'
       - '🇬🇧 United Kingdom · FBK5'
       - '🇫🇷 France · SA2F'
+      - '🇳🇱 Netherlands · 7WWGCA'
       - '🇺🇸 United States · N22G'
       - '🇸🇬 Singapore · Z4T8'
       - '🇺🇸 United States · J56V'
-      - '🇳🇱 Netherlands · V8VP'
       - '🇺🇸 United States · JBZW'
+      - '🇭🇰 Hong Kong SAR China · 9TWR'
       - '🇺🇸 United States · 15WB'
-      - '🇳🇱 Netherlands · Y6C5'
       - '🇦🇺 Australia · 1T8C'
+      - '🇦🇺 Australia · FRAR'
       - '🇦🇺 Australia · P50V'
       - '🇰🇿 Kazakhstan · 3V9D'
       - '🇺🇸 United States · 2938'
@@ -814,45 +757,44 @@ proxy-groups:
       - '🇵🇱 Poland · GKBJ'
       - '🇬🇧 United Kingdom · 901A'
       - '🇰🇷 South Korea · YFNS'
-      - '🇺🇸 United States · FK5H'
-      - '🇭🇰 Hong Kong SAR China · E7YD'
+      - '🇨🇭 Switzerland · JNJT'
       - '🇬🇧 United Kingdom · AQ46'
-      - '🇩🇪 Germany · Q7C5'
-      - '🇺🇸 United States · AT1R'
-      - '🇵🇱 Poland · FP8S'
+      - '🇩🇪 Germany · QW5C'
       - '🇯🇵 Japan · ZDNR'
+      - '🇫🇮 Finland · 7C0N'
+      - '🇰🇷 South Korea · CVGG'
+      - '🇫🇮 Finland · ZEBZ'
       - '🇬🇧 United Kingdom · MBKR'
-      - '🇰🇷 South Korea · M0MJ'
+      - '🇫🇷 France · WB8F'
       - '🇬🇧 United Kingdom · N388'
-      - '🇦🇺 Australia · B018'
       - '🇫🇷 France · 6C18'
-      - '🇦🇺 Australia · 0FHX'
+      - '🇷🇴 Romania · PVH9'
       - '🇳🇱 Netherlands · X7TT'
-      - '🇺🇸 United States · 90X9'
       - '🇺🇸 United States · DQ4F'
-      - '🇳🇱 Netherlands · 411P'
-      - '🇳🇱 Netherlands · SW69'
       - '🇰🇷 South Korea · APXZ'
-      - '🇯🇵 Japan · YVMY'
-      - '🇹🇼 Taiwan · Q0NK'
+      - '🇳🇱 Netherlands · Y81K'
+      - '🇳🇱 Netherlands · 93BG'
+      - '🇫🇷 France · ERZY'
+      - '🇳🇱 Netherlands · 3XEZ'
+      - '🇰🇷 South Korea · RQCY'
       - '🇨🇭 Switzerland · 9E42'
       - '🇸🇬 Singapore · J5KY'
-      - '🇭🇰 Hong Kong SAR China · N9C4'
-      - '🇭🇰 Hong Kong SAR China · KM4N'
-      - '🇧🇷 Brazil · 5QJ0'
-      - '🇭🇰 Hong Kong SAR China · 0ZP8'
-      - '🇺🇸 United States · 905Y'
-      - '🇭🇰 Hong Kong SAR China · N12V'
-      - '🇫🇷 France · 1JSA'
+      - '🇺🇸 United States · S00V'
       - '🇺🇸 United States · FD99'
-      - '🇳🇱 Netherlands · 05KS'
-      - '🇱🇻 Latvia · PMHB'
-      - '🇳🇱 Netherlands · Q6YW'
+      - '🇭🇰 Hong Kong SAR China · 2TPM'
+      - '🇳🇱 Netherlands · KRV6'
+      - '🇺🇸 United States · A78Y'
       - '🇺🇸 United States · 47XH'
-      - '🇸🇬 Singapore · 692A'
+      - '🇧🇷 Brazil · Q2VT'
       - '🇸🇬 Singapore · 90KN'
+      - '🇯🇵 Japan · NM7A'
+      - '🇳🇱 Netherlands · 8DMP'
+      - '🇭🇰 Hong Kong SAR China · DC45'
+      - '🇺🇸 United States · 9GCF'
       - '🇦🇺 Australia · CDW2'
       - '🇮🇱 Israel · JCJW'
+      - '🇳🇱 Netherlands · SW9Y'
+      - '🇭🇰 Hong Kong SAR China · 8YEK'
       - '🇳🇱 Netherlands · YEGJ'
       - '🇯🇵 Japan · TJ5P'
       - '🇭🇰 Hong Kong SAR China · N8BV'
