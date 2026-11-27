@@ -35,7 +35,19 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'BR 🇧🇷 | @Raydikalx | AC00FD'
+  - name: 'Global 🌐 | @Raydikalx | 2D9F19'
+    type: vmess
+    server: 'leviko-se4660.shopingggg.ir'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'BR 🇧🇷 | @Raydikalx | FAD30E'
     type: vmess
     server: '103.14.27.207'
     port: 1270
@@ -47,7 +59,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'BR 🇧🇷 | @Raydikalx | 0248DF'
+  - name: 'BR 🇧🇷 | @Raydikalx | C6343E'
     type: vmess
     server: '103.88.232.55'
     port: 1270
@@ -242,6 +254,18 @@ proxies:
   - name: 'GB 🇬🇧 | @Raydikalx | 3E5525'
     type: vmess
     server: '149.7.16.228'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'SG 🇸🇬 | @Raydikalx | 102918'
+    type: vmess
+    server: '149.88.107.51'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -578,6 +602,18 @@ proxies:
   - name: 'US 🇺🇸 | @Raydikalx | F20B38'
     type: vmess
     server: '172.111.36.147'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: 'US 🇺🇸 | @Raydikalx | 8186DD'
+    type: vmess
+    server: '172.111.36.244'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -2171,6 +2207,18 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
+  - name: 'AT 🇦🇹 | @Raydikalx | 9D9778'
+    type: vmess
+    server: 'leviko-at0752.shopingggg.ir'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
   - name: 'AT 🇦🇹 | @Raydikalx | 2698AA'
     type: vmess
     server: 'leviko-at1137.shopingggg.ir'
@@ -2291,9 +2339,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'SE 🇸🇪 | @Raydikalx | A4FE74'
+  - name: 'SE 🇸🇪 | @Raydikalx | 03C877'
     type: vmess
-    server: 'leviko-se4660.shopingggg.ir'
+    server: 'leviko-se3307.shopingggg.ir'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -2494,8 +2542,9 @@ proxy-groups:
       - 'CH 🇨🇭 | @Raydikalx | 6EFC55'
       - 'FR 🇫🇷 | @Raydikalx | DE1715'
       - 'FR 🇫🇷 | @Raydikalx | B2E9CA'
-      - 'BR 🇧🇷 | @Raydikalx | AC00FD'
-      - 'BR 🇧🇷 | @Raydikalx | 0248DF'
+      - 'Global 🌐 | @Raydikalx | 2D9F19'
+      - 'BR 🇧🇷 | @Raydikalx | FAD30E'
+      - 'BR 🇧🇷 | @Raydikalx | C6343E'
       - 'FI 🇫🇮 | @Raydikalx | 73E7AD'
       - 'FI 🇫🇮 | @Raydikalx | EB3982'
       - 'FI 🇫🇮 | @Raydikalx | EA10F4'
@@ -2512,6 +2561,7 @@ proxy-groups:
       - 'IT 🇮🇹 | @Raydikalx | 69687A'
       - 'IT 🇮🇹 | @Raydikalx | 493370'
       - 'GB 🇬🇧 | @Raydikalx | 3E5525'
+      - 'SG 🇸🇬 | @Raydikalx | 102918'
       - 'SG 🇸🇬 | @Raydikalx | 0335AF'
       - 'NL 🇳🇱 | @Raydikalx | 4C87F9'
       - 'AT 🇦🇹 | @Raydikalx | A7B16C'
@@ -2540,6 +2590,7 @@ proxy-groups:
       - 'US 🇺🇸 | @Raydikalx | 9F6087'
       - 'US 🇺🇸 | @Raydikalx | D87097'
       - 'US 🇺🇸 | @Raydikalx | F20B38'
+      - 'US 🇺🇸 | @Raydikalx | 8186DD'
       - 'US 🇺🇸 | @Raydikalx | D00A4C'
       - 'US 🇺🇸 | @Raydikalx | F92BF6'
       - 'FR 🇫🇷 | @Raydikalx | 779CB4'
@@ -2672,6 +2723,7 @@ proxy-groups:
       - 'IR 🇮🇷 | @Raydikalx | 2A81EA'
       - 'IR 🇮🇷 | @Raydikalx | C110DF'
       - 'JP 🇯🇵 | @Raydikalx | 3812CF'
+      - 'AT 🇦🇹 | @Raydikalx | 9D9778'
       - 'AT 🇦🇹 | @Raydikalx | 2698AA'
       - 'AT 🇦🇹 | @Raydikalx | B71FA6'
       - 'AT 🇦🇹 | @Raydikalx | A00C01'
@@ -2682,7 +2734,7 @@ proxy-groups:
       - 'BR 🇧🇷 | @Raydikalx | 876A30'
       - 'BR 🇧🇷 | @Raydikalx | 512D7B'
       - 'BR 🇧🇷 | @Raydikalx | B2B6D3'
-      - 'SE 🇸🇪 | @Raydikalx | A4FE74'
+      - 'SE 🇸🇪 | @Raydikalx | 03C877'
       - 'TR 🇹🇷 | @Raydikalx | E34155'
       - 'DE 🇩🇪 | @Raydikalx | B10A60'
       - 'NL 🇳🇱 | @Raydikalx | 9ADBA7'
