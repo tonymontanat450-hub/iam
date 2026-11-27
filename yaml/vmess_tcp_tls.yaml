@@ -1,53 +1,5 @@
 proxies:
-  - name: 'CH 🇨🇭 | @Raydikalx | 6EFC55'
-    type: vmess
-    server: '186.190.215.4'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | DE1715'
-    type: vmess
-    server: '46.105.222.153'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | B2E9CA'
-    type: vmess
-    server: '46.105.222.156'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'Global 🌐 | @Raydikalx | 2D9F19'
-    type: vmess
-    server: 'leviko-se4660.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'BR 🇧🇷 | @Raydikalx | FAD30E'
+  - name: '🇧🇷 Brazil · MC0E'
     type: vmess
     server: '103.14.27.207'
     port: 1270
@@ -59,7 +11,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'BR 🇧🇷 | @Raydikalx | C6343E'
+  - name: '🇧🇷 Brazil · 8G5C'
     type: vmess
     server: '103.88.232.55'
     port: 1270
@@ -71,103 +23,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FI 🇫🇮 | @Raydikalx | 73E7AD'
-    type: vmess
-    server: '13.140.80.133'
-    port: 12250
-    uuid: '1f2f1d33-b861-4639-b483-9ebbab2f25fa'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | EB3982'
-    type: vmess
-    server: '13.140.83.196'
-    port: 35007
-    uuid: '0bef47fa-3632-424e-bcc3-899be654774f'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | EA10F4'
-    type: vmess
-    server: '13.140.84.253'
-    port: 47875
-    uuid: '9bf47e53-9859-425d-8f19-14750dc67591'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 3D59A0'
-    type: vmess
-    server: '13.140.84.253'
-    port: 47875
-    uuid: 'b8a91fc7-1465-4526-9ff1-6877a336f7ec'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 07E236'
-    type: vmess
-    server: '13.140.95.133'
-    port: 36806
-    uuid: '00fb6c04-9b8c-4176-919c-3224190a77fd'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FI 🇫🇮 | @Raydikalx | 71C46C'
-    type: vmess
-    server: '13.140.95.133'
-    port: 36806
-    uuid: '19c73baa-5897-4a99-94fb-8f33de4a8767'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 7B3BCB'
-    type: vmess
-    server: '130.185.123.32'
-    port: 8080
-    uuid: 'c6c03582-a4d2-4efe-9af1-83e730b11f9a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | F2383C'
-    type: vmess
-    server: '134.195.196.154'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SE 🇸🇪 | @Raydikalx | AC7919'
+  - name: '🇸🇪 Sweden · SY06'
     type: vmess
     server: '138.199.55.230'
     port: 1270
@@ -179,79 +35,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 976AFC'
-    type: vmess
-    server: '141.95.65.9'
-    port: 1234
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 5B2842'
-    type: vmess
-    server: '142.202.48.87'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | CF8DE1'
-    type: vmess
-    server: '142.202.51.42'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IT 🇮🇹 | @Raydikalx | FB6C85'
-    type: vmess
-    server: '149.22.91.20'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IT 🇮🇹 | @Raydikalx | 69687A'
-    type: vmess
-    server: '149.50.215.238'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IT 🇮🇹 | @Raydikalx | 493370'
-    type: vmess
-    server: '149.50.215.240'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 3E5525'
+  - name: '🇬🇧 United Kingdom · ACK7'
     type: vmess
     server: '149.7.16.228'
     port: 1270
@@ -263,7 +47,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | 102918'
+  - name: '🇸🇬 Singapore · VKJM'
     type: vmess
     server: '149.88.107.51'
     port: 1270
@@ -275,9 +59,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'SG 🇸🇬 | @Raydikalx | 0335AF'
+  - name: '🇺🇸 United States · 2576'
     type: vmess
-    server: '15.235.144.92'
+    server: '142.202.48.87'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -287,9 +71,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 4C87F9'
+  - name: '🇬🇧 United Kingdom · M0BR'
     type: vmess
-    server: '151.241.19.44'
+    server: '142.202.51.42'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -299,7 +83,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'AT 🇦🇹 | @Raydikalx | A7B16C'
+  - name: '🇦🇹 Austria · FP1D'
     type: vmess
     server: '154.47.19.225'
     port: 1270
@@ -311,33 +95,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'RU 🇷🇺 | @Raydikalx | F74F10'
+  - name: '🇸🇬 Singapore · 3HE8'
     type: vmess
-    server: '158.160.180.165'
-    port: 24212
-    uuid: 'c58c1205-b308-416f-8503-c04557abf93d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'RU 🇷🇺 | @Raydikalx | 9B9CD3'
-    type: vmess
-    server: '158.160.211.200'
-    port: 11556
-    uuid: 'e2733dbc-1bc6-4835-b90a-447806f9efcd'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 27326A'
-    type: vmess
-    server: '158.51.121.246'
+    server: '15.235.144.92'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -347,45 +107,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | B9C17B'
+  - name: '🇳🇱 Netherlands · 2BBG'
     type: vmess
-    server: '159.223.13.109'
-    port: 1234
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | BD9466'
-    type: vmess
-    server: '162.19.204.71'
-    port: 1234
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 9E8BBF'
-    type: vmess
-    server: '162.19.237.33'
-    port: 2053
-    uuid: 'db22f124-5247-4c1a-ab22-f99a43c31e12'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 4E2F45'
-    type: vmess
-    server: '162.19.82.57'
+    server: '151.241.19.44'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -395,115 +119,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 5B5B73'
-    type: vmess
-    server: '162.251.60.97'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A18BA0'
-    type: vmess
-    server: '162.251.61.46'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 8AB05A'
-    type: vmess
-    server: '162.251.62.31'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 5FB5BA'
-    type: vmess
-    server: '162.251.62.35'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A1A1BE'
-    type: vmess
-    server: '162.251.62.42'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 302E66'
-    type: vmess
-    server: '162.251.62.44'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 67B835'
-    type: vmess
-    server: '167.88.62.134'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 910430'
-    type: vmess
-    server: '167.88.62.51'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 4318A4'
-    type: vmess
-    server: '167.88.62.56'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 4362EF'
+  - name: '🇺🇸 United States · WKGJ'
     type: vmess
     server: '167.88.63.37'
     port: 1270
@@ -515,7 +131,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 71C30A'
+  - name: '🇺🇸 United States · 9VEB'
     type: vmess
     server: '167.88.63.39'
     port: 1270
@@ -527,7 +143,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 9BA42B'
+  - name: '🇺🇸 United States · A8KJ'
     type: vmess
     server: '167.88.63.47'
     port: 1270
@@ -539,7 +155,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | BE0F3D'
+  - name: '🇺🇸 United States · D5ZX'
     type: vmess
     server: '167.88.63.99'
     port: 1270
@@ -551,7 +167,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 9CAC3B'
+  - name: '🇺🇸 United States · KBF8'
     type: vmess
     server: '169.197.142.68'
     port: 1270
@@ -563,7 +179,91 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 4313EA'
+  - name: '🇫🇷 France · PT93'
+    type: vmess
+    server: '162.19.82.57'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · DZ54'
+    type: vmess
+    server: '162.251.60.97'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · FNDW'
+    type: vmess
+    server: '162.251.61.46'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · P3V0'
+    type: vmess
+    server: '162.251.62.42'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · D1F8'
+    type: vmess
+    server: '162.251.62.44'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · 8KR4'
+    type: vmess
+    server: '162.251.62.31'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · SXBC'
+    type: vmess
+    server: '162.251.62.35'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · N7VG'
     type: vmess
     server: '172.111.36.123'
     port: 1270
@@ -575,7 +275,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 9F6087'
+  - name: '🇺🇸 United States · 85AX'
     type: vmess
     server: '172.111.36.126'
     port: 1270
@@ -587,7 +287,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | D87097'
+  - name: '🇺🇸 United States · 3C55'
     type: vmess
     server: '172.111.36.137'
     port: 1270
@@ -599,7 +299,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | F20B38'
+  - name: '🇺🇸 United States · SXV7'
     type: vmess
     server: '172.111.36.147'
     port: 1270
@@ -611,7 +311,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 8186DD'
+  - name: '🇺🇸 United States · DFB8'
     type: vmess
     server: '172.111.36.244'
     port: 1270
@@ -623,7 +323,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | D00A4C'
+  - name: '🇺🇸 United States · TY7X'
     type: vmess
     server: '172.111.36.253'
     port: 1270
@@ -635,7 +335,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | F92BF6'
+  - name: '🇺🇸 United States · ZDJ5'
     type: vmess
     server: '172.111.38.246'
     port: 1270
@@ -647,7 +347,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 779CB4'
+  - name: '🇫🇷 France · Q539'
     type: vmess
     server: '172.99.189.239'
     port: 1270
@@ -659,115 +359,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 50DCFF'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1013
-    uuid: 'a5f72792-832a-46a0-b584-ed0eba9741e0'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 7D7B15'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '032523ee-63d9-4619-ad45-6fd8df518fd0'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 5F0CF8'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '358679fb-5d9f-4ac2-b0b2-47e6593a11d8'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | D3F2DA'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '4294d991-9369-468a-af1d-799e8e12bf74'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 187708'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '43531b5b-d94b-49ba-8a5e-7a6d4bb68459'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 4B1A4C'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '5af8c5cc-7317-4542-8908-81be05ea1d1b'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 9AA5D3'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: '7c1e62c4-b423-4d1e-a618-304e21a568fe'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 1ECA70'
-    type: vmess
-    server: '176.120.17.21'
-    port: 1015
-    uuid: 'ce194110-a895-4e54-9441-6e707ed8ab31'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 993046'
-    type: vmess
-    server: '178.104.118.69'
-    port: 2083
-    uuid: 'f1b9efe3-1d57-41ba-9b72-2a0e72aeda8d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | F6099A'
+  - name: '🇩🇪 Germany · YYX5'
     type: vmess
     server: '185.177.229.95'
     port: 1270
@@ -779,11 +371,11 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 44A187'
+  - name: '🇨🇭 Switzerland · 8PG1'
     type: vmess
-    server: '185.204.171.95'
-    port: 1819
-    uuid: 'e7e1947d-a875-4be5-bd53-79c5a1837116'
+    server: '186.190.215.4'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
     cipher: 'auto'
     udp: true
@@ -791,43 +383,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'IR 🇮🇷 | @Raydikalx | 659EB1'
-    type: vmess
-    server: '185.211.59.57'
-    port: 31234
-    uuid: 'e111908d-7a72-44d8-a12b-35de867dde72'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | A875EE'
-    type: vmess
-    server: '188.130.154.174'
-    port: 2083
-    uuid: '74c17cae-bf8b-4cda-8cdd-cf7983bf0a49'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | B4C0E0'
-    type: vmess
-    server: '188.130.154.174'
-    port: 2083
-    uuid: 'f6b808ed-0695-46af-9c00-812823225c4c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | EF603F'
+  - name: '🇳🇱 Netherlands · RCH1'
     type: vmess
     server: '188.166.81.135'
     port: 1270
@@ -839,31 +395,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 4D4536'
-    type: vmess
-    server: '192.220.57.15'
-    port: 443
-    uuid: 'e1588d14-0a16-483f-9d54-cf521541035b'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7DE6C1'
-    type: vmess
-    server: '192.227.247.27'
-    port: 443
-    uuid: '6a89a215-22bf-4bd7-9642-b95b2e09583a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 60BAE9'
+  - name: '🇩🇪 Germany · 313H'
     type: vmess
     server: '193.108.117.61'
     port: 1270
@@ -875,7 +407,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | 78DCAA'
+  - name: '🇩🇪 Germany · B75T'
     type: vmess
     server: '193.108.119.87'
     port: 1270
@@ -887,55 +419,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'IR 🇮🇷 | @Raydikalx | 715642'
-    type: vmess
-    server: '193.24.120.240'
-    port: 4412
-    uuid: '0d54483d-9d0f-47c6-b8fa-7f36a7e616ac'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 787533'
-    type: vmess
-    server: '193.24.120.240'
-    port: 4412
-    uuid: '13554232-b7f1-4391-bb1c-9c3f114f3525'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 5DF408'
-    type: vmess
-    server: '193.24.120.240'
-    port: 4412
-    uuid: '1e1c521d-0c54-44dc-adf3-251f880dad7a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7223EB'
-    type: vmess
-    server: '195.133.192.232'
-    port: 1233
-    uuid: '9b6419f8-8120-442e-a48c-6bf52aef0abf'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 554BAA'
+  - name: '🇳🇱 Netherlands · R2PM'
     type: vmess
     server: '209.38.42.238'
     port: 1270
@@ -947,43 +431,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'TR 🇹🇷 | @Raydikalx | 58C2D1'
-    type: vmess
-    server: '213.156.152.186'
-    port: 2083
-    uuid: 'b71ef38f-fcb4-402b-8ee3-dc6ed7a1c7a3'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 182864'
-    type: vmess
-    server: '213.156.152.212'
-    port: 2083
-    uuid: '449bc673-d997-45af-82a0-575ebd6cd152'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | D2997A'
-    type: vmess
-    server: '213.156.152.22'
-    port: 2083
-    uuid: 'c5ff0c78-b144-461d-910e-c1b8e8438726'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | C5EEAC'
+  - name: '🇺🇸 United States · E2Y3'
     type: vmess
     server: '216.106.182.225'
     port: 1270
@@ -995,19 +443,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'NL 🇳🇱 | @Raydikalx | 7A5C88'
-    type: vmess
-    server: '23.137.249.110'
-    port: 30011
-    uuid: 'a7aee69e-6e02-47d1-8172-701866bbb28c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 608EF5'
+  - name: '🇺🇸 United States · TBE4'
     type: vmess
     server: '23.150.152.65'
     port: 1270
@@ -1019,7 +455,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | E109AA'
+  - name: '🇫🇷 France · DM8G'
     type: vmess
     server: '23.162.152.127'
     port: 1270
@@ -1031,103 +467,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | EDD4C1'
-    type: vmess
-    server: '31.184.244.134'
-    port: 2083
-    uuid: '62ff829a-d100-4c06-a324-90bfe2f47a52'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 7EBDB3'
-    type: vmess
-    server: '31.184.244.163'
-    port: 2083
-    uuid: 'e4769292-66a6-45f7-be3a-1ebbdb7f8448'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | A4DDB9'
-    type: vmess
-    server: '31.184.244.18'
-    port: 2083
-    uuid: '368f828f-0f13-4d94-afed-41ced957b565'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | 74E716'
-    type: vmess
-    server: '31.56.27.50'
-    port: 26782
-    uuid: '6532f37a-3b31-4b0a-8370-ad50a7e79831'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | D039CE'
-    type: vmess
-    server: '31.56.27.50'
-    port: 26782
-    uuid: 'ab4e24ea-92ee-43eb-aadd-62cac4b2f6fe'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 6168D9'
-    type: vmess
-    server: '31.57.250.226'
-    port: 10382
-    uuid: '3afd8b28-f973-44f4-846f-664861b66a96'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 49274E'
-    type: vmess
-    server: '31.57.250.226'
-    port: 10382
-    uuid: '41715db8-1825-40fb-b6bc-707ef5efb8f7'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 8C3EF0'
-    type: vmess
-    server: '31.57.250.226'
-    port: 10382
-    uuid: 'a8021e7b-abb0-46bd-b862-2cda0211d500'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 943FAE'
+  - name: '🇺🇸 United States · 4GFR'
     type: vmess
     server: '38.107.226.5'
     port: 1270
@@ -1139,19 +479,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 882A7F'
-    type: vmess
-    server: '38.128.66.212'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 7DD8C0'
+  - name: '🇺🇸 United States · S754'
     type: vmess
     server: '38.128.66.241'
     port: 1270
@@ -1163,7 +491,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 674BDB'
+  - name: '🇺🇸 United States · K5HR'
     type: vmess
     server: '38.128.66.249'
     port: 1270
@@ -1175,7 +503,31 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | C0F243'
+  - name: '🇺🇸 United States · 8KRJ'
+    type: vmess
+    server: '38.128.66.212'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · EFJ2'
+    type: vmess
+    server: '38.143.66.142'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇺🇸 United States · YC2Q'
     type: vmess
     server: '38.22.17.197'
     port: 1270
@@ -1187,7 +539,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | E7611E'
+  - name: '🇺🇸 United States · TPND'
     type: vmess
     server: '38.22.17.251'
     port: 1270
@@ -1199,7 +551,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 00658F'
+  - name: '🇺🇸 United States · 73F8'
     type: vmess
     server: '38.22.17.64'
     port: 1270
@@ -1211,7 +563,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 35CF84'
+  - name: '🇺🇸 United States · AHTJ'
     type: vmess
     server: '38.22.17.89'
     port: 1270
@@ -1223,19 +575,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 377EA9'
-    type: vmess
-    server: '38.64.138.135'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 64D2F8'
+  - name: '🇺🇸 United States · 88WN'
     type: vmess
     server: '38.64.138.187'
     port: 1270
@@ -1247,9 +587,9 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | FF6E69'
+  - name: '🇺🇸 United States · P53S'
     type: vmess
-    server: '38.68.135.131'
+    server: '38.64.138.135'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
@@ -1259,31 +599,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | F4E423'
-    type: vmess
-    server: '38.91.100.16'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 565AA4'
-    type: vmess
-    server: '38.91.100.69'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 053C5B'
+  - name: '🇺🇸 United States · DHN6'
     type: vmess
     server: '38.91.106.182'
     port: 1270
@@ -1295,7 +611,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 3DE3C6'
+  - name: '🇺🇸 United States · 001M'
     type: vmess
     server: '38.91.107.188'
     port: 1270
@@ -1307,7 +623,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | D35007'
+  - name: '🇺🇸 United States · XEEA'
     type: vmess
     server: '38.91.107.57'
     port: 1270
@@ -1319,7 +635,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 38BA77'
+  - name: '🇺🇸 United States · N5EN'
     type: vmess
     server: '38.91.107.84'
     port: 1270
@@ -1331,46 +647,10 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'DE 🇩🇪 | @Raydikalx | FEF726'
+  - name: '🇺🇸 United States · E0M3'
     type: vmess
-    server: '45.131.153.149'
-    port: 443
-    uuid: 'f38e591d-d13a-4c30-9763-6be3ad65f3ec'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 4E2A76'
-    type: vmess
-    server: '45.131.153.56'
-    port: 443
-    uuid: 'f38e591d-d13a-4c30-9763-6be3ad65f3ec'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | 414A2E'
-    type: vmess
-    server: '45.38.198.25'
-    port: 23198
-    uuid: '2fe24d2f-5319-4276-bf92-b00122a7c1de'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | D31478'
-    type: vmess
-    server: '45.90.106.24'
-    port: 1234
+    server: '38.91.100.16'
+    port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
     alterId: 0
     cipher: 'auto'
@@ -1379,7 +659,31 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 8477A2'
+  - name: '🇺🇸 United States · 12P0'
+    type: vmess
+    server: '38.91.100.69'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇫🇷 France · 3QDQ'
+    type: vmess
+    server: '46.105.222.153'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇫🇷 France · 933G'
     type: vmess
     server: '46.105.222.155'
     port: 1270
@@ -1391,7 +695,19 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | 9DF5A5'
+  - name: '🇫🇷 France · GB35'
+    type: vmess
+    server: '46.105.222.156'
+    port: 1270
+    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
+    alterId: 0
+    cipher: 'auto'
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
+
+  - name: '🇫🇷 France · 1TTG'
     type: vmess
     server: '46.105.222.157'
     port: 1270
@@ -1403,79 +719,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'AE 🇦🇪 | @Raydikalx | B0ABA0'
-    type: vmess
-    server: '46.8.100.37'
-    port: 57920
-    uuid: '193528c4-26e4-43b1-baa9-d1b5b3a2fd3b'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'LV 🇱🇻 | @Raydikalx | 9B74DB'
-    type: vmess
-    server: '46.8.238.213'
-    port: 35861
-    uuid: 'cc36ca42-3b23-4b1b-bd67-e559eebce944'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 179450'
-    type: vmess
-    server: '5.252.26.23'
-    port: 2053
-    uuid: '0e00c2fb-fa06-4913-b3f8-8f71e805ad25'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 437316'
-    type: vmess
-    server: '5.252.26.58'
-    port: 2083
-    uuid: 'fd44e2cb-a4f4-48b8-b0ca-4fb0c328445f'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 4DE8B6'
-    type: vmess
-    server: '51.38.71.147'
-    port: 2053
-    uuid: '72f2cbe4-2874-45b7-b6aa-b93077c10c72'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 5C9940'
-    type: vmess
-    server: '51.89.41.22'
-    port: 1234
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SE 🇸🇪 | @Raydikalx | 98E112'
+  - name: '🇸🇪 Sweden · KPMV'
     type: vmess
     server: '62.93.166.184'
     port: 1270
@@ -1487,7 +731,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 4568F0'
+  - name: '🇺🇸 United States · T59W'
     type: vmess
     server: '66.163.125.51'
     port: 1270
@@ -1499,7 +743,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | F01C09'
+  - name: '🇺🇸 United States · 1M11'
     type: vmess
     server: '67.220.74.188'
     port: 1270
@@ -1511,7 +755,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | BA6C21'
+  - name: '🇺🇸 United States · MD4A'
     type: vmess
     server: '67.220.74.197'
     port: 1270
@@ -1523,7 +767,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 3CE65E'
+  - name: '🇺🇸 United States · HFB8'
     type: vmess
     server: '67.220.74.250'
     port: 1270
@@ -1535,7 +779,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'US 🇺🇸 | @Raydikalx | 6E08D1'
+  - name: '🇺🇸 United States · 3ZAT'
     type: vmess
     server: '67.220.95.49'
     port: 1270
@@ -1547,31 +791,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'SE 🇸🇪 | @Raydikalx | CD2072'
-    type: vmess
-    server: '77.221.141.134'
-    port: 41353
-    uuid: '655f6f7a-a288-39e1-9e82-b60cd4e81529'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 5FAA5F'
-    type: vmess
-    server: '79.133.126.233'
-    port: 8443
-    uuid: '6acc18fb-2cfb-40f8-a795-f6fea701cc44'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | EA3DE5'
+  - name: '🇫🇷 France · 8E8F'
     type: vmess
     server: '79.137.99.183'
     port: 1270
@@ -1583,199 +803,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'FR 🇫🇷 | @Raydikalx | FED4F2'
-    type: vmess
-    server: '80.93.217.193'
-    port: 2083
-    uuid: 'b4904296-5df5-430c-9849-22bef703174c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | B24858'
-    type: vmess
-    server: '82.198.246.250'
-    port: 10808
-    uuid: 'd13fc2f5-3e05-4795-81eb-44143a09e552'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | AB089A'
-    type: vmess
-    server: '82.198.246.37'
-    port: 23576
-    uuid: '48ff2b70-e180-582f-8866-d9a2edeed5f5'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | FE5DBB'
-    type: vmess
-    server: '85.234.65.189'
-    port: 2083
-    uuid: 'a63049c0-67ce-400c-beda-1403be8b8de8'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 97CA8C'
-    type: vmess
-    server: '85.9.206.125'
-    port: 443
-    uuid: '1713ee75-0a5c-404c-a759-a12a59de7df3'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | AA4CC5'
-    type: vmess
-    server: '85.9.206.125'
-    port: 443
-    uuid: '56a21af9-625f-47d0-b2fd-e289c27fabb4'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | FE08D8'
-    type: vmess
-    server: '87.120.106.125'
-    port: 2083
-    uuid: '9081f4d6-7271-49ba-bb9e-b4bb6dc0bb1e'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | D86DCF'
-    type: vmess
-    server: '87.120.106.130'
-    port: 2083
-    uuid: '6fab89df-d5c3-4d73-8df5-897ca352bfe8'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 13224B'
-    type: vmess
-    server: '87.120.106.133'
-    port: 33445
-    uuid: 'd9fbf9a7-1f88-428b-bb3e-3074681e44c9'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | B06001'
-    type: vmess
-    server: '87.120.106.155'
-    port: 2053
-    uuid: '43244398-a7f4-49c9-8c6e-5cff05c53260'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | D44C25'
-    type: vmess
-    server: '87.120.106.214'
-    port: 2083
-    uuid: 'c729c83f-b1ca-4d36-90be-66a1e250b37b'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 21490D'
-    type: vmess
-    server: '87.120.106.63'
-    port: 2083
-    uuid: 'c8f010e8-413f-4661-a870-99e3153cbe9f'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 0283D1'
-    type: vmess
-    server: '89.39.70.34'
-    port: 2083
-    uuid: '891da52f-e37d-4251-b96a-45441884559d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 1D4560'
-    type: vmess
-    server: '91.107.149.64'
-    port: 2083
-    uuid: '90a8b839-feea-43a9-9554-9b4ad5ead3e2'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 292968'
-    type: vmess
-    server: '91.107.154.192'
-    port: 2083
-    uuid: '50788032-0e47-4c3d-97e7-513563f526b8'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 4BF341'
-    type: vmess
-    server: '91.107.253.58'
-    port: 2083
-    uuid: '43b1a9c1-00b8-4b0d-b77d-c52a8fb38e65'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 246A8D'
+  - name: '🇫🇷 France · 3WX9'
     type: vmess
     server: '91.134.35.72'
     port: 1270
@@ -1787,247 +815,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'TR 🇹🇷 | @Raydikalx | B9BF01'
-    type: vmess
-    server: '91.228.227.175'
-    port: 62984
-    uuid: '62d79906-0850-4a95-aa23-6c827211fe6e'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 21A83E'
-    type: vmess
-    server: '93.114.98.127'
-    port: 2083
-    uuid: '6c662a7d-2bb5-41d0-9422-cf692b84ae60'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 850E96'
-    type: vmess
-    server: '93.114.98.12'
-    port: 2083
-    uuid: '69e728f3-34d2-466a-aa57-d2e9864b624c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 8C5AA3'
-    type: vmess
-    server: '93.114.98.13'
-    port: 2083
-    uuid: '8fba314e-c821-4c82-bdb4-ad8c2ae9d9e7'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | CC4D0A'
-    type: vmess
-    server: '93.114.98.221'
-    port: 2083
-    uuid: '22453764-c126-4f39-ba05-f4972a33f589'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 627DF3'
-    type: vmess
-    server: '93.114.98.221'
-    port: 2083
-    uuid: '552ca1e2-d1d4-4d9d-b0ea-9fabd287ad14'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | C45F84'
-    type: vmess
-    server: '93.114.98.221'
-    port: 2083
-    uuid: '6a732af1-21d7-4314-ba02-7bacdb7c0003'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 8F87C0'
-    type: vmess
-    server: '93.114.98.23'
-    port: 2083
-    uuid: 'f5f293ed-e177-4c91-84df-ccf4c9a3e262'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 733208'
-    type: vmess
-    server: '93.114.98.245'
-    port: 2083
-    uuid: '686bc8b6-0e9e-47c2-a158-57a0bcfd8ed8'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 735FED'
-    type: vmess
-    server: '93.114.98.79'
-    port: 2083
-    uuid: '6a382839-d4d4-4e5a-a061-328b74ee9ada'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 1F5480'
-    type: vmess
-    server: '93.114.98.95'
-    port: 4433
-    uuid: '5dc9999b-9810-4704-ab10-5d1691daeab6'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | A3C311'
-    type: vmess
-    server: '94.184.33.86'
-    port: 2104
-    uuid: 'f59b99d0-8367-4aac-b2c5-11a95db9c477'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | 33CD3B'
-    type: vmess
-    server: '95.182.96.13'
-    port: 57788
-    uuid: 'b2eaad2b-ccce-4cf0-86e0-0571ca7d0dbd'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | AC0B82'
-    type: vmess
-    server: 'al1.vipsite2.top'
-    port: 2052
-    uuid: 'd7ce743c-76ad-4158-b2f0-1c59c0393a12'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 3528E8'
-    type: vmess
-    server: 'ca-v2ray.ipracevpn.com'
-    port: 443
-    uuid: '1b3d460b-91cc-46f9-909d-73823128ee0a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 05F8F5'
-    type: vmess
-    server: 'ca.connfull.org'
-    port: 2053
-    uuid: '3aea687d-c6c0-4609-8719-ed8a5614fc47'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | C631E9'
-    type: vmess
-    server: 'de-nin.neninet.ir'
-    port: 31074
-    uuid: '475e7934-442f-40c5-972b-12f6e0a5a05d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | C631A4'
-    type: vmess
-    server: 'de.connfull.org'
-    port: 2053
-    uuid: '64f18876-ce22-4172-a596-d8c1be125e78'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | D92921'
-    type: vmess
-    server: 'de.connfull.org'
-    port: 2053
-    uuid: '83694535-1784-4647-a9b4-067c48903263'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | CE7DF4'
-    type: vmess
-    server: 'de.connfull.org'
-    port: 2053
-    uuid: 'f2ff4ae6-cf2d-4d15-9f0d-b6d9980df9aa'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | E6F5E7'
+  - name: '🇩🇪 Germany · K2PB'
     type: vmess
     server: 'de.zhou-yufan.com'
     port: 443
@@ -2039,187 +827,7 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'Global 🌐 | @Raydikalx | 133EF2'
-    type: vmess
-    server: 'de.zhuu-yufan.com'
-    port: 443
-    uuid: 'f38e591d-d13a-4c30-9763-6be3ad65f3ec'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | F91CEF'
-    type: vmess
-    server: 'de2.lion-lion.ir'
-    port: 8853
-    uuid: '31477bd9-a29c-490c-b29d-69328ec307f1'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 933FA3'
-    type: vmess
-    server: 'dns2.mobilenovin12.ir'
-    port: 63327
-    uuid: '58b4c94e-ae94-4950-b40a-abaae1e53a8a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | F0A797'
-    type: vmess
-    server: 'fr-nin.neninet.ir'
-    port: 18875
-    uuid: '13a8c5dc-6ec6-459d-a89e-d3a664e255ea'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 07528F'
-    type: vmess
-    server: 'fr-nin.neninet.ir'
-    port: 18875
-    uuid: '475e7934-442f-40c5-972b-12f6e0a5a05d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'FR 🇫🇷 | @Raydikalx | FC3EC2'
-    type: vmess
-    server: 'fr.connfull.org'
-    port: 2053
-    uuid: '500e29aa-c40b-43e1-905c-e6e7ac4a5b83'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | 3314AF'
-    type: vmess
-    server: 'free.diginoisb.ir'
-    port: 2096
-    uuid: 'a3a02846-fc3d-461a-8cf5-69bd9fa958db'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 8886C7'
-    type: vmess
-    server: 'germany.hetzner.sldbflapxkw.vpxpp.ir'
-    port: 8080
-    uuid: '8ffcf2e4-6e64-4647-b8ce-473b4287cff5'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'CA 🇨🇦 | @Raydikalx | 582641'
-    type: vmess
-    server: 'guanwang.awsno.com'
-    port: 443
-    uuid: '6a89a215-22bf-4bd7-9642-b95b2e09583a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SE 🇸🇪 | @Raydikalx | 0F820A'
-    type: vmess
-    server: 'hamedhp790.dpdns.org'
-    port: 2096
-    uuid: '753c6310-c4f9-42ab-a675-a3f0c44b8f4a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 821B75'
-    type: vmess
-    server: 'hhz4qxs-g04.jp03-j7-vm0.entry.fr0528.art'
-    port: 21584
-    uuid: 'd687b024-a5cf-3433-8d06-1c99e2e28821'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 40018C'
-    type: vmess
-    server: 'ho.duravexv.ir'
-    port: 10380
-    uuid: 'b1b0fef2-b2fc-4265-9512-524c34d3700c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | 2A81EA'
-    type: vmess
-    server: 'ir2.fastraytel9880.ir'
-    port: 26557
-    uuid: 'a3eccc08-c420-49d3-a825-f9b2fe75f7f5'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | C110DF'
-    type: vmess
-    server: 'ir2.fastraytel9880.ir'
-    port: 26557
-    uuid: 'bfecf901-5fa6-4bf4-b0b5-9bda7cd41384'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 3812CF'
-    type: vmess
-    server: 'jpaws.ccwink.photos'
-    port: 53225
-    uuid: 'a157bb84-dd84-4ad8-86b0-0656bc76e4d1'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | 9D9778'
+  - name: '🇦🇹 Austria · WR3Q'
     type: vmess
     server: 'leviko-at0752.shopingggg.ir'
     port: 1270
@@ -2231,311 +839,11 @@ proxies:
     skip-cert-verify: true
     servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
 
-  - name: 'AT 🇦🇹 | @Raydikalx | 2698AA'
-    type: vmess
-    server: 'leviko-at1137.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | B71FA6'
-    type: vmess
-    server: 'leviko-at3021.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | A00C01'
-    type: vmess
-    server: 'leviko-at5072.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | C1C1F9'
-    type: vmess
-    server: 'leviko-at6946.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | 2D9BCD'
-    type: vmess
-    server: 'leviko-at8016.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | 2FA8C6'
-    type: vmess
-    server: 'leviko-at9167.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'AT 🇦🇹 | @Raydikalx | 54107D'
-    type: vmess
-    server: 'leviko-at9305.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'BR 🇧🇷 | @Raydikalx | 876A30'
-    type: vmess
-    server: 'leviko-br0153.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'BR 🇧🇷 | @Raydikalx | 512D7B'
-    type: vmess
-    server: 'leviko-br6130.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'BR 🇧🇷 | @Raydikalx | B2B6D3'
-    type: vmess
-    server: 'leviko-br6188.shopingggg.ir'
-    port: 1270
-    uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'SE 🇸🇪 | @Raydikalx | 03C877'
+  - name: '🇸🇪 Sweden · 1AZT'
     type: vmess
     server: 'leviko-se3307.shopingggg.ir'
     port: 1270
     uuid: '5c040f1d-45db-43bd-8d46-e4950e433735'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'TR 🇹🇷 | @Raydikalx | E34155'
-    type: vmess
-    server: 'linux.makuturkonline.ir'
-    port: 2087
-    uuid: 'e8c4193b-ad9b-4536-bc16-dc5ea6c49b48'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | B10A60'
-    type: vmess
-    server: 'mhzedir.qzz.io'
-    port: 4584
-    uuid: '7f84b1ef-b804-4d50-9079-17183bf46172'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'NL 🇳🇱 | @Raydikalx | 9ADBA7'
-    type: vmess
-    server: 'Nl.lion-lion.ir'
-    port: 8243
-    uuid: '9f0d2eb1-1b97-4b6a-8f49-a52186508171'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 0FCB5E'
-    type: vmess
-    server: 'node-uk.connectsuite.org'
-    port: 2053
-    uuid: '72f2cbe4-2874-45b7-b6aa-b93077c10c72'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 7652DE'
-    type: vmess
-    server: 'ou44bxs-g04.jp06-jz-vm0.entry.fr0528.art'
-    port: 28786
-    uuid: 'd687b024-a5cf-3433-8d06-1c99e2e28821'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | 825375'
-    type: vmess
-    server: 'p05.rghvf.sbs'
-    port: 12330
-    uuid: '68adffea-4146-4f92-b2f9-955cd634c274'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'US 🇺🇸 | @Raydikalx | A96BDD'
-    type: vmess
-    server: 'p05.rghvf.sbs'
-    port: 1233
-    uuid: '9b6419f8-8120-442e-a48c-6bf52aef0abf'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | EF09A6'
-    type: vmess
-    server: 'qdiysly-g05.jp06-jz-vm0.entry.fr0528.art'
-    port: 28787
-    uuid: '2ce005b4-e57a-3670-be88-60eeeb078bb7'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'DE 🇩🇪 | @Raydikalx | 5FD42D'
-    type: vmess
-    server: 'riga-nin.neninet.ir'
-    port: 54978
-    uuid: '475e7934-442f-40c5-972b-12f6e0a5a05d'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'IR 🇮🇷 | @Raydikalx | E49CFB'
-    type: vmess
-    server: 's3.megaping.casa'
-    port: 2082
-    uuid: '13188d38-4aa1-4071-86b9-a246193e5d69'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'Global 🌐 | @Raydikalx | CA665C'
-    type: vmess
-    server: 'tw-tb-b.zc20200426.club'
-    port: 39998
-    uuid: '67c50f6a-816d-3555-89b4-19dd29608f8b'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | D632BF'
-    type: vmess
-    server: 'uk.connfull.org'
-    port: 2053
-    uuid: '262ce956-68fd-48af-918e-bd829819030c'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 0177E7'
-    type: vmess
-    server: 'uk.connfull.org'
-    port: 2053
-    uuid: 'd8d43cb7-2c08-4e08-969b-a0766a34d59a'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'GB 🇬🇧 | @Raydikalx | 25FC95'
-    type: vmess
-    server: 'uk.connfull.org'
-    port: 2053
-    uuid: 'ed2050a6-9c48-48ae-9e1c-16ca06d2fa17'
-    alterId: 0
-    cipher: 'auto'
-    udp: true
-    tls: true
-    skip-cert-verify: true
-    servername: 'crazygames.ro,cloudflare.com,cloudflareinsights.com,instagram.com,gstatic.com,google.com,cloudflareclient.com,googleapis.com,appsflyer.com'
-
-  - name: 'JP 🇯🇵 | @Raydikalx | 845BD3'
-    type: vmess
-    server: 'wo6ah0f-g06.jp06-jz-vm0.entry.fr0528.art'
-    port: 28788
-    uuid: 'a3b5a6fc-0b92-3b66-beda-eb2a49361a21'
     alterId: 0
     cipher: 'auto'
     udp: true
@@ -2551,218 +859,77 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - 'CH 🇨🇭 | @Raydikalx | 6EFC55'
-      - 'FR 🇫🇷 | @Raydikalx | DE1715'
-      - 'FR 🇫🇷 | @Raydikalx | B2E9CA'
-      - 'Global 🌐 | @Raydikalx | 2D9F19'
-      - 'BR 🇧🇷 | @Raydikalx | FAD30E'
-      - 'BR 🇧🇷 | @Raydikalx | C6343E'
-      - 'FI 🇫🇮 | @Raydikalx | 73E7AD'
-      - 'FI 🇫🇮 | @Raydikalx | EB3982'
-      - 'FI 🇫🇮 | @Raydikalx | EA10F4'
-      - 'FI 🇫🇮 | @Raydikalx | 3D59A0'
-      - 'FI 🇫🇮 | @Raydikalx | 07E236'
-      - 'FI 🇫🇮 | @Raydikalx | 71C46C'
-      - 'TR 🇹🇷 | @Raydikalx | 7B3BCB'
-      - 'CA 🇨🇦 | @Raydikalx | F2383C'
-      - 'SE 🇸🇪 | @Raydikalx | AC7919'
-      - 'DE 🇩🇪 | @Raydikalx | 976AFC'
-      - 'US 🇺🇸 | @Raydikalx | 5B2842'
-      - 'GB 🇬🇧 | @Raydikalx | CF8DE1'
-      - 'IT 🇮🇹 | @Raydikalx | FB6C85'
-      - 'IT 🇮🇹 | @Raydikalx | 69687A'
-      - 'IT 🇮🇹 | @Raydikalx | 493370'
-      - 'GB 🇬🇧 | @Raydikalx | 3E5525'
-      - 'SG 🇸🇬 | @Raydikalx | 102918'
-      - 'SG 🇸🇬 | @Raydikalx | 0335AF'
-      - 'NL 🇳🇱 | @Raydikalx | 4C87F9'
-      - 'AT 🇦🇹 | @Raydikalx | A7B16C'
-      - 'RU 🇷🇺 | @Raydikalx | F74F10'
-      - 'RU 🇷🇺 | @Raydikalx | 9B9CD3'
-      - 'CA 🇨🇦 | @Raydikalx | 27326A'
-      - 'NL 🇳🇱 | @Raydikalx | B9C17B'
-      - 'DE 🇩🇪 | @Raydikalx | BD9466'
-      - 'DE 🇩🇪 | @Raydikalx | 9E8BBF'
-      - 'FR 🇫🇷 | @Raydikalx | 4E2F45'
-      - 'US 🇺🇸 | @Raydikalx | 5B5B73'
-      - 'US 🇺🇸 | @Raydikalx | A18BA0'
-      - 'US 🇺🇸 | @Raydikalx | 8AB05A'
-      - 'US 🇺🇸 | @Raydikalx | 5FB5BA'
-      - 'US 🇺🇸 | @Raydikalx | A1A1BE'
-      - 'US 🇺🇸 | @Raydikalx | 302E66'
-      - 'US 🇺🇸 | @Raydikalx | 67B835'
-      - 'US 🇺🇸 | @Raydikalx | 910430'
-      - 'US 🇺🇸 | @Raydikalx | 4318A4'
-      - 'US 🇺🇸 | @Raydikalx | 4362EF'
-      - 'US 🇺🇸 | @Raydikalx | 71C30A'
-      - 'US 🇺🇸 | @Raydikalx | 9BA42B'
-      - 'US 🇺🇸 | @Raydikalx | BE0F3D'
-      - 'US 🇺🇸 | @Raydikalx | 9CAC3B'
-      - 'US 🇺🇸 | @Raydikalx | 4313EA'
-      - 'US 🇺🇸 | @Raydikalx | 9F6087'
-      - 'US 🇺🇸 | @Raydikalx | D87097'
-      - 'US 🇺🇸 | @Raydikalx | F20B38'
-      - 'US 🇺🇸 | @Raydikalx | 8186DD'
-      - 'US 🇺🇸 | @Raydikalx | D00A4C'
-      - 'US 🇺🇸 | @Raydikalx | F92BF6'
-      - 'FR 🇫🇷 | @Raydikalx | 779CB4'
-      - 'NL 🇳🇱 | @Raydikalx | 50DCFF'
-      - 'NL 🇳🇱 | @Raydikalx | 7D7B15'
-      - 'NL 🇳🇱 | @Raydikalx | 5F0CF8'
-      - 'NL 🇳🇱 | @Raydikalx | D3F2DA'
-      - 'NL 🇳🇱 | @Raydikalx | 187708'
-      - 'NL 🇳🇱 | @Raydikalx | 4B1A4C'
-      - 'NL 🇳🇱 | @Raydikalx | 9AA5D3'
-      - 'NL 🇳🇱 | @Raydikalx | 1ECA70'
-      - 'DE 🇩🇪 | @Raydikalx | 993046'
-      - 'DE 🇩🇪 | @Raydikalx | F6099A'
-      - 'DE 🇩🇪 | @Raydikalx | 44A187'
-      - 'IR 🇮🇷 | @Raydikalx | 659EB1'
-      - 'LV 🇱🇻 | @Raydikalx | A875EE'
-      - 'LV 🇱🇻 | @Raydikalx | B4C0E0'
-      - 'NL 🇳🇱 | @Raydikalx | EF603F'
-      - 'US 🇺🇸 | @Raydikalx | 4D4536'
-      - 'US 🇺🇸 | @Raydikalx | 7DE6C1'
-      - 'DE 🇩🇪 | @Raydikalx | 60BAE9'
-      - 'DE 🇩🇪 | @Raydikalx | 78DCAA'
-      - 'IR 🇮🇷 | @Raydikalx | 715642'
-      - 'IR 🇮🇷 | @Raydikalx | 787533'
-      - 'IR 🇮🇷 | @Raydikalx | 5DF408'
-      - 'US 🇺🇸 | @Raydikalx | 7223EB'
-      - 'NL 🇳🇱 | @Raydikalx | 554BAA'
-      - 'TR 🇹🇷 | @Raydikalx | 58C2D1'
-      - 'TR 🇹🇷 | @Raydikalx | 182864'
-      - 'TR 🇹🇷 | @Raydikalx | D2997A'
-      - 'US 🇺🇸 | @Raydikalx | C5EEAC'
-      - 'NL 🇳🇱 | @Raydikalx | 7A5C88'
-      - 'US 🇺🇸 | @Raydikalx | 608EF5'
-      - 'FR 🇫🇷 | @Raydikalx | E109AA'
-      - 'DE 🇩🇪 | @Raydikalx | EDD4C1'
-      - 'DE 🇩🇪 | @Raydikalx | 7EBDB3'
-      - 'DE 🇩🇪 | @Raydikalx | A4DDB9'
-      - 'LV 🇱🇻 | @Raydikalx | 74E716'
-      - 'LV 🇱🇻 | @Raydikalx | D039CE'
-      - 'NL 🇳🇱 | @Raydikalx | 6168D9'
-      - 'NL 🇳🇱 | @Raydikalx | 49274E'
-      - 'NL 🇳🇱 | @Raydikalx | 8C3EF0'
-      - 'US 🇺🇸 | @Raydikalx | 943FAE'
-      - 'US 🇺🇸 | @Raydikalx | 882A7F'
-      - 'US 🇺🇸 | @Raydikalx | 7DD8C0'
-      - 'US 🇺🇸 | @Raydikalx | 674BDB'
-      - 'US 🇺🇸 | @Raydikalx | C0F243'
-      - 'US 🇺🇸 | @Raydikalx | E7611E'
-      - 'US 🇺🇸 | @Raydikalx | 00658F'
-      - 'US 🇺🇸 | @Raydikalx | 35CF84'
-      - 'US 🇺🇸 | @Raydikalx | 377EA9'
-      - 'US 🇺🇸 | @Raydikalx | 64D2F8'
-      - 'US 🇺🇸 | @Raydikalx | FF6E69'
-      - 'US 🇺🇸 | @Raydikalx | F4E423'
-      - 'US 🇺🇸 | @Raydikalx | 565AA4'
-      - 'US 🇺🇸 | @Raydikalx | 053C5B'
-      - 'US 🇺🇸 | @Raydikalx | 3DE3C6'
-      - 'US 🇺🇸 | @Raydikalx | D35007'
-      - 'US 🇺🇸 | @Raydikalx | 38BA77'
-      - 'DE 🇩🇪 | @Raydikalx | FEF726'
-      - 'DE 🇩🇪 | @Raydikalx | 4E2A76'
-      - 'LV 🇱🇻 | @Raydikalx | 414A2E'
-      - 'NL 🇳🇱 | @Raydikalx | D31478'
-      - 'FR 🇫🇷 | @Raydikalx | 8477A2'
-      - 'FR 🇫🇷 | @Raydikalx | 9DF5A5'
-      - 'AE 🇦🇪 | @Raydikalx | B0ABA0'
-      - 'LV 🇱🇻 | @Raydikalx | 9B74DB'
-      - 'DE 🇩🇪 | @Raydikalx | 179450'
-      - 'DE 🇩🇪 | @Raydikalx | 437316'
-      - 'GB 🇬🇧 | @Raydikalx | 4DE8B6'
-      - 'DE 🇩🇪 | @Raydikalx | 5C9940'
-      - 'SE 🇸🇪 | @Raydikalx | 98E112'
-      - 'US 🇺🇸 | @Raydikalx | 4568F0'
-      - 'US 🇺🇸 | @Raydikalx | F01C09'
-      - 'US 🇺🇸 | @Raydikalx | BA6C21'
-      - 'US 🇺🇸 | @Raydikalx | 3CE65E'
-      - 'US 🇺🇸 | @Raydikalx | 6E08D1'
-      - 'SE 🇸🇪 | @Raydikalx | CD2072'
-      - 'NL 🇳🇱 | @Raydikalx | 5FAA5F'
-      - 'FR 🇫🇷 | @Raydikalx | EA3DE5'
-      - 'FR 🇫🇷 | @Raydikalx | FED4F2'
-      - 'US 🇺🇸 | @Raydikalx | B24858'
-      - 'US 🇺🇸 | @Raydikalx | AB089A'
-      - 'NL 🇳🇱 | @Raydikalx | FE5DBB'
-      - 'DE 🇩🇪 | @Raydikalx | 97CA8C'
-      - 'DE 🇩🇪 | @Raydikalx | AA4CC5'
-      - 'TR 🇹🇷 | @Raydikalx | FE08D8'
-      - 'TR 🇹🇷 | @Raydikalx | D86DCF'
-      - 'TR 🇹🇷 | @Raydikalx | 13224B'
-      - 'TR 🇹🇷 | @Raydikalx | B06001'
-      - 'TR 🇹🇷 | @Raydikalx | D44C25'
-      - 'TR 🇹🇷 | @Raydikalx | 21490D'
-      - 'NL 🇳🇱 | @Raydikalx | 0283D1'
-      - 'DE 🇩🇪 | @Raydikalx | 1D4560'
-      - 'DE 🇩🇪 | @Raydikalx | 292968'
-      - 'DE 🇩🇪 | @Raydikalx | 4BF341'
-      - 'FR 🇫🇷 | @Raydikalx | 246A8D'
-      - 'TR 🇹🇷 | @Raydikalx | B9BF01'
-      - 'TR 🇹🇷 | @Raydikalx | 21A83E'
-      - 'TR 🇹🇷 | @Raydikalx | 850E96'
-      - 'TR 🇹🇷 | @Raydikalx | 8C5AA3'
-      - 'TR 🇹🇷 | @Raydikalx | CC4D0A'
-      - 'TR 🇹🇷 | @Raydikalx | 627DF3'
-      - 'TR 🇹🇷 | @Raydikalx | C45F84'
-      - 'TR 🇹🇷 | @Raydikalx | 8F87C0'
-      - 'TR 🇹🇷 | @Raydikalx | 733208'
-      - 'TR 🇹🇷 | @Raydikalx | 735FED'
-      - 'TR 🇹🇷 | @Raydikalx | 1F5480'
-      - 'IR 🇮🇷 | @Raydikalx | A3C311'
-      - 'FR 🇫🇷 | @Raydikalx | 33CD3B'
-      - 'IR 🇮🇷 | @Raydikalx | AC0B82'
-      - 'CA 🇨🇦 | @Raydikalx | 3528E8'
-      - 'CA 🇨🇦 | @Raydikalx | 05F8F5'
-      - 'DE 🇩🇪 | @Raydikalx | C631E9'
-      - 'DE 🇩🇪 | @Raydikalx | C631A4'
-      - 'DE 🇩🇪 | @Raydikalx | D92921'
-      - 'DE 🇩🇪 | @Raydikalx | CE7DF4'
-      - 'DE 🇩🇪 | @Raydikalx | E6F5E7'
-      - 'Global 🌐 | @Raydikalx | 133EF2'
-      - 'DE 🇩🇪 | @Raydikalx | F91CEF'
-      - 'IR 🇮🇷 | @Raydikalx | 933FA3'
-      - 'DE 🇩🇪 | @Raydikalx | F0A797'
-      - 'DE 🇩🇪 | @Raydikalx | 07528F'
-      - 'FR 🇫🇷 | @Raydikalx | FC3EC2'
-      - 'TR 🇹🇷 | @Raydikalx | 3314AF'
-      - 'DE 🇩🇪 | @Raydikalx | 8886C7'
-      - 'CA 🇨🇦 | @Raydikalx | 582641'
-      - 'SE 🇸🇪 | @Raydikalx | 0F820A'
-      - 'JP 🇯🇵 | @Raydikalx | 821B75'
-      - 'NL 🇳🇱 | @Raydikalx | 40018C'
-      - 'IR 🇮🇷 | @Raydikalx | 2A81EA'
-      - 'IR 🇮🇷 | @Raydikalx | C110DF'
-      - 'JP 🇯🇵 | @Raydikalx | 3812CF'
-      - 'AT 🇦🇹 | @Raydikalx | 9D9778'
-      - 'AT 🇦🇹 | @Raydikalx | 2698AA'
-      - 'AT 🇦🇹 | @Raydikalx | B71FA6'
-      - 'AT 🇦🇹 | @Raydikalx | A00C01'
-      - 'AT 🇦🇹 | @Raydikalx | C1C1F9'
-      - 'AT 🇦🇹 | @Raydikalx | 2D9BCD'
-      - 'AT 🇦🇹 | @Raydikalx | 2FA8C6'
-      - 'AT 🇦🇹 | @Raydikalx | 54107D'
-      - 'BR 🇧🇷 | @Raydikalx | 876A30'
-      - 'BR 🇧🇷 | @Raydikalx | 512D7B'
-      - 'BR 🇧🇷 | @Raydikalx | B2B6D3'
-      - 'SE 🇸🇪 | @Raydikalx | 03C877'
-      - 'TR 🇹🇷 | @Raydikalx | E34155'
-      - 'DE 🇩🇪 | @Raydikalx | B10A60'
-      - 'NL 🇳🇱 | @Raydikalx | 9ADBA7'
-      - 'GB 🇬🇧 | @Raydikalx | 0FCB5E'
-      - 'JP 🇯🇵 | @Raydikalx | 7652DE'
-      - 'US 🇺🇸 | @Raydikalx | 825375'
-      - 'US 🇺🇸 | @Raydikalx | A96BDD'
-      - 'JP 🇯🇵 | @Raydikalx | EF09A6'
-      - 'DE 🇩🇪 | @Raydikalx | 5FD42D'
-      - 'IR 🇮🇷 | @Raydikalx | E49CFB'
-      - 'Global 🌐 | @Raydikalx | CA665C'
-      - 'GB 🇬🇧 | @Raydikalx | D632BF'
-      - 'GB 🇬🇧 | @Raydikalx | 0177E7'
-      - 'GB 🇬🇧 | @Raydikalx | 25FC95'
-      - 'JP 🇯🇵 | @Raydikalx | 845BD3'
+      - '🇧🇷 Brazil · MC0E'
+      - '🇧🇷 Brazil · 8G5C'
+      - '🇸🇪 Sweden · SY06'
+      - '🇬🇧 United Kingdom · ACK7'
+      - '🇸🇬 Singapore · VKJM'
+      - '🇺🇸 United States · 2576'
+      - '🇬🇧 United Kingdom · M0BR'
+      - '🇦🇹 Austria · FP1D'
+      - '🇸🇬 Singapore · 3HE8'
+      - '🇳🇱 Netherlands · 2BBG'
+      - '🇺🇸 United States · WKGJ'
+      - '🇺🇸 United States · 9VEB'
+      - '🇺🇸 United States · A8KJ'
+      - '🇺🇸 United States · D5ZX'
+      - '🇺🇸 United States · KBF8'
+      - '🇫🇷 France · PT93'
+      - '🇺🇸 United States · DZ54'
+      - '🇺🇸 United States · FNDW'
+      - '🇺🇸 United States · P3V0'
+      - '🇺🇸 United States · D1F8'
+      - '🇺🇸 United States · 8KR4'
+      - '🇺🇸 United States · SXBC'
+      - '🇺🇸 United States · N7VG'
+      - '🇺🇸 United States · 85AX'
+      - '🇺🇸 United States · 3C55'
+      - '🇺🇸 United States · SXV7'
+      - '🇺🇸 United States · DFB8'
+      - '🇺🇸 United States · TY7X'
+      - '🇺🇸 United States · ZDJ5'
+      - '🇫🇷 France · Q539'
+      - '🇩🇪 Germany · YYX5'
+      - '🇨🇭 Switzerland · 8PG1'
+      - '🇳🇱 Netherlands · RCH1'
+      - '🇩🇪 Germany · 313H'
+      - '🇩🇪 Germany · B75T'
+      - '🇳🇱 Netherlands · R2PM'
+      - '🇺🇸 United States · E2Y3'
+      - '🇺🇸 United States · TBE4'
+      - '🇫🇷 France · DM8G'
+      - '🇺🇸 United States · 4GFR'
+      - '🇺🇸 United States · S754'
+      - '🇺🇸 United States · K5HR'
+      - '🇺🇸 United States · 8KRJ'
+      - '🇺🇸 United States · EFJ2'
+      - '🇺🇸 United States · YC2Q'
+      - '🇺🇸 United States · TPND'
+      - '🇺🇸 United States · 73F8'
+      - '🇺🇸 United States · AHTJ'
+      - '🇺🇸 United States · 88WN'
+      - '🇺🇸 United States · P53S'
+      - '🇺🇸 United States · DHN6'
+      - '🇺🇸 United States · 001M'
+      - '🇺🇸 United States · XEEA'
+      - '🇺🇸 United States · N5EN'
+      - '🇺🇸 United States · E0M3'
+      - '🇺🇸 United States · 12P0'
+      - '🇫🇷 France · 3QDQ'
+      - '🇫🇷 France · 933G'
+      - '🇫🇷 France · GB35'
+      - '🇫🇷 France · 1TTG'
+      - '🇸🇪 Sweden · KPMV'
+      - '🇺🇸 United States · T59W'
+      - '🇺🇸 United States · 1M11'
+      - '🇺🇸 United States · MD4A'
+      - '🇺🇸 United States · HFB8'
+      - '🇺🇸 United States · 3ZAT'
+      - '🇫🇷 France · 8E8F'
+      - '🇫🇷 France · 3WX9'
+      - '🇩🇪 Germany · K2PB'
+      - '🇦🇹 Austria · WR3Q'
+      - '🇸🇪 Sweden · 1AZT'
 
 rules:
   - MATCH,Auto-Select
